@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 17,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2uMTmPEFafKfKeobvdx5EE"
+    },
+    "href": "https://api.spotify.com/v1/albums/2uMTmPEFafKfKeobvdx5EE",
+    "id": "2uMTmPEFafKfKeobvdx5EE",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2730fdf1dcbc3e34ed740e12710",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e020fdf1dcbc3e34ed740e12710",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048510fdf1dcbc3e34ed740e12710",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "My Everything (Tenth Anniversary Edition)",
+    "release_date": "2024-08-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2uMTmPEFafKfKeobvdx5EE",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+      },
+      "href": "https://api.spotify.com/v1/artists/2qxJFvFYMEDqd7ui6kSAcq",
+      "id": "2qxJFvFYMEDqd7ui6kSAcq",
+      "name": "Zedd",
+      "type": "artist",
+      "uri": "spotify:artist:2qxJFvFYMEDqd7ui6kSAcq"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 214843,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7qQKhhQkLGxDKeF0EY2uH6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7qQKhhQkLGxDKeF0EY2uH6",
+  "id": "7qQKhhQkLGxDKeF0EY2uH6",
+  "is_local": false,
+  "name": "Break Free",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:7qQKhhQkLGxDKeF0EY2uH6"
+}

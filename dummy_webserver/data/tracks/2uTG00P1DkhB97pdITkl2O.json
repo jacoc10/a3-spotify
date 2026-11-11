@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 11,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ozpmkWcCHwsQ4QTnxOOdT",
+    "id": "1ozpmkWcCHwsQ4QTnxOOdT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6adfbd3f091d6f2b9af6507",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d6adfbd3f091d6f2b9af6507",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d6adfbd3f091d6f2b9af6507",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "What A Time To Be Alive",
+    "release_date": "2015-09-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1ozpmkWcCHwsQ4QTnxOOdT",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id": "1RyvyyTE3xzB2ZywiAwp0i",
+      "name": "Future",
+      "type": "artist",
+      "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 211642,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2uTG00P1DkhB97pdITkl2O"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2uTG00P1DkhB97pdITkl2O",
+  "id": "2uTG00P1DkhB97pdITkl2O",
+  "is_local": false,
+  "name": "Live From The Gutter",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2uTG00P1DkhB97pdITkl2O"
+}

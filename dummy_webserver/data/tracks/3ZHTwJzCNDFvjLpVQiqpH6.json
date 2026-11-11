@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 15,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1MHuZZrGT36cXLxAQ5cLP3"
+    },
+    "href": "https://api.spotify.com/v1/albums/1MHuZZrGT36cXLxAQ5cLP3",
+    "id": "1MHuZZrGT36cXLxAQ5cLP3",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27305fd6906725e3f12544c2d04",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0205fd6906725e3f12544c2d04",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485105fd6906725e3f12544c2d04",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Taylor Swift Karaoke: reputation",
+    "release_date": "2018-03-09",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1MHuZZrGT36cXLxAQ5cLP3",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 209680,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3ZHTwJzCNDFvjLpVQiqpH6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3ZHTwJzCNDFvjLpVQiqpH6",
+  "id": "3ZHTwJzCNDFvjLpVQiqpH6",
+  "is_local": false,
+  "name": "Gorgeous - Karaoke Version",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:3ZHTwJzCNDFvjLpVQiqpH6"
+}

@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 11,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0XY0qeZ7czMgtb340QJRxK"
+    },
+    "href": "https://api.spotify.com/v1/albums/0XY0qeZ7czMgtb340QJRxK",
+    "id": "0XY0qeZ7czMgtb340QJRxK",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735f530395ba026f49363c6d11",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025f530395ba026f49363c6d11",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515f530395ba026f49363c6d11",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Radical Optimism (Extended Versions)",
+    "release_date": "2024-06-28",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0XY0qeZ7czMgtb340QJRxK",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 305822,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6DMFoxCqbZ9CP7GJ8H3PXj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6DMFoxCqbZ9CP7GJ8H3PXj",
+  "id": "6DMFoxCqbZ9CP7GJ8H3PXj",
+  "is_local": false,
+  "name": "Maria - Extended",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6DMFoxCqbZ9CP7GJ8H3PXj"
+}

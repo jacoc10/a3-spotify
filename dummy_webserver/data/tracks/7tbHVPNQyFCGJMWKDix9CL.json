@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 20,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2zSqnTr0gSXrSlPbHzLfJS"
+    },
+    "href": "https://api.spotify.com/v1/albums/2zSqnTr0gSXrSlPbHzLfJS",
+    "id": "2zSqnTr0gSXrSlPbHzLfJS",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273dc48ee97d2cd26768fd85bce",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02dc48ee97d2cd26768fd85bce",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851dc48ee97d2cd26768fd85bce",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Dua Lipa Live from the Royal Albert Hall",
+    "release_date": "2024-12-06",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2zSqnTr0gSXrSlPbHzLfJS",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 189701,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7tbHVPNQyFCGJMWKDix9CL"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7tbHVPNQyFCGJMWKDix9CL",
+  "id": "7tbHVPNQyFCGJMWKDix9CL",
+  "is_local": false,
+  "name": "Anything For Love (Live from the Royal Albert Hall)",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:7tbHVPNQyFCGJMWKDix9CL"
+}

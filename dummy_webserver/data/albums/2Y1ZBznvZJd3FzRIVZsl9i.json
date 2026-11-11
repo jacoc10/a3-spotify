@@ -1,0 +1,103 @@
+{
+  "album_type": "single",
+  "total_tracks": 1,
+  "available_markets": [
+    "US"
+  ],
+  "external_urls": {
+    "spotify": "https://open.spotify.com/album/2Y1ZBznvZJd3FzRIVZsl9i"
+  },
+  "href": "https://api.spotify.com/v1/albums/2Y1ZBznvZJd3FzRIVZsl9i",
+  "id": "2Y1ZBznvZJd3FzRIVZsl9i",
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000b27346d12e215595d2d3b233817c",
+      "height": 640,
+      "width": 640
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d00001e0246d12e215595d2d3b233817c",
+      "height": 300,
+      "width": 300
+    },
+    {
+      "url": "https://i.scdn.co/image/ab67616d0000485146d12e215595d2d3b233817c",
+      "height": 64,
+      "width": 64
+    }
+  ],
+  "name": "Both Sides Now",
+  "release_date": "2012-01-01",
+  "release_date_precision": "day",
+  "type": "album",
+  "uri": "spotify:album:2Y1ZBznvZJd3FzRIVZsl9i",
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "tracks": {
+    "href": "https://api.spotify.com/v1/albums/2Y1ZBznvZJd3FzRIVZsl9i/tracks?offset=0&limit=50",
+    "limit": 50,
+    "next": null,
+    "offset": 0,
+    "previous": null,
+    "total": 1,
+    "items": [
+      {
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+            },
+            "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+            "id": "6sFIWsNpZYqfjUpaCgueju",
+            "name": "Carly Rae Jepsen",
+            "type": "artist",
+            "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+          }
+        ],
+        "available_markets": [
+          "US"
+        ],
+        "disc_number": 1,
+        "duration_ms": 232666,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1bQ8hwzvZK2yimh0BktzDd"
+        },
+        "href": "https://api.spotify.com/v1/tracks/1bQ8hwzvZK2yimh0BktzDd",
+        "id": "1bQ8hwzvZK2yimh0BktzDd",
+        "name": "Both Sides Now",
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:1bQ8hwzvZK2yimh0BktzDd",
+        "is_local": false
+      }
+    ]
+  },
+  "copyrights": [
+    {
+      "text": "© 2012 School Boy/Interscope Records",
+      "type": "C"
+    },
+    {
+      "text": "℗ 2012 School Boy/Interscope Records",
+      "type": "P"
+    }
+  ],
+  "external_ids": {
+    "upc": "00602537021222"
+  },
+  "genres": [],
+  "label": "Silent Records IGA",
+  "popularity": 10
+}

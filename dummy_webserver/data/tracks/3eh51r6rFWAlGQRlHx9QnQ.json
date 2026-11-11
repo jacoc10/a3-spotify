@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+    },
+    "href": "https://api.spotify.com/v1/albums/06me0leRR3AuF4IFiEytml",
+    "id": "06me0leRR3AuF4IFiEytml",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27384bfd0d363f0179ac7c97fa5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0284bfd0d363f0179ac7c97fa5",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485184bfd0d363f0179ac7c97fa5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Push Ups",
+    "release_date": "2024-04-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:06me0leRR3AuF4IFiEytml",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 232774,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3eh51r6rFWAlGQRlHx9QnQ",
+  "id": "3eh51r6rFWAlGQRlHx9QnQ",
+  "is_local": false,
+  "name": "Push Ups",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3eh51r6rFWAlGQRlHx9QnQ"
+}

@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3l2Gi0hMjZV2uvKoWlFkoQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/3l2Gi0hMjZV2uvKoWlFkoQ",
+    "id": "3l2Gi0hMjZV2uvKoWlFkoQ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273820e6b8b6fe77bd0e455eb15",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02820e6b8b6fe77bd0e455eb15",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851820e6b8b6fe77bd0e455eb15",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Loneliest Time",
+    "release_date": "2022-10-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3l2Gi0hMjZV2uvKoWlFkoQ",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 284000,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0nrKz8Ez1mQ1wiv1oqc7Ld"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0nrKz8Ez1mQ1wiv1oqc7Ld",
+  "id": "0nrKz8Ez1mQ1wiv1oqc7Ld",
+  "is_local": false,
+  "name": "Go Find Yourself or Whatever",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:0nrKz8Ez1mQ1wiv1oqc7Ld"
+}

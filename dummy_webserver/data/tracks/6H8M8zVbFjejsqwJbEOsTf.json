@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx"
+    },
+    "href": "https://api.spotify.com/v1/albums/1uT2pOgyFOXic7AyGCRCwx",
+    "id": "1uT2pOgyFOXic7AyGCRCwx",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cd51a486ed84576857a5e206",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cd51a486ed84576857a5e206",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cd51a486ed84576857a5e206",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Hometown Glory",
+    "release_date": "2018-07-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1uT2pOgyFOXic7AyGCRCwx",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bxHci3JIhhKA53n8rH3tT",
+      "id": "0bxHci3JIhhKA53n8rH3tT",
+      "name": "High Contrast",
+      "type": "artist",
+      "uri": "spotify:artist:0bxHci3JIhhKA53n8rH3tT"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 395840,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6H8M8zVbFjejsqwJbEOsTf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6H8M8zVbFjejsqwJbEOsTf",
+  "id": "6H8M8zVbFjejsqwJbEOsTf",
+  "is_local": false,
+  "name": "Hometown Glory - High Contrast Remix Instrumental",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:6H8M8zVbFjejsqwJbEOsTf"
+}

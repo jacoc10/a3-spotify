@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 32,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2hyDesSAYNefikDJXlqhPE"
+    },
+    "href": "https://api.spotify.com/v1/albums/2hyDesSAYNefikDJXlqhPE",
+    "id": "2hyDesSAYNefikDJXlqhPE",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732fec3ad10ab2f3a637e7a127",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022fec3ad10ab2f3a637e7a127",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512fec3ad10ab2f3a637e7a127",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "5",
+    "release_date": "2014-06-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2hyDesSAYNefikDJXlqhPE",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+      },
+      "href": "https://api.spotify.com/v1/artists/4IZLJdhHCqAvT4pjn8TLH5",
+      "id": "4IZLJdhHCqAvT4pjn8TLH5",
+      "name": "Jme",
+      "type": "artist",
+      "uri": "spotify:artist:4IZLJdhHCqAvT4pjn8TLH5"
+    }
+  ],
+  "disc_number": 5,
+  "duration_ms": 222653,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3MUKlVjVJBvPf4flrDq8KB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3MUKlVjVJBvPf4flrDq8KB",
+  "id": "3MUKlVjVJBvPf4flrDq8KB",
+  "is_local": false,
+  "name": "Radio (feat. JME)",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:3MUKlVjVJBvPf4flrDq8KB"
+}

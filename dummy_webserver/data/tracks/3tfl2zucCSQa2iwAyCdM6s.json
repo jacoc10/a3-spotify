@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/78pahaG6oQu93YqFLVYGEv"
+    },
+    "href": "https://api.spotify.com/v1/albums/78pahaG6oQu93YqFLVYGEv",
+    "id": "78pahaG6oQu93YqFLVYGEv",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b4d0d46e3a2e317576648b12",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b4d0d46e3a2e317576648b12",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b4d0d46e3a2e317576648b12",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Cold Heart (Acoustic)",
+    "release_date": "2021-10-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:78pahaG6oQu93YqFLVYGEv",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+        "id": "3PhoLpVuITZKcymswpck5b",
+        "name": "Elton John",
+        "type": "artist",
+        "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+      },
+      "href": "https://api.spotify.com/v1/artists/3PhoLpVuITZKcymswpck5b",
+      "id": "3PhoLpVuITZKcymswpck5b",
+      "name": "Elton John",
+      "type": "artist",
+      "uri": "spotify:artist:3PhoLpVuITZKcymswpck5b"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+      "id": "4TvhRzxIL1le2PWCeUqxQw",
+      "name": "The Blessed Madonna",
+      "type": "artist",
+      "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 173175,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3tfl2zucCSQa2iwAyCdM6s"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3tfl2zucCSQa2iwAyCdM6s",
+  "id": "3tfl2zucCSQa2iwAyCdM6s",
+  "is_local": false,
+  "name": "Cold Heart - The Blessed Madonna Remix",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:3tfl2zucCSQa2iwAyCdM6s"
+}

@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5YqIAzuXiEaLGSnBqDSqvz"
+    },
+    "href": "https://api.spotify.com/v1/albums/5YqIAzuXiEaLGSnBqDSqvz",
+    "id": "5YqIAzuXiEaLGSnBqDSqvz",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e0230c7f4d141bb18a5f3bbb",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e0230c7f4d141bb18a5f3bbb",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e0230c7f4d141bb18a5f3bbb",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Run Away With Me (Remixes Part Two)",
+    "release_date": "2016-04-15",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5YqIAzuXiEaLGSnBqDSqvz",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+      },
+      "href": "https://api.spotify.com/v1/artists/4BzCdhJTyTS3gumq9xmymb",
+      "id": "4BzCdhJTyTS3gumq9xmymb",
+      "name": "ayokay",
+      "type": "artist",
+      "uri": "spotify:artist:4BzCdhJTyTS3gumq9xmymb"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 211853,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7gNc73iWU2CLeRQUVHyAhv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7gNc73iWU2CLeRQUVHyAhv",
+  "id": "7gNc73iWU2CLeRQUVHyAhv",
+  "is_local": false,
+  "name": "Run Away With Me - ayokay Remix",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7gNc73iWU2CLeRQUVHyAhv"
+}

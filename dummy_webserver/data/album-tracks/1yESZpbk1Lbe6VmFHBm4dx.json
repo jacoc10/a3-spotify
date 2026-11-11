@@ -1,0 +1,85 @@
+{
+  "href": "https://api.spotify.com/v1/albums/1yESZpbk1Lbe6VmFHBm4dx/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id": "6sFIWsNpZYqfjUpaCgueju",
+          "name": "Carly Rae Jepsen",
+          "type": "artist",
+          "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "type": "artist",
+          "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "available_markets": [
+        "AE",
+        "AG",
+        "BB",
+        "BH",
+        "BS",
+        "BZ",
+        "CR",
+        "DM",
+        "DO",
+        "DZ",
+        "EG",
+        "GD",
+        "GT",
+        "HN",
+        "IQ",
+        "JM",
+        "JO",
+        "JP",
+        "KN",
+        "KW",
+        "LB",
+        "LC",
+        "LY",
+        "MA",
+        "MX",
+        "NI",
+        "OM",
+        "PA",
+        "QA",
+        "SA",
+        "SV",
+        "TN",
+        "TT",
+        "US",
+        "VC"
+      ],
+      "disc_number": 1,
+      "duration_ms": 242413,
+      "explicit": true,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4lQlgbIsWLrwy1urnyjVTw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4lQlgbIsWLrwy1urnyjVTw",
+      "id": "4lQlgbIsWLrwy1urnyjVTw",
+      "name": "Tonight I’m Getting Over You - Remix",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4lQlgbIsWLrwy1urnyjVTw",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

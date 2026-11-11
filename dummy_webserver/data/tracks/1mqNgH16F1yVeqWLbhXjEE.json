@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5r9SgwCovywWoXbVJokB6Z"
+    },
+    "href": "https://api.spotify.com/v1/albums/5r9SgwCovywWoXbVJokB6Z",
+    "id": "5r9SgwCovywWoXbVJokB6Z",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2733e1b84a49558e6680579bbab",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e023e1b84a49558e6680579bbab",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048513e1b84a49558e6680579bbab",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Party For One (Remixes)",
+    "release_date": "2018-12-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5r9SgwCovywWoXbVJokB6Z",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1SKIyebAAhyPaaFp4x1Vp0"
+      },
+      "href": "https://api.spotify.com/v1/artists/1SKIyebAAhyPaaFp4x1Vp0",
+      "id": "1SKIyebAAhyPaaFp4x1Vp0",
+      "name": "More Giraffes",
+      "type": "artist",
+      "uri": "spotify:artist:1SKIyebAAhyPaaFp4x1Vp0"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 166341,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1mqNgH16F1yVeqWLbhXjEE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1mqNgH16F1yVeqWLbhXjEE",
+  "id": "1mqNgH16F1yVeqWLbhXjEE",
+  "is_local": false,
+  "name": "Party For One - More Giraffes Remix",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1mqNgH16F1yVeqWLbhXjEE"
+}

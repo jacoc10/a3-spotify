@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1EoDsNmgTLtmwe1BDAVxV5"
+    },
+    "href": "https://api.spotify.com/v1/albums/1EoDsNmgTLtmwe1BDAVxV5",
+    "id": "1EoDsNmgTLtmwe1BDAVxV5",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27396384c98ac4f3e7c2440f5b5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0296384c98ac4f3e7c2440f5b5",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485196384c98ac4f3e7c2440f5b5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Red",
+    "release_date": "2012-10-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1EoDsNmgTLtmwe1BDAVxV5",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 217973,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/72jCZdH0Lhg93z6Z4hBjgj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/72jCZdH0Lhg93z6Z4hBjgj",
+  "id": "72jCZdH0Lhg93z6Z4hBjgj",
+  "is_local": false,
+  "name": "I Knew You Were Trouble.",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:72jCZdH0Lhg93z6Z4hBjgj"
+}

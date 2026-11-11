@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1oFrpM19ooBjXWgzVqRueZ"
+    },
+    "href": "https://api.spotify.com/v1/albums/1oFrpM19ooBjXWgzVqRueZ",
+    "id": "1oFrpM19ooBjXWgzVqRueZ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f1ea78ef94c7c6d40577bd3f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f1ea78ef94c7c6d40577bd3f",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f1ea78ef94c7c6d40577bd3f",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Lonely Lovers",
+    "release_date": "2022-09-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1oFrpM19ooBjXWgzVqRueZ",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+        },
+        "href": "https://api.spotify.com/v1/artists/5VadK1havLhK1OpKYsXv9y",
+        "id": "5VadK1havLhK1OpKYsXv9y",
+        "name": "D-Block Europe",
+        "type": "artist",
+        "uri": "spotify:artist:5VadK1havLhK1OpKYsXv9y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5VadK1havLhK1OpKYsXv9y"
+      },
+      "href": "https://api.spotify.com/v1/artists/5VadK1havLhK1OpKYsXv9y",
+      "id": "5VadK1havLhK1OpKYsXv9y",
+      "name": "D-Block Europe",
+      "type": "artist",
+      "uri": "spotify:artist:5VadK1havLhK1OpKYsXv9y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 233999,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/19PnE1SwzSXypAvAQBJZgb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/19PnE1SwzSXypAvAQBJZgb",
+  "id": "19PnE1SwzSXypAvAQBJZgb",
+  "is_local": false,
+  "name": "Lonely Lovers",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:19PnE1SwzSXypAvAQBJZgb"
+}

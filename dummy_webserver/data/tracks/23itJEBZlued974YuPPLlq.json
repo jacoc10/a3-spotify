@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/65X8oNWJyq6abR094X1hlD"
+    },
+    "href": "https://api.spotify.com/v1/albums/65X8oNWJyq6abR094X1hlD",
+    "id": "65X8oNWJyq6abR094X1hlD",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2731aa109856c4781fd6c9cd111",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e021aa109856c4781fd6c9cd111",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048511aa109856c4781fd6c9cd111",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "we can't be friends (wait for your love) [acoustic (live from jungle city studios)]",
+    "release_date": "2024-09-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:65X8oNWJyq6abR094X1hlD",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 187781,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/23itJEBZlued974YuPPLlq"
+  },
+  "href": "https://api.spotify.com/v1/tracks/23itJEBZlued974YuPPLlq",
+  "id": "23itJEBZlued974YuPPLlq",
+  "is_local": false,
+  "name": "we can't be friends (wait for your love) - acoustic (live from jungle city studios)",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:23itJEBZlued974YuPPLlq"
+}

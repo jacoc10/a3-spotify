@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 10,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2FgMWuwMeTgJArP2RF3upF"
+    },
+    "href": "https://api.spotify.com/v1/albums/2FgMWuwMeTgJArP2RF3upF",
+    "id": "2FgMWuwMeTgJArP2RF3upF",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2730cc6c8a864d2d16a2bc507d4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e020cc6c8a864d2d16a2bc507d4",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048510cc6c8a864d2d16a2bc507d4",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Kiss Land",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2FgMWuwMeTgJArP2RF3upF",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 267920,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7fSKE9J3udo8zpq1ceYTEa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7fSKE9J3udo8zpq1ceYTEa",
+  "id": "7fSKE9J3udo8zpq1ceYTEa",
+  "is_local": false,
+  "name": "Love In The Sky",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:7fSKE9J3udo8zpq1ceYTEa"
+}

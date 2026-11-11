@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 24,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1iFZcNmUvhWq5uXYmlKlKb"
+    },
+    "href": "https://api.spotify.com/v1/albums/1iFZcNmUvhWq5uXYmlKlKb",
+    "id": "1iFZcNmUvhWq5uXYmlKlKb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f542a05a0d756af323d05df7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f542a05a0d756af323d05df7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f542a05a0d756af323d05df7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Emotion (10th Anniversary Edition)",
+    "release_date": "2025-10-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1iFZcNmUvhWq5uXYmlKlKb",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7JI0kWjUbDgzMLYcirQoNK"
+      },
+      "href": "https://api.spotify.com/v1/artists/7JI0kWjUbDgzMLYcirQoNK",
+      "id": "7JI0kWjUbDgzMLYcirQoNK",
+      "name": "Kyle Shearer",
+      "type": "artist",
+      "uri": "spotify:artist:7JI0kWjUbDgzMLYcirQoNK"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 225697,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/73dEQ34u2oNJl7g1p4WXaY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/73dEQ34u2oNJl7g1p4WXaY",
+  "id": "73dEQ34u2oNJl7g1p4WXaY",
+  "is_local": false,
+  "name": "Run Away With Me - Kyle Shearer Remix",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 23,
+  "type": "track",
+  "uri": "spotify:track:73dEQ34u2oNJl7g1p4WXaY"
+}

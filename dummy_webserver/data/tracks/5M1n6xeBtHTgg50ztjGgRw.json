@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/15b9JCsZh7DkbA2EjBjPqc"
+    },
+    "href": "https://api.spotify.com/v1/albums/15b9JCsZh7DkbA2EjBjPqc",
+    "id": "15b9JCsZh7DkbA2EjBjPqc",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c194d06cc0fd9a567e5a0b77",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c194d06cc0fd9a567e5a0b77",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c194d06cc0fd9a567e5a0b77",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Enjoy The Show",
+    "release_date": "2025-01-29",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:15b9JCsZh7DkbA2EjBjPqc",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id": "1RyvyyTE3xzB2ZywiAwp0i",
+      "name": "Future",
+      "type": "artist",
+      "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 224019,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5M1n6xeBtHTgg50ztjGgRw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5M1n6xeBtHTgg50ztjGgRw",
+  "id": "5M1n6xeBtHTgg50ztjGgRw",
+  "is_local": false,
+  "name": "Enjoy The Show (feat. Future) - Single Version",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5M1n6xeBtHTgg50ztjGgRw"
+}

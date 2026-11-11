@@ -1,0 +1,1530 @@
+{
+  "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY/albums?offset=0&limit=50&include_groups=album,single,compilation",
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 15,
+  "items": [
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "available_markets": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+      },
+      "href": "https://api.spotify.com/v1/albums/21jF5jlMtzo94wbxmJ18aa",
+      "id": "21jF5jlMtzo94wbxmJ18aa",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "30",
+      "release_date": "2021-11-19",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:21jF5jlMtzo94wbxmJ18aa",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/3AvPX1B1HiFROvYjLb5Qwi"
+      },
+      "href": "https://api.spotify.com/v1/albums/3AvPX1B1HiFROvYjLb5Qwi",
+      "id": "3AvPX1B1HiFROvYjLb5Qwi",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0247ce408fb4926d69da6713c2",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485147ce408fb4926d69da6713c2",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "25",
+      "release_date": "2015-11-20",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:3AvPX1B1HiFROvYjLb5Qwi",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 11,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "href": "https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL",
+      "id": "0Lg1uZvI312TPqxNWShFXL",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "21",
+      "release_date": "2011-01-24",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:0Lg1uZvI312TPqxNWShFXL",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "album",
+      "total_tracks": 12,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0"
+      },
+      "href": "https://api.spotify.com/v1/albums/59ULskOkBMij4zL8pS7mi0",
+      "id": "59ULskOkBMij4zL8pS7mi0",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0262e62cf225b72fca8d765168",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485162e62cf225b72fca8d765168",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "19",
+      "release_date": "2008-01-28",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:59ULskOkBMij4zL8pS7mi0",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "album"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+      },
+      "href": "https://api.spotify.com/v1/albums/224jZ4sUX7OhAuMwaxp86S",
+      "id": "224jZ4sUX7OhAuMwaxp86S",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a7c79b8f85ff6e56b39a549c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a7c79b8f85ff6e56b39a549c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a7c79b8f85ff6e56b39a549c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Easy On Me",
+      "release_date": "2021-10-14",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:224jZ4sUX7OhAuMwaxp86S",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 3,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/1uT2pOgyFOXic7AyGCRCwx"
+      },
+      "href": "https://api.spotify.com/v1/albums/1uT2pOgyFOXic7AyGCRCwx",
+      "id": "1uT2pOgyFOXic7AyGCRCwx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cd51a486ed84576857a5e206",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cd51a486ed84576857a5e206",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cd51a486ed84576857a5e206",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hometown Glory",
+      "release_date": "2018-07-01",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:1uT2pOgyFOXic7AyGCRCwx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4wrmR6foH3E5mv5pKtfi49"
+      },
+      "href": "https://api.spotify.com/v1/albums/4wrmR6foH3E5mv5pKtfi49",
+      "id": "4wrmR6foH3E5mv5pKtfi49",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c4a69caf5a2b8fc6d2def89c",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c4a69caf5a2b8fc6d2def89c",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c4a69caf5a2b8fc6d2def89c",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Water Under the Bridge",
+      "release_date": "2016-11-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4wrmR6foH3E5mv5pKtfi49",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU"
+      },
+      "href": "https://api.spotify.com/v1/albums/7hplTHLU8PAVs1forXE2NU",
+      "id": "7hplTHLU8PAVs1forXE2NU",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273c87f043096683d487d0a1de8",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02c87f043096683d487d0a1de8",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851c87f043096683d487d0a1de8",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Send My Love (To Your New Lover)",
+      "release_date": "2016-05-16",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:7hplTHLU8PAVs1forXE2NU",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Uxy3eGrFAI1VpGRmZIkM7"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Uxy3eGrFAI1VpGRmZIkM7",
+      "id": "5Uxy3eGrFAI1VpGRmZIkM7",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27379753572a5053ffc4150ae67",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0279753572a5053ffc4150ae67",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485179753572a5053ffc4150ae67",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "When We Were Young",
+      "release_date": "2016-02-05",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Uxy3eGrFAI1VpGRmZIkM7",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5givPbMFm0AMPUYWulmbzg"
+      },
+      "href": "https://api.spotify.com/v1/albums/5givPbMFm0AMPUYWulmbzg",
+      "id": "5givPbMFm0AMPUYWulmbzg",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27323d302c1290685258a400ad0",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0223d302c1290685258a400ad0",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485123d302c1290685258a400ad0",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Hello",
+      "release_date": "2015-10-23",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5givPbMFm0AMPUYWulmbzg",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "AU",
+        "AT",
+        "BE",
+        "BO",
+        "BR",
+        "BG",
+        "CA",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DK",
+        "DO",
+        "DE",
+        "EC",
+        "EE",
+        "SV",
+        "FI",
+        "FR",
+        "GR",
+        "GT",
+        "HN",
+        "HK",
+        "HU",
+        "IS",
+        "IE",
+        "IT",
+        "LV",
+        "LT",
+        "LU",
+        "MY",
+        "MT",
+        "MX",
+        "NL",
+        "NZ",
+        "NI",
+        "NO",
+        "PA",
+        "PY",
+        "PE",
+        "PH",
+        "PL",
+        "PT",
+        "SG",
+        "SK",
+        "ES",
+        "SE",
+        "CH",
+        "TW",
+        "TR",
+        "UY",
+        "US",
+        "GB",
+        "AD",
+        "LI",
+        "MC",
+        "ID",
+        "JP",
+        "TH",
+        "VN",
+        "RO",
+        "IL",
+        "ZA",
+        "SA",
+        "AE",
+        "BH",
+        "QA",
+        "OM",
+        "KW",
+        "EG",
+        "MA",
+        "DZ",
+        "TN",
+        "LB",
+        "JO",
+        "PS",
+        "IN",
+        "BY",
+        "KZ",
+        "MD",
+        "UA",
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "KR",
+        "BD",
+        "PK",
+        "LK",
+        "GH",
+        "KE",
+        "NG",
+        "TZ",
+        "UG",
+        "AG",
+        "AM",
+        "BS",
+        "BB",
+        "BZ",
+        "BT",
+        "BW",
+        "BF",
+        "CV",
+        "CW",
+        "DM",
+        "FJ",
+        "GM",
+        "GE",
+        "GD",
+        "GW",
+        "GY",
+        "HT",
+        "JM",
+        "KI",
+        "LS",
+        "LR",
+        "MW",
+        "MV",
+        "ML",
+        "MH",
+        "FM",
+        "NA",
+        "NR",
+        "NE",
+        "PW",
+        "PG",
+        "PR",
+        "WS",
+        "SM",
+        "ST",
+        "SN",
+        "SC",
+        "SL",
+        "SB",
+        "KN",
+        "LC",
+        "VC",
+        "SR",
+        "TL",
+        "TO",
+        "TT",
+        "TV",
+        "VU",
+        "AZ",
+        "BN",
+        "BI",
+        "KH",
+        "CM",
+        "TD",
+        "KM",
+        "GQ",
+        "SZ",
+        "GA",
+        "GN",
+        "KG",
+        "LA",
+        "MO",
+        "MR",
+        "MN",
+        "NP",
+        "RW",
+        "TG",
+        "UZ",
+        "ZW",
+        "BJ",
+        "MG",
+        "MU",
+        "MZ",
+        "AO",
+        "CI",
+        "DJ",
+        "ZM",
+        "CD",
+        "CG",
+        "IQ",
+        "LY",
+        "TJ",
+        "VE",
+        "ET",
+        "XK"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/6TwN6Lq9glwnG8kNp6chHY"
+      },
+      "href": "https://api.spotify.com/v1/albums/6TwN6Lq9glwnG8kNp6chHY",
+      "id": "6TwN6Lq9glwnG8kNp6chHY",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273b479bb2aed275bb1b13d83da",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02b479bb2aed275bb1b13d83da",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851b479bb2aed275bb1b13d83da",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Skyfall",
+      "release_date": "2012-10-04",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:6TwN6Lq9glwnG8kNp6chHY",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/636ekSSKYrhxvQEHCY07jv"
+      },
+      "href": "https://api.spotify.com/v1/albums/636ekSSKYrhxvQEHCY07jv",
+      "id": "636ekSSKYrhxvQEHCY07jv",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b2738ba3be7e80d9584467113f4a",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e028ba3be7e80d9584467113f4a",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d000048518ba3be7e80d9584467113f4a",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Rolling in the Deep",
+      "release_date": "2011-01-17",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:636ekSSKYrhxvQEHCY07jv",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4K1tS9SCKWJX4NQCcMUcUx"
+      },
+      "href": "https://api.spotify.com/v1/albums/4K1tS9SCKWJX4NQCcMUcUx",
+      "id": "4K1tS9SCKWJX4NQCcMUcUx",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b27398c6cecec6ad9d95d7ffb01b",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e0298c6cecec6ad9d95d7ffb01b",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000485198c6cecec6ad9d95d7ffb01b",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Make You Feel My Love",
+      "release_date": "2008-10-27",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4K1tS9SCKWJX4NQCcMUcUx",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 4,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/4JjVwFhBHZTMJTSAIACvn4"
+      },
+      "href": "https://api.spotify.com/v1/albums/4JjVwFhBHZTMJTSAIACvn4",
+      "id": "4JjVwFhBHZTMJTSAIACvn4",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273a3ae84066f22296ddaeb2cca",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02a3ae84066f22296ddaeb2cca",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851a3ae84066f22296ddaeb2cca",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Cold Shoulder",
+      "release_date": "2008-04-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:4JjVwFhBHZTMJTSAIACvn4",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    },
+    {
+      "album_type": "single",
+      "total_tracks": 1,
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "external_urls": {
+        "spotify": "https://open.spotify.com/album/5Kclo2Kmw2v94UqKwZam8F"
+      },
+      "href": "https://api.spotify.com/v1/albums/5Kclo2Kmw2v94UqKwZam8F",
+      "id": "5Kclo2Kmw2v94UqKwZam8F",
+      "images": [
+        {
+          "url": "https://i.scdn.co/image/ab67616d0000b273cb487a1b5951ae1bea567f9d",
+          "height": 640,
+          "width": 640
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00001e02cb487a1b5951ae1bea567f9d",
+          "height": 300,
+          "width": 300
+        },
+        {
+          "url": "https://i.scdn.co/image/ab67616d00004851cb487a1b5951ae1bea567f9d",
+          "height": 64,
+          "width": 64
+        }
+      ],
+      "name": "Chasing Pavements",
+      "release_date": "2008-01-21",
+      "release_date_precision": "day",
+      "type": "album",
+      "uri": "spotify:album:5Kclo2Kmw2v94UqKwZam8F",
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "album_group": "single"
+    }
+  ]
+}

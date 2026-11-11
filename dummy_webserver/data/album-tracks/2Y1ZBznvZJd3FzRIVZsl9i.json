@@ -1,0 +1,41 @@
+{
+  "href": "https://api.spotify.com/v1/albums/2Y1ZBznvZJd3FzRIVZsl9i/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          },
+          "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+          "id": "6sFIWsNpZYqfjUpaCgueju",
+          "name": "Carly Rae Jepsen",
+          "type": "artist",
+          "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "available_markets": [
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 232666,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1bQ8hwzvZK2yimh0BktzDd"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1bQ8hwzvZK2yimh0BktzDd",
+      "id": "1bQ8hwzvZK2yimh0BktzDd",
+      "name": "Both Sides Now",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:1bQ8hwzvZK2yimh0BktzDd",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

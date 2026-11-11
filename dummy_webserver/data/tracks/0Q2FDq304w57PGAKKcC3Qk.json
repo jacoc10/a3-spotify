@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M"
+    },
+    "href": "https://api.spotify.com/v1/albums/5WCdg2iITZNONNV8Wp5P7M",
+    "id": "5WCdg2iITZNONNV8Wp5P7M",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cc73fb1b7b61a3146a6cd354",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cc73fb1b7b61a3146a6cd354",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cc73fb1b7b61a3146a6cd354",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Western Wind",
+    "release_date": "2022-05-06",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5WCdg2iITZNONNV8Wp5P7M",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 225946,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0Q2FDq304w57PGAKKcC3Qk",
+  "id": "0Q2FDq304w57PGAKKcC3Qk",
+  "is_local": false,
+  "name": "Western Wind",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0Q2FDq304w57PGAKKcC3Qk"
+}

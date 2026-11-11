@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/26vWhcHpjJiPTmsVLJLUsY"
+    },
+    "href": "https://api.spotify.com/v1/albums/26vWhcHpjJiPTmsVLJLUsY",
+    "id": "26vWhcHpjJiPTmsVLJLUsY",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27372d88450a97f6cedb031ef46",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0272d88450a97f6cedb031ef46",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485172d88450a97f6cedb031ef46",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Tonight I’m Getting Over You",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:26vWhcHpjJiPTmsVLJLUsY",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 220626,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4fUAYpYFjM02fxzdgW10Tp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4fUAYpYFjM02fxzdgW10Tp",
+  "id": "4fUAYpYFjM02fxzdgW10Tp",
+  "is_local": false,
+  "name": "Tonight I’m Getting Over You - Twice As Nice Remix",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4fUAYpYFjM02fxzdgW10Tp"
+}

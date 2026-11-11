@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/74TRp3O8BRdGxc0XO0UzoY"
+    },
+    "href": "https://api.spotify.com/v1/albums/74TRp3O8BRdGxc0XO0UzoY",
+    "id": "74TRp3O8BRdGxc0XO0UzoY",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273fae80fc6c7f60e75cfc519c7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02fae80fc6c7f60e75cfc519c7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851fae80fc6c7f60e75cfc519c7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Six Feet Under",
+    "release_date": "2016-11-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:74TRp3O8BRdGxc0XO0UzoY",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 189613,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2VlLbhGLVJgdOW7kKdWWFc"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2VlLbhGLVJgdOW7kKdWWFc",
+  "id": "2VlLbhGLVJgdOW7kKdWWFc",
+  "is_local": false,
+  "name": "Six Feet Under",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2VlLbhGLVJgdOW7kKdWWFc"
+}

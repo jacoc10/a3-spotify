@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr"
+    },
+    "href": "https://api.spotify.com/v1/albums/5LyzI39gkePgpHz38bEQIr",
+    "id": "5LyzI39gkePgpHz38bEQIr",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7c84273e5c8ecb7594b4357",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7c84273e5c8ecb7594b4357",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f7c84273e5c8ecb7594b4357",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Lavender Haze (Remixes)",
+    "release_date": "2023-03-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5LyzI39gkePgpHz38bEQIr",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+      },
+      "href": "https://api.spotify.com/v1/artists/59oA5WbbQvomJz2BuRG071",
+      "id": "59oA5WbbQvomJz2BuRG071",
+      "name": "Jungle",
+      "type": "artist",
+      "uri": "spotify:artist:59oA5WbbQvomJz2BuRG071"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 235932,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ThxqUZ9PwS6n0UT5i1XH6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ThxqUZ9PwS6n0UT5i1XH6",
+  "id": "0ThxqUZ9PwS6n0UT5i1XH6",
+  "is_local": false,
+  "name": "Lavender Haze - Jungle Remix",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0ThxqUZ9PwS6n0UT5i1XH6"
+}

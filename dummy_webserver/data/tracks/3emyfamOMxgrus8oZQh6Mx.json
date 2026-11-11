@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3HcgqKuPvj9ZpqLCny0GWg"
+    },
+    "href": "https://api.spotify.com/v1/albums/3HcgqKuPvj9ZpqLCny0GWg",
+    "id": "3HcgqKuPvj9ZpqLCny0GWg",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2738c5e02d9f4bfa29203cd3310",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e028c5e02d9f4bfa29203cd3310",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048518c5e02d9f4bfa29203cd3310",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Under the Tree (from “That Christmas”)",
+    "release_date": "2024-11-26",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3HcgqKuPvj9ZpqLCny0GWg",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 242826,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3emyfamOMxgrus8oZQh6Mx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3emyfamOMxgrus8oZQh6Mx",
+  "id": "3emyfamOMxgrus8oZQh6Mx",
+  "is_local": false,
+  "name": "Under the Tree (from “That Christmas”)",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3emyfamOMxgrus8oZQh6Mx"
+}

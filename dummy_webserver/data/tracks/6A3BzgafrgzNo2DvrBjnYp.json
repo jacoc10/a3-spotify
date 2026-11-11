@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 7,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5wGVLpW3wuGqzBy6zl1OTJ"
+    },
+    "href": "https://api.spotify.com/v1/albums/5wGVLpW3wuGqzBy6zl1OTJ",
+    "id": "5wGVLpW3wuGqzBy6zl1OTJ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2733cd9c9907f73a4c0f7667b3b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e023cd9c9907f73a4c0f7667b3b",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048513cd9c9907f73a4c0f7667b3b",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Training Season",
+    "release_date": "2024-02-15",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5wGVLpW3wuGqzBy6zl1OTJ",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 214146,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6A3BzgafrgzNo2DvrBjnYp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6A3BzgafrgzNo2DvrBjnYp",
+  "id": "6A3BzgafrgzNo2DvrBjnYp",
+  "is_local": false,
+  "name": "Training Season - Acapella",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:6A3BzgafrgzNo2DvrBjnYp"
+}

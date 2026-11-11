@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 19,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+    },
+    "href": "https://api.spotify.com/v1/albums/74vajFwEwXJ61OW1DKSPEa",
+    "id": "74vajFwEwXJ61OW1DKSPEa",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739508fb7ca2eedc0d98b9139f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029508fb7ca2eedc0d98b9139f",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519508fb7ca2eedc0d98b9139f",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Positions (Deluxe)",
+    "release_date": "2021-02-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:74vajFwEwXJ61OW1DKSPEa",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 132278,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7cFYqReKEigTxTm0bNE6YA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7cFYqReKEigTxTm0bNE6YA",
+  "id": "7cFYqReKEigTxTm0bNE6YA",
+  "is_local": false,
+  "name": "west side",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:7cFYqReKEigTxTm0bNE6YA"
+}

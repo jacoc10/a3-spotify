@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4YV1qBdn6O6thyg18kBo0N"
+    },
+    "href": "https://api.spotify.com/v1/albums/4YV1qBdn6O6thyg18kBo0N",
+    "id": "4YV1qBdn6O6thyg18kBo0N",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27331a80d2686b8a10d7925efb6",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0231a80d2686b8a10d7925efb6",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485131a80d2686b8a10d7925efb6",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Hurricane",
+    "release_date": "2021-08-27",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4YV1qBdn6O6thyg18kBo0N",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+        "id": "5K4W6rqBFWDnAN6FQUkS6x",
+        "name": "Kanye West",
+        "type": "artist",
+        "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+      },
+      "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
+      "id": "5K4W6rqBFWDnAN6FQUkS6x",
+      "name": "Kanye West",
+      "type": "artist",
+      "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+      },
+      "href": "https://api.spotify.com/v1/artists/5f7VJjfbwm532GiveGC0ZK",
+      "id": "5f7VJjfbwm532GiveGC0ZK",
+      "name": "Lil Baby",
+      "type": "artist",
+      "uri": "spotify:artist:5f7VJjfbwm532GiveGC0ZK"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 238182,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/44I7sqKYCAa7bQdVywkShO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/44I7sqKYCAa7bQdVywkShO",
+  "id": "44I7sqKYCAa7bQdVywkShO",
+  "is_local": false,
+  "name": "Hurricane",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:44I7sqKYCAa7bQdVywkShO"
+}

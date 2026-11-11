@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0itierEc1U3I8yIi4TtnuT"
+    },
+    "href": "https://api.spotify.com/v1/albums/0itierEc1U3I8yIi4TtnuT",
+    "id": "0itierEc1U3I8yIi4TtnuT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273422f9a190a75e8c5482f7455",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02422f9a190a75e8c5482f7455",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851422f9a190a75e8c5482f7455",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Mantra",
+    "release_date": "2018-11-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0itierEc1U3I8yIi4TtnuT",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+        },
+        "href": "https://api.spotify.com/v1/artists/0NWbwDZY1VkRqFafuQm6wk",
+        "id": "0NWbwDZY1VkRqFafuQm6wk",
+        "name": "Mike WiLL Made-It",
+        "type": "artist",
+        "uri": "spotify:artist:0NWbwDZY1VkRqFafuQm6wk"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+        "id": "2RdwBSPQiwcmiDo9kixcl8",
+        "name": "Pharrell Williams",
+        "type": "artist",
+        "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk"
+      },
+      "href": "https://api.spotify.com/v1/artists/0NWbwDZY1VkRqFafuQm6wk",
+      "id": "0NWbwDZY1VkRqFafuQm6wk",
+      "name": "Mike WiLL Made-It",
+      "type": "artist",
+      "uri": "spotify:artist:0NWbwDZY1VkRqFafuQm6wk"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+      },
+      "href": "https://api.spotify.com/v1/artists/2RdwBSPQiwcmiDo9kixcl8",
+      "id": "2RdwBSPQiwcmiDo9kixcl8",
+      "name": "Pharrell Williams",
+      "type": "artist",
+      "uri": "spotify:artist:2RdwBSPQiwcmiDo9kixcl8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 252384,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7mVHy2E0yV3oTnV0OR5uMf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7mVHy2E0yV3oTnV0OR5uMf",
+  "id": "7mVHy2E0yV3oTnV0OR5uMf",
+  "is_local": false,
+  "name": "The Mantra - From \"Creed II: The Album\"",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7mVHy2E0yV3oTnV0OR5uMf"
+}

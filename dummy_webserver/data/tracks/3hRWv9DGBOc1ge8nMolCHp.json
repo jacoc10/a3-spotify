@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 24,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
+    },
+    "href": "https://api.spotify.com/v1/albums/6NoBzYmh5gUusGPCfg0pct",
+    "id": "6NoBzYmh5gUusGPCfg0pct",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d08209944468440145f01524",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d08209944468440145f01524",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d08209944468440145f01524",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "x (Wembley Edition)",
+    "release_date": "2013",
+    "release_date_precision": "year",
+    "type": "album",
+    "uri": "spotify:album:6NoBzYmh5gUusGPCfg0pct",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 190226,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3hRWv9DGBOc1ge8nMolCHp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3hRWv9DGBOc1ge8nMolCHp",
+  "id": "3hRWv9DGBOc1ge8nMolCHp",
+  "is_local": false,
+  "name": "Shirtsleeves",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:3hRWv9DGBOc1ge8nMolCHp"
+}

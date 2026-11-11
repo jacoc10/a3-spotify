@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 15,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+    },
+    "href": "https://api.spotify.com/v1/albums/6EVYTRG1drKdO8OnIQBeEj",
+    "id": "6EVYTRG1drKdO8OnIQBeEj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273deec12a28d1e336c5052e9aa",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02deec12a28d1e336c5052e9aa",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851deec12a28d1e336c5052e9aa",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "My Everything (Deluxe)",
+    "release_date": "2014-08-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6EVYTRG1drKdO8OnIQBeEj",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+      },
+      "href": "https://api.spotify.com/v1/artists/2gsggkzM5R49q6jpPvazou",
+      "id": "2gsggkzM5R49q6jpPvazou",
+      "name": "Jessie J",
+      "type": "artist",
+      "uri": "spotify:artist:2gsggkzM5R49q6jpPvazou"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+      "id": "0hCNtLu0JehylgoiP8L4Gh",
+      "name": "Nicki Minaj",
+      "type": "artist",
+      "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 199320,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/466s1BacUmiRdR3ISvNjyx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/466s1BacUmiRdR3ISvNjyx",
+  "id": "466s1BacUmiRdR3ISvNjyx",
+  "is_local": false,
+  "name": "Bang Bang",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:466s1BacUmiRdR3ISvNjyx"
+}

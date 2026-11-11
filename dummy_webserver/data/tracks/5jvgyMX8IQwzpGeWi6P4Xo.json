@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/61dUL51qxsxQJMdai6HiUH"
+    },
+    "href": "https://api.spotify.com/v1/albums/61dUL51qxsxQJMdai6HiUH",
+    "id": "61dUL51qxsxQJMdai6HiUH",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735813b17a0ce0a0da2171302d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025813b17a0ce0a0da2171302d",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515813b17a0ce0a0da2171302d",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "yes, and? (The Blessed Madonna’s Godsquad Mix)",
+    "release_date": "2024-01-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:61dUL51qxsxQJMdai6HiUH",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+        "id": "4TvhRzxIL1le2PWCeUqxQw",
+        "name": "The Blessed Madonna",
+        "type": "artist",
+        "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4TvhRzxIL1le2PWCeUqxQw",
+      "id": "4TvhRzxIL1le2PWCeUqxQw",
+      "name": "The Blessed Madonna",
+      "type": "artist",
+      "uri": "spotify:artist:4TvhRzxIL1le2PWCeUqxQw"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 301982,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5jvgyMX8IQwzpGeWi6P4Xo"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5jvgyMX8IQwzpGeWi6P4Xo",
+  "id": "5jvgyMX8IQwzpGeWi6P4Xo",
+  "is_local": false,
+  "name": "yes, and? - The Blessed Madonna’s Godsquad Mix",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5jvgyMX8IQwzpGeWi6P4Xo"
+}

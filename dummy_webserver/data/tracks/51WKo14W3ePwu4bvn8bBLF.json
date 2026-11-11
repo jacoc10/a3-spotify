@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/62OlfZyTDTwngT4QlTxiAo"
+    },
+    "href": "https://api.spotify.com/v1/albums/62OlfZyTDTwngT4QlTxiAo",
+    "id": "62OlfZyTDTwngT4QlTxiAo",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27365947a7758ad0eb53beb8ab5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0265947a7758ad0eb53beb8ab5",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485165947a7758ad0eb53beb8ab5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "A Hand For Mrs. Claus",
+    "release_date": "2019-10-18",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:62OlfZyTDTwngT4QlTxiAo",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        },
+        "href": "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+        "id": "73Np75Wv2tju61Eo9Zw4IR",
+        "name": "Idina Menzel",
+        "type": "artist",
+        "uri": "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+      },
+      "href": "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+      "id": "73Np75Wv2tju61Eo9Zw4IR",
+      "name": "Idina Menzel",
+      "type": "artist",
+      "uri": "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 149040,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/51WKo14W3ePwu4bvn8bBLF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/51WKo14W3ePwu4bvn8bBLF",
+  "id": "51WKo14W3ePwu4bvn8bBLF",
+  "is_local": false,
+  "name": "A Hand For Mrs. Claus",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:51WKo14W3ePwu4bvn8bBLF"
+}

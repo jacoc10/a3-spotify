@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs"
+    },
+    "href": "https://api.spotify.com/v1/albums/7LsTjhsTKJA0Rfwwx1ppXs",
+    "id": "7LsTjhsTKJA0Rfwwx1ppXs",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a3ddc603dcab9bb83161a763",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a3ddc603dcab9bb83161a763",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a3ddc603dcab9bb83161a763",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "It Was A… (Masked Christmas)",
+    "release_date": "2021-12-07",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7LsTjhsTKJA0Rfwwx1ppXs",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+        },
+        "href": "https://api.spotify.com/v1/artists/7mAcgRMD6EfCKHO6cIkDOP",
+        "id": "7mAcgRMD6EfCKHO6cIkDOP",
+        "name": "Jimmy Fallon",
+        "type": "artist",
+        "uri": "spotify:artist:7mAcgRMD6EfCKHO6cIkDOP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+        "id": "181bsRPaVXVlUKXrxwZfHK",
+        "name": "Megan Thee Stallion",
+        "type": "artist",
+        "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP"
+      },
+      "href": "https://api.spotify.com/v1/artists/7mAcgRMD6EfCKHO6cIkDOP",
+      "id": "7mAcgRMD6EfCKHO6cIkDOP",
+      "name": "Jimmy Fallon",
+      "type": "artist",
+      "uri": "spotify:artist:7mAcgRMD6EfCKHO6cIkDOP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+      },
+      "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+      "id": "181bsRPaVXVlUKXrxwZfHK",
+      "name": "Megan Thee Stallion",
+      "type": "artist",
+      "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 180909,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0vGVNj5Fmn4TU4foavNZG1",
+  "id": "0vGVNj5Fmn4TU4foavNZG1",
+  "is_local": false,
+  "name": "It Was A… (Masked Christmas) (feat. Ariana Grande & Megan Thee Stallion)",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0vGVNj5Fmn4TU4foavNZG1"
+}

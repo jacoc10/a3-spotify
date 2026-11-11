@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0IQCAJBpfDM7at8nVWEldX"
+    },
+    "href": "https://api.spotify.com/v1/albums/0IQCAJBpfDM7at8nVWEldX",
+    "id": "0IQCAJBpfDM7at8nVWEldX",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27332588d9acbbcfa7622544a82",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0232588d9acbbcfa7622544a82",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485132588d9acbbcfa7622544a82",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "OMG (Remixes Pt 1)",
+    "release_date": "2019-08-30",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0IQCAJBpfDM7at8nVWEldX",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+        "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+        "name": "Gryffin",
+        "type": "artist",
+        "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+      },
+      "href": "https://api.spotify.com/v1/artists/2ZRQcIgzPCVaT9XKhXZIzh",
+      "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+      "name": "Gryffin",
+      "type": "artist",
+      "uri": "spotify:artist:2ZRQcIgzPCVaT9XKhXZIzh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4G59kHVfufDsMkwVr5pb2R"
+      },
+      "href": "https://api.spotify.com/v1/artists/4G59kHVfufDsMkwVr5pb2R",
+      "id": "4G59kHVfufDsMkwVr5pb2R",
+      "name": "Alphalove",
+      "type": "artist",
+      "uri": "spotify:artist:4G59kHVfufDsMkwVr5pb2R"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 197500,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1l8qH63RLBcLVq39srbjpf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1l8qH63RLBcLVq39srbjpf",
+  "id": "1l8qH63RLBcLVq39srbjpf",
+  "is_local": false,
+  "name": "OMG (with Carly Rae Jepsen) - Alphalove Remix",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1l8qH63RLBcLVq39srbjpf"
+}

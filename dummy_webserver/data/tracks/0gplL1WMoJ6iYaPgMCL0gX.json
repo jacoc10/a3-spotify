@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
+    },
+    "href": "https://api.spotify.com/v1/albums/224jZ4sUX7OhAuMwaxp86S",
+    "id": "224jZ4sUX7OhAuMwaxp86S",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a7c79b8f85ff6e56b39a549c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a7c79b8f85ff6e56b39a549c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a7c79b8f85ff6e56b39a549c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Easy On Me",
+    "release_date": "2021-10-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:224jZ4sUX7OhAuMwaxp86S",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 224694,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0gplL1WMoJ6iYaPgMCL0gX",
+  "id": "0gplL1WMoJ6iYaPgMCL0gX",
+  "is_local": false,
+  "name": "Easy On Me",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0gplL1WMoJ6iYaPgMCL0gX"
+}

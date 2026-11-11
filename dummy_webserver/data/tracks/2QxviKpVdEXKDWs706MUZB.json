@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/002MjQVkI2aHS733fGjj3S"
+    },
+    "href": "https://api.spotify.com/v1/albums/002MjQVkI2aHS733fGjj3S",
+    "id": "002MjQVkI2aHS733fGjj3S",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273dfa277d55d56b246f11e3062",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02dfa277d55d56b246f11e3062",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851dfa277d55d56b246f11e3062",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Old Phone",
+    "release_date": "2025-05-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:002MjQVkI2aHS733fGjj3S",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 221831,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2QxviKpVdEXKDWs706MUZB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2QxviKpVdEXKDWs706MUZB",
+  "id": "2QxviKpVdEXKDWs706MUZB",
+  "is_local": false,
+  "name": "Old Phone",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2QxviKpVdEXKDWs706MUZB"
+}

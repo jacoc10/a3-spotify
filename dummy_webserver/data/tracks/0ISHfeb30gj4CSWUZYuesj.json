@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/12A1Byk8EpqzaHSw12nKyW"
+    },
+    "href": "https://api.spotify.com/v1/albums/12A1Byk8EpqzaHSw12nKyW",
+    "id": "12A1Byk8EpqzaHSw12nKyW",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273905c0872bdf4e1787a6bb5da",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02905c0872bdf4e1787a6bb5da",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851905c0872bdf4e1787a6bb5da",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Cruelest Summer",
+    "release_date": "2023-10-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:12A1Byk8EpqzaHSw12nKyW",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+      },
+      "href": "https://api.spotify.com/v1/artists/3oKnyRhYWzNsTiss5n4Z1J",
+      "id": "3oKnyRhYWzNsTiss5n4Z1J",
+      "name": "LP Giobbi",
+      "type": "artist",
+      "uri": "spotify:artist:3oKnyRhYWzNsTiss5n4Z1J"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 253544,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ISHfeb30gj4CSWUZYuesj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ISHfeb30gj4CSWUZYuesj",
+  "id": "0ISHfeb30gj4CSWUZYuesj",
+  "is_local": false,
+  "name": "Cruel Summer - LP Giobbi Remix - Extended Version",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:0ISHfeb30gj4CSWUZYuesj"
+}

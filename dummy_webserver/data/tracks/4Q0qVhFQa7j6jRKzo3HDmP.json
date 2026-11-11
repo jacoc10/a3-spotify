@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1ZrWlhMUoyMKsoQ1tvRR2t"
+    },
+    "href": "https://api.spotify.com/v1/albums/1ZrWlhMUoyMKsoQ1tvRR2t",
+    "id": "1ZrWlhMUoyMKsoQ1tvRR2t",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2736fbb60d6a7e03ccb940a518e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e026fbb60d6a7e03ccb940a518e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048516fbb60d6a7e03ccb940a518e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sapphire",
+    "release_date": "2025-06-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1ZrWlhMUoyMKsoQ1tvRR2t",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 179082,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Q0qVhFQa7j6jRKzo3HDmP"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Q0qVhFQa7j6jRKzo3HDmP",
+  "id": "4Q0qVhFQa7j6jRKzo3HDmP",
+  "is_local": false,
+  "name": "Sapphire",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4Q0qVhFQa7j6jRKzo3HDmP"
+}

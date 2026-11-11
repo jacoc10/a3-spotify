@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2DNHRnOx39w2HyH8H6vXEW"
+    },
+    "href": "https://api.spotify.com/v1/albums/2DNHRnOx39w2HyH8H6vXEW",
+    "id": "2DNHRnOx39w2HyH8H6vXEW",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c9d74133162e70eb0a804879",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c9d74133162e70eb0a804879",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c9d74133162e70eb0a804879",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score)",
+    "release_date": "2021-06-04",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2DNHRnOx39w2HyH8H6vXEW",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 231826,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6pOJF93bhb1bTQvOXxE46u"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6pOJF93bhb1bTQvOXxE46u",
+  "id": "6pOJF93bhb1bTQvOXxE46u",
+  "is_local": false,
+  "name": "CAN THEY HEAR US (From ‘Gully’ with original Daniel Heath Score)",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6pOJF93bhb1bTQvOXxE46u"
+}

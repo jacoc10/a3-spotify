@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7oHKKCXCFIv3J1Yh5F08pu"
+    },
+    "href": "https://api.spotify.com/v1/albums/7oHKKCXCFIv3J1Yh5F08pu",
+    "id": "7oHKKCXCFIv3J1Yh5F08pu",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732b6138306d8853d23e0d8ead",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022b6138306d8853d23e0d8ead",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512b6138306d8853d23e0d8ead",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Dedicated Side B",
+    "release_date": "2020-05-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7oHKKCXCFIv3J1Yh5F08pu",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 195986,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3UK2G7CRI6aYnJyI0Aedl7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3UK2G7CRI6aYnJyI0Aedl7",
+  "id": "3UK2G7CRI6aYnJyI0Aedl7",
+  "is_local": false,
+  "name": "Summer Love",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:3UK2G7CRI6aYnJyI0Aedl7"
+}

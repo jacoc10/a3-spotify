@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5ps7DDNmOIh4OchVMajS3r"
+    },
+    "href": "https://api.spotify.com/v1/albums/5ps7DDNmOIh4OchVMajS3r",
+    "id": "5ps7DDNmOIh4OchVMajS3r",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27321786917bf5328bd40b559ec",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0221786917bf5328bd40b559ec",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485121786917bf5328bd40b559ec",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Training Season (Remixes)",
+    "release_date": "2024-02-15",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5ps7DDNmOIh4OchVMajS3r",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a"
+      },
+      "href": "https://api.spotify.com/v1/artists/68ywCN6ZpInbcilOfLBa3a",
+      "id": "68ywCN6ZpInbcilOfLBa3a",
+      "name": "Chloé Caillet",
+      "type": "artist",
+      "uri": "spotify:artist:68ywCN6ZpInbcilOfLBa3a"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 295471,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/77Qh1N8NkXpQv3ShPLNsiS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/77Qh1N8NkXpQv3ShPLNsiS",
+  "id": "77Qh1N8NkXpQv3ShPLNsiS",
+  "is_local": false,
+  "name": "Training Season - Chloé Caillet Mix",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:77Qh1N8NkXpQv3ShPLNsiS"
+}

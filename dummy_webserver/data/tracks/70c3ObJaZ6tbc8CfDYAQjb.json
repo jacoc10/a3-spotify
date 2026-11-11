@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/18DEtVsRVQ4rxqnOIAPwRB"
+    },
+    "href": "https://api.spotify.com/v1/albums/18DEtVsRVQ4rxqnOIAPwRB",
+    "id": "18DEtVsRVQ4rxqnOIAPwRB",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27350a1e24dde78df1d0ebc68ef",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0250a1e24dde78df1d0ebc68ef",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485150a1e24dde78df1d0ebc68ef",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Anti-Hero (feat. Bleachers)",
+    "release_date": "2022-11-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:18DEtVsRVQ4rxqnOIAPwRB",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        },
+        "href": "https://api.spotify.com/v1/artists/2eam0iDomRHGBypaDQLwWI",
+        "id": "2eam0iDomRHGBypaDQLwWI",
+        "name": "Bleachers",
+        "type": "artist",
+        "uri": "spotify:artist:2eam0iDomRHGBypaDQLwWI"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 200690,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/70c3ObJaZ6tbc8CfDYAQjb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/70c3ObJaZ6tbc8CfDYAQjb",
+  "id": "70c3ObJaZ6tbc8CfDYAQjb",
+  "is_local": false,
+  "name": "Anti-Hero",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:70c3ObJaZ6tbc8CfDYAQjb"
+}

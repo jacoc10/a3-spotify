@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad"
+    },
+    "href": "https://api.spotify.com/v1/albums/5sXSHscDjBez8VF20cSyad",
+    "id": "5sXSHscDjBez8VF20cSyad",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7b7174bef6f3fbfda3a0bb7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "No Time To Die",
+    "release_date": "2020-02-13",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5sXSHscDjBez8VF20cSyad",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 242265,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/73SpzrcaHk0RQPFP73vqVR",
+  "id": "73SpzrcaHk0RQPFP73vqVR",
+  "is_local": false,
+  "name": "No Time To Die",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:73SpzrcaHk0RQPFP73vqVR"
+}

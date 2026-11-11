@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 6,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6VuZIPDz8dyFaHlH7HhIWr"
+    },
+    "href": "https://api.spotify.com/v1/albums/6VuZIPDz8dyFaHlH7HhIWr",
+    "id": "6VuZIPDz8dyFaHlH7HhIWr",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e9a0f1f6d2e9d51754ad3cdb",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e9a0f1f6d2e9d51754ad3cdb",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e9a0f1f6d2e9d51754ad3cdb",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "songs I wrote that almost didn't make it",
+    "release_date": "2024-08-07",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6VuZIPDz8dyFaHlH7HhIWr",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 220413,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4vZCbd6hqvgCkubH0LdLbn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4vZCbd6hqvgCkubH0LdLbn",
+  "id": "4vZCbd6hqvgCkubH0LdLbn",
+  "is_local": false,
+  "name": "You Need Me, I Don't Need You",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:4vZCbd6hqvgCkubH0LdLbn"
+}

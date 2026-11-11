@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3aKLu3wgh654EA1iagDS2y"
+    },
+    "href": "https://api.spotify.com/v1/albums/3aKLu3wgh654EA1iagDS2y",
+    "id": "3aKLu3wgh654EA1iagDS2y",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739e98df53fddb1d01a7223f34",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029e98df53fddb1d01a7223f34",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519e98df53fddb1d01a7223f34",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Love Again",
+    "release_date": "2021-06-04",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3aKLu3wgh654EA1iagDS2y",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 258004,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3cbE0k4dUtvDJhyHjjuDPz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3cbE0k4dUtvDJhyHjjuDPz",
+  "id": "3cbE0k4dUtvDJhyHjjuDPz",
+  "is_local": false,
+  "name": "Love Again",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3cbE0k4dUtvDJhyHjjuDPz"
+}

@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0tc6zo8FGuGegfZIicLEwV"
+    },
+    "href": "https://api.spotify.com/v1/albums/0tc6zo8FGuGegfZIicLEwV",
+    "id": "0tc6zo8FGuGegfZIicLEwV",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273554f127136aa7945ce442617",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02554f127136aa7945ce442617",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851554f127136aa7945ce442617",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Emotion",
+    "release_date": "2015-08-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0tc6zo8FGuGegfZIicLEwV",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 276653,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4PijdRV622NbKXowFC5tdS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4PijdRV622NbKXowFC5tdS",
+  "id": "4PijdRV622NbKXowFC5tdS",
+  "is_local": false,
+  "name": "All That",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:4PijdRV622NbKXowFC5tdS"
+}

@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5t3AooZ5peKSKltkjr12Qm"
+    },
+    "href": "https://api.spotify.com/v1/albums/5t3AooZ5peKSKltkjr12Qm",
+    "id": "5t3AooZ5peKSKltkjr12Qm",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273fb2fbb14fb726e1c9da20d34",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02fb2fbb14fb726e1c9da20d34",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851fb2fbb14fb726e1c9da20d34",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "You’re Mines Still (feat. Drake)",
+    "release_date": "2020-10-15",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5t3AooZ5peKSKltkjr12Qm",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        "href": "https://api.spotify.com/v1/artists/3KNIG74xSTc3dj0TRy7pGX",
+        "id": "3KNIG74xSTc3dj0TRy7pGX",
+        "name": "Yung Bleu",
+        "type": "artist",
+        "uri": "spotify:artist:3KNIG74xSTc3dj0TRy7pGX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+      },
+      "href": "https://api.spotify.com/v1/artists/3KNIG74xSTc3dj0TRy7pGX",
+      "id": "3KNIG74xSTc3dj0TRy7pGX",
+      "name": "Yung Bleu",
+      "type": "artist",
+      "uri": "spotify:artist:3KNIG74xSTc3dj0TRy7pGX"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 226220,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3q6TQTEbiLNv3RfNQfPgo3"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3q6TQTEbiLNv3RfNQfPgo3",
+  "id": "3q6TQTEbiLNv3RfNQfPgo3",
+  "is_local": false,
+  "name": "You’re Mines Still (feat. Drake)",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3q6TQTEbiLNv3RfNQfPgo3"
+}

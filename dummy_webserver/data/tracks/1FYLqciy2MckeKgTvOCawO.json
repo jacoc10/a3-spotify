@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 32,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+    },
+    "href": "https://api.spotify.com/v1/albums/5UACk85y1hNRSUtY0ss8pb",
+    "id": "5UACk85y1hNRSUtY0ss8pb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d0f561d8bb164349dccbfde4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d0f561d8bb164349dccbfde4",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d0f561d8bb164349dccbfde4",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "k bye for now (swt live)",
+    "release_date": "2019-12-23",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5UACk85y1hNRSUtY0ss8pb",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0hCNtLu0JehylgoiP8L4Gh",
+      "id": "0hCNtLu0JehylgoiP8L4Gh",
+      "name": "Nicki Minaj",
+      "type": "artist",
+      "uri": "spotify:artist:0hCNtLu0JehylgoiP8L4Gh"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 260519,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1FYLqciy2MckeKgTvOCawO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1FYLqciy2MckeKgTvOCawO",
+  "id": "1FYLqciy2MckeKgTvOCawO",
+  "is_local": false,
+  "name": "side to side - live",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:1FYLqciy2MckeKgTvOCawO"
+}

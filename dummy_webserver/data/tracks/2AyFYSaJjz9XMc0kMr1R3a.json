@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7MoLQ8vckhwBbQqEYQTYQC"
+    },
+    "href": "https://api.spotify.com/v1/albums/7MoLQ8vckhwBbQqEYQTYQC",
+    "id": "7MoLQ8vckhwBbQqEYQTYQC",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739b035b031d9f0a6a75ae464e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029b035b031d9f0a6a75ae464e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519b035b031d9f0a6a75ae464e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Overly Dedicated",
+    "release_date": "2010-09-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7MoLQ8vckhwBbQqEYQTYQC",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ZS223C6JyBfXasXxrRqOk",
+      "id": "5ZS223C6JyBfXasXxrRqOk",
+      "name": "Jhené Aiko",
+      "type": "artist",
+      "uri": "spotify:artist:5ZS223C6JyBfXasXxrRqOk"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 220995,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2AyFYSaJjz9XMc0kMr1R3a"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2AyFYSaJjz9XMc0kMr1R3a",
+  "id": "2AyFYSaJjz9XMc0kMr1R3a",
+  "is_local": false,
+  "name": "Growing Apart (To Get Closer)",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2AyFYSaJjz9XMc0kMr1R3a"
+}

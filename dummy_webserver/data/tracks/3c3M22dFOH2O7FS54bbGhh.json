@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7a7eZtOFUeT0mERt5CBW5f"
+    },
+    "href": "https://api.spotify.com/v1/albums/7a7eZtOFUeT0mERt5CBW5f",
+    "id": "7a7eZtOFUeT0mERt5CBW5f",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273bcfcf81e7e58a3d60ccadb96",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02bcfcf81e7e58a3d60ccadb96",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851bcfcf81e7e58a3d60ccadb96",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "More",
+    "release_date": "2025-08-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7a7eZtOFUeT0mERt5CBW5f",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 204483,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3c3M22dFOH2O7FS54bbGhh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3c3M22dFOH2O7FS54bbGhh",
+  "id": "3c3M22dFOH2O7FS54bbGhh",
+  "is_local": false,
+  "name": "More",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3c3M22dFOH2O7FS54bbGhh"
+}

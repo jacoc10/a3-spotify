@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 6,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5uwmamGSJ3ayFsFflf8Wp5"
+    },
+    "href": "https://api.spotify.com/v1/albums/5uwmamGSJ3ayFsFflf8Wp5",
+    "id": "5uwmamGSJ3ayFsFflf8Wp5",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27387b85225d24eda2d6d77d330",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0287b85225d24eda2d6d77d330",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485187b85225d24eda2d6d77d330",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "kiss me under the light of a thousand stars",
+    "release_date": "2024-09-18",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5uwmamGSJ3ayFsFflf8Wp5",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 263400,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0YYBCjeCEm3rnKleZExEK5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0YYBCjeCEm3rnKleZExEK5",
+  "id": "0YYBCjeCEm3rnKleZExEK5",
+  "is_local": false,
+  "name": "Perfect",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0YYBCjeCEm3rnKleZExEK5"
+}

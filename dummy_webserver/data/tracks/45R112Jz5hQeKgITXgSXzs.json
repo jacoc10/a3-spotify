@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 23,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+    },
+    "href": "https://api.spotify.com/v1/albums/1fnJ7k0bllNfL1kVdNVW1A",
+    "id": "1fnJ7k0bllNfL1kVdNVW1A",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273fa747621a53c8e2cc436dee0",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02fa747621a53c8e2cc436dee0",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851fa747621a53c8e2cc436dee0",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Midnights (The Til Dawn Edition)",
+    "release_date": "2023-05-26",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1fnJ7k0bllNfL1kVdNVW1A",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 204852,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45R112Jz5hQeKgITXgSXzs"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45R112Jz5hQeKgITXgSXzs",
+  "id": "45R112Jz5hQeKgITXgSXzs",
+  "is_local": false,
+  "name": "Karma",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:45R112Jz5hQeKgITXgSXzs"
+}

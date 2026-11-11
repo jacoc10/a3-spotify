@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl"
+    },
+    "href": "https://api.spotify.com/v1/albums/0jiAYLsE1PumLJncO7vUIl",
+    "id": "0jiAYLsE1PumLJncO7vUIl",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd8912dfae6121b0e25bcaec",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd8912dfae6121b0e25bcaec",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851dd8912dfae6121b0e25bcaec",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "K-POP (Chopped & Screwed)",
+    "release_date": "2023-07-18",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0jiAYLsE1PumLJncO7vUIl",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+        "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+        "name": "Travis Scott",
+        "type": "artist",
+        "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Y5tJX1MQlPlqiwlOH1tJY",
+      "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+      "name": "Travis Scott",
+      "type": "artist",
+      "uri": "spotify:artist:0Y5tJX1MQlPlqiwlOH1tJY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "name": "Bad Bunny",
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 145530,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5mEE5p155rwEwxk83wcRIZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5mEE5p155rwEwxk83wcRIZ",
+  "id": "5mEE5p155rwEwxk83wcRIZ",
+  "is_local": false,
+  "name": "K-POP - Sped Up",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:5mEE5p155rwEwxk83wcRIZ"
+}

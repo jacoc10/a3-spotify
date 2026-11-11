@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 8,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0kL3TYRsSXnu0iJvFO3rud"
+    },
+    "href": "https://api.spotify.com/v1/albums/0kL3TYRsSXnu0iJvFO3rud",
+    "id": "0kL3TYRsSXnu0iJvFO3rud",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2738c697f553a46006a5d8886b2",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e028c697f553a46006a5d8886b2",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048518c697f553a46006a5d8886b2",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "untitled unmastered.",
+    "release_date": "2016-03-04",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0kL3TYRsSXnu0iJvFO3rud",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 235506,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5bBUDJUfGcG7eFy3Bf4fXv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5bBUDJUfGcG7eFy3Bf4fXv",
+  "id": "5bBUDJUfGcG7eFy3Bf4fXv",
+  "is_local": false,
+  "name": "untitled 08 | 09.06.2014.",
+  "popularity": 20,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5bBUDJUfGcG7eFy3Bf4fXv"
+}

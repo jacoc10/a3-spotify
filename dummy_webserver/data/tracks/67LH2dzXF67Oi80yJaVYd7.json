@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4FKnJE18DVG0Msk4D3NSYW"
+    },
+    "href": "https://api.spotify.com/v1/albums/4FKnJE18DVG0Msk4D3NSYW",
+    "id": "4FKnJE18DVG0Msk4D3NSYW",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273ab2b1c88fe95b43b41afa44b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02ab2b1c88fe95b43b41afa44b",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851ab2b1c88fe95b43b41afa44b",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "These Walls (feat. Pierre de Maere)",
+    "release_date": "2024-11-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4FKnJE18DVG0Msk4D3NSYW",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+        },
+        "href": "https://api.spotify.com/v1/artists/13mm5rU1jvWfWG6uQ46ypd",
+        "id": "13mm5rU1jvWfWG6uQ46ypd",
+        "name": "Pierre de Maere",
+        "type": "artist",
+        "uri": "spotify:artist:13mm5rU1jvWfWG6uQ46ypd"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/13mm5rU1jvWfWG6uQ46ypd"
+      },
+      "href": "https://api.spotify.com/v1/artists/13mm5rU1jvWfWG6uQ46ypd",
+      "id": "13mm5rU1jvWfWG6uQ46ypd",
+      "name": "Pierre de Maere",
+      "type": "artist",
+      "uri": "spotify:artist:13mm5rU1jvWfWG6uQ46ypd"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 217597,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/67LH2dzXF67Oi80yJaVYd7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/67LH2dzXF67Oi80yJaVYd7",
+  "id": "67LH2dzXF67Oi80yJaVYd7",
+  "is_local": false,
+  "name": "These Walls (feat. Pierre de Maere)",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:67LH2dzXF67Oi80yJaVYd7"
+}

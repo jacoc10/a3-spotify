@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6h0nkpR0KgZbat8CbOEctb"
+    },
+    "href": "https://api.spotify.com/v1/albums/6h0nkpR0KgZbat8CbOEctb",
+    "id": "6h0nkpR0KgZbat8CbOEctb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273fca733bb1088d59588f69e21",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02fca733bb1088d59588f69e21",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851fca733bb1088d59588f69e21",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "For Good (from Wicked: For Good - The Soundtrack)",
+    "release_date": "2025-11-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6h0nkpR0KgZbat8CbOEctb",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+        "id": "46UMQ0cW8ToR8egkBRwAxZ",
+        "name": "Cynthia Erivo",
+        "type": "artist",
+        "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+      "id": "46UMQ0cW8ToR8egkBRwAxZ",
+      "name": "Cynthia Erivo",
+      "type": "artist",
+      "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+      },
+      "href": "https://api.spotify.com/v1/artists/73Np75Wv2tju61Eo9Zw4IR",
+      "id": "73Np75Wv2tju61Eo9Zw4IR",
+      "name": "Idina Menzel",
+      "type": "artist",
+      "uri": "spotify:artist:73Np75Wv2tju61Eo9Zw4IR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/3DgcBA7P0ji5co7Z1Gfp2Q",
+      "id": "3DgcBA7P0ji5co7Z1Gfp2Q",
+      "name": "Kristin Chenoweth",
+      "type": "artist",
+      "uri": "spotify:artist:3DgcBA7P0ji5co7Z1Gfp2Q"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 271695,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ITSx4Ydu6URNx1FVanbhX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ITSx4Ydu6URNx1FVanbhX",
+  "id": "5ITSx4Ydu6URNx1FVanbhX",
+  "is_local": false,
+  "name": "For Good - Live from the Gershwin Theatre",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5ITSx4Ydu6URNx1FVanbhX"
+}

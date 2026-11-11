@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2ZUFSbIkmFkGag000RWOpA"
+    },
+    "href": "https://api.spotify.com/v1/albums/2ZUFSbIkmFkGag000RWOpA",
+    "id": "2ZUFSbIkmFkGag000RWOpA",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273adfb5909ec66db5fbb4d06c8",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02adfb5909ec66db5fbb4d06c8",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851adfb5909ec66db5fbb4d06c8",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Nothing Was The Same (Deluxe)",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2ZUFSbIkmFkGag000RWOpA",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+      },
+      "href": "https://api.spotify.com/v1/artists/3nFkdlSjzX9mRTtwJOzDYB",
+      "id": "3nFkdlSjzX9mRTtwJOzDYB",
+      "name": "JAY-Z",
+      "type": "artist",
+      "uri": "spotify:artist:3nFkdlSjzX9mRTtwJOzDYB"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 433800,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4RI9eX7jNcdaQOJifn7t6z"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4RI9eX7jNcdaQOJifn7t6z",
+  "id": "4RI9eX7jNcdaQOJifn7t6z",
+  "is_local": false,
+  "name": "Pound Cake / Paris Morton Music 2",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:4RI9eX7jNcdaQOJifn7t6z"
+}

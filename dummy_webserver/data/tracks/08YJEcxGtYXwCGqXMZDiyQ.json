@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 11,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Lg1uZvI312TPqxNWShFXL",
+    "id": "0Lg1uZvI312TPqxNWShFXL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737e7e5dd9d1ab19fcded8a17f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027e7e5dd9d1ab19fcded8a17f",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517e7e5dd9d1ab19fcded8a17f",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "21",
+    "release_date": "2011-01-24",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0Lg1uZvI312TPqxNWShFXL",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 228293,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/08YJEcxGtYXwCGqXMZDiyQ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/08YJEcxGtYXwCGqXMZDiyQ",
+  "id": "08YJEcxGtYXwCGqXMZDiyQ",
+  "is_local": false,
+  "name": "Take It All",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:08YJEcxGtYXwCGqXMZDiyQ"
+}

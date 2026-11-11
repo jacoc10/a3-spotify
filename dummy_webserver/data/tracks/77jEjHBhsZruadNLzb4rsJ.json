@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5PLs75rpnPJJ7glQxY7E1i"
+    },
+    "href": "https://api.spotify.com/v1/albums/5PLs75rpnPJJ7glQxY7E1i",
+    "id": "5PLs75rpnPJJ7glQxY7E1i",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c7bbab26d61a694b6343a30d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c7bbab26d61a694b6343a30d",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c7bbab26d61a694b6343a30d",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Azizam (D.O.D Remix)",
+    "release_date": "2025-05-16",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5PLs75rpnPJJ7glQxY7E1i",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+        "id": "0Cs47vvRsPgEfliBU9KDiB",
+        "name": "D.O.D",
+        "type": "artist",
+        "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Cs47vvRsPgEfliBU9KDiB",
+      "id": "0Cs47vvRsPgEfliBU9KDiB",
+      "name": "D.O.D",
+      "type": "artist",
+      "uri": "spotify:artist:0Cs47vvRsPgEfliBU9KDiB"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 168600,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/77jEjHBhsZruadNLzb4rsJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/77jEjHBhsZruadNLzb4rsJ",
+  "id": "77jEjHBhsZruadNLzb4rsJ",
+  "is_local": false,
+  "name": "Azizam (D.O.D Remix)",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:77jEjHBhsZruadNLzb4rsJ"
+}

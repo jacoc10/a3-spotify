@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1AmIy1yRVXFh4XpyDAvYtm"
+    },
+    "href": "https://api.spotify.com/v1/albums/1AmIy1yRVXFh4XpyDAvYtm",
+    "id": "1AmIy1yRVXFh4XpyDAvYtm",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e50d3b33bd18cbd5d3a15675",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e50d3b33bd18cbd5d3a15675",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e50d3b33bd18cbd5d3a15675",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Illusion",
+    "release_date": "2024-04-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1AmIy1yRVXFh4XpyDAvYtm",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 188976,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6vDTrrIAUROoHGrUOx99QT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6vDTrrIAUROoHGrUOx99QT",
+  "id": "6vDTrrIAUROoHGrUOx99QT",
+  "is_local": false,
+  "name": "Illusion - Acapella",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:6vDTrrIAUROoHGrUOx99QT"
+}

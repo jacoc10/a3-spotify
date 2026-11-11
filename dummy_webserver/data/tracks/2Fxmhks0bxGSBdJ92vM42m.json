@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 14,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+    },
+    "href": "https://api.spotify.com/v1/albums/0S0KGZnfBGSIssfF54WSJh",
+    "id": "0S0KGZnfBGSIssfF54WSJh",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27350a3147b4edd7701a876c6ce",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0250a3147b4edd7701a876c6ce",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485150a3147b4edd7701a876c6ce",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+    "release_date": "2019-03-29",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0S0KGZnfBGSIssfF54WSJh",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 194087,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Fxmhks0bxGSBdJ92vM42m",
+  "id": "2Fxmhks0bxGSBdJ92vM42m",
+  "is_local": false,
+  "name": "bad guy",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:2Fxmhks0bxGSBdJ92vM42m"
+}

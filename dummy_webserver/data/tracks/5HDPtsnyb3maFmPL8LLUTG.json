@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+    },
+    "href": "https://api.spotify.com/v1/albums/3T4tUhGYeRNVUGevb0wThu",
+    "id": "3T4tUhGYeRNVUGevb0wThu",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02ba5db46f4b838ef6027e6f96",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851ba5db46f4b838ef6027e6f96",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "÷ (Deluxe)",
+    "release_date": "2017-03-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3T4tUhGYeRNVUGevb0wThu",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 189280,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5HDPtsnyb3maFmPL8LLUTG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5HDPtsnyb3maFmPL8LLUTG",
+  "id": "5HDPtsnyb3maFmPL8LLUTG",
+  "is_local": false,
+  "name": "New Man",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 8,
+  "type": "track",
+  "uri": "spotify:track:5HDPtsnyb3maFmPL8LLUTG"
+}

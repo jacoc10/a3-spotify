@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 19,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6cbwstHlsAIIWurIIXXBPd"
+    },
+    "href": "https://api.spotify.com/v1/albums/6cbwstHlsAIIWurIIXXBPd",
+    "id": "6cbwstHlsAIIWurIIXXBPd",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735ab3c842fde848df7a4ee6d9",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025ab3c842fde848df7a4ee6d9",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515ab3c842fde848df7a4ee6d9",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "eternal sunshine deluxe: brighter days ahead",
+    "release_date": "2025-03-28",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6cbwstHlsAIIWurIIXXBPd",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 215834,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2MIpkAQVJqQIDf9k4YWoHR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2MIpkAQVJqQIDf9k4YWoHR",
+  "id": "2MIpkAQVJqQIDf9k4YWoHR",
+  "is_local": false,
+  "name": "past life",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 18,
+  "type": "track",
+  "uri": "spotify:track:2MIpkAQVJqQIDf9k4YWoHR"
+}

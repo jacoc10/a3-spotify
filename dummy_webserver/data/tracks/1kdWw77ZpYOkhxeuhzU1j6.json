@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 17,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
+    },
+    "href": "https://api.spotify.com/v1/albums/6AORtDjduMM3bupSWzbTSG",
+    "id": "6AORtDjduMM3bupSWzbTSG",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0290fd9741e1838115cd90b3b6",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485190fd9741e1838115cd90b3b6",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "evermore (deluxe version)",
+    "release_date": "2021-01-07",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6AORtDjduMM3bupSWzbTSG",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 254640,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1kdWw77ZpYOkhxeuhzU1j6"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1kdWw77ZpYOkhxeuhzU1j6",
+  "id": "1kdWw77ZpYOkhxeuhzU1j6",
+  "is_local": false,
+  "name": "it’s time to go - bonus track",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:1kdWw77ZpYOkhxeuhzU1j6"
+}

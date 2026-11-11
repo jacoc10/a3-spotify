@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+    },
+    "href": "https://api.spotify.com/v1/albums/21jF5jlMtzo94wbxmJ18aa",
+    "id": "21jF5jlMtzo94wbxmJ18aa",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c6b577e4c4a6d326354a89f7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c6b577e4c4a6d326354a89f7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "30",
+    "release_date": "2021-11-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:21jF5jlMtzo94wbxmJ18aa",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 366004,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6bGMSP3H9YqkmaLnaJTIoF",
+  "id": "6bGMSP3H9YqkmaLnaJTIoF",
+  "is_local": false,
+  "name": "Hold On",
+  "popularity": 38,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:6bGMSP3H9YqkmaLnaJTIoF"
+}

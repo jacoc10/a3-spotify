@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6eKdbTio5viiwJ5FE5J8wU"
+    },
+    "href": "https://api.spotify.com/v1/albums/6eKdbTio5viiwJ5FE5J8wU",
+    "id": "6eKdbTio5viiwJ5FE5J8wU",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f233c37dddd971caf61515cf",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f233c37dddd971caf61515cf",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f233c37dddd971caf61515cf",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Lavender Haze (Acoustic Version)",
+    "release_date": "2023-03-31",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6eKdbTio5viiwJ5FE5J8wU",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 174375,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/05kJkr80XEaZeN8kxyQoFp"
+  },
+  "href": "https://api.spotify.com/v1/tracks/05kJkr80XEaZeN8kxyQoFp",
+  "id": "05kJkr80XEaZeN8kxyQoFp",
+  "is_local": false,
+  "name": "Lavender Haze - Acoustic Version",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:05kJkr80XEaZeN8kxyQoFp"
+}

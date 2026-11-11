@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/42hbqXgvZ1dI3gQ1ZDnHA5"
+    },
+    "href": "https://api.spotify.com/v1/albums/42hbqXgvZ1dI3gQ1ZDnHA5",
+    "id": "42hbqXgvZ1dI3gQ1ZDnHA5",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b1e85091fafe0597d4f129ca",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b1e85091fafe0597d4f129ca",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b1e85091fafe0597d4f129ca",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Rain On Me (Purple Disco Machine Remix)",
+    "release_date": "2020-07-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:42hbqXgvZ1dI3gQ1ZDnHA5",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        },
+        "href": "https://api.spotify.com/v1/artists/2WBJQGf1bT1kxuoqziH5g4",
+        "id": "2WBJQGf1bT1kxuoqziH5g4",
+        "name": "Purple Disco Machine",
+        "type": "artist",
+        "uri": "spotify:artist:2WBJQGf1bT1kxuoqziH5g4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id": "1HY2Jd0NmPuamShAr6KMms",
+      "name": "Lady Gaga",
+      "type": "artist",
+      "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+      },
+      "href": "https://api.spotify.com/v1/artists/2WBJQGf1bT1kxuoqziH5g4",
+      "id": "2WBJQGf1bT1kxuoqziH5g4",
+      "name": "Purple Disco Machine",
+      "type": "artist",
+      "uri": "spotify:artist:2WBJQGf1bT1kxuoqziH5g4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 394187,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0b0WJSdPsu531iLWZ0FDqR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0b0WJSdPsu531iLWZ0FDqR",
+  "id": "0b0WJSdPsu531iLWZ0FDqR",
+  "is_local": false,
+  "name": "Rain On Me - Purple Disco Machine Remix",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0b0WJSdPsu531iLWZ0FDqR"
+}

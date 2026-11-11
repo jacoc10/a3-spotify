@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3381QDV4oeq2S1vJrx1qVn"
+    },
+    "href": "https://api.spotify.com/v1/albums/3381QDV4oeq2S1vJrx1qVn",
+    "id": "3381QDV4oeq2S1vJrx1qVn",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2736dcf25f497789032e9bb0e5d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e026dcf25f497789032e9bb0e5d",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048516dcf25f497789032e9bb0e5d",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Sound (Live In Lapland, Finland)",
+    "release_date": "2019-10-18",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3381QDV4oeq2S1vJrx1qVn",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 169500,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0pjEULkkLxkGWNBW4F9Ndr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0pjEULkkLxkGWNBW4F9Ndr",
+  "id": "0pjEULkkLxkGWNBW4F9Ndr",
+  "is_local": false,
+  "name": "The Sound - Live In Lapland, Finland",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0pjEULkkLxkGWNBW4F9Ndr"
+}

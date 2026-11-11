@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6ktJ192atirIqjWlL7596s"
+    },
+    "href": "https://api.spotify.com/v1/albums/6ktJ192atirIqjWlL7596s",
+    "id": "6ktJ192atirIqjWlL7596s",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d95dc4ab5d07266403439993",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d95dc4ab5d07266403439993",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d95dc4ab5d07266403439993",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Your Type (Remixes)",
+    "release_date": "2015-12-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6ktJ192atirIqjWlL7596s",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 230093,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6x5mg1IuE89Qby0AqghZLF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6x5mg1IuE89Qby0AqghZLF",
+  "id": "6x5mg1IuE89Qby0AqghZLF",
+  "is_local": false,
+  "name": "Your Type - Skylar Spence Remix",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6x5mg1IuE89Qby0AqghZLF"
+}

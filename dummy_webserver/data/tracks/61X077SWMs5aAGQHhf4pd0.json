@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2I9wpUTuzMT8aS6iVpM2EQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/2I9wpUTuzMT8aS6iVpM2EQ",
+    "id": "2I9wpUTuzMT8aS6iVpM2EQ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b16b427371c5fdd76f1b0ee1",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b16b427371c5fdd76f1b0ee1",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b16b427371c5fdd76f1b0ee1",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Bellyache (Marian Hill Remix)",
+    "release_date": "2017-05-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2I9wpUTuzMT8aS6iVpM2EQ",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+      },
+      "href": "https://api.spotify.com/v1/artists/1xHQO9GJIW9OXHxGBISYc5",
+      "id": "1xHQO9GJIW9OXHxGBISYc5",
+      "name": "Marian Hill",
+      "type": "artist",
+      "uri": "spotify:artist:1xHQO9GJIW9OXHxGBISYc5"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 220800,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/61X077SWMs5aAGQHhf4pd0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/61X077SWMs5aAGQHhf4pd0",
+  "id": "61X077SWMs5aAGQHhf4pd0",
+  "is_local": false,
+  "name": "Bellyache - Marian Hill Remix",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:61X077SWMs5aAGQHhf4pd0"
+}

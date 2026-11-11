@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4nYNhHvplNoshAgSOnsnlL"
+    },
+    "href": "https://api.spotify.com/v1/albums/4nYNhHvplNoshAgSOnsnlL",
+    "id": "4nYNhHvplNoshAgSOnsnlL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273eff5e7d2e10fe38bb1d72d56",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02eff5e7d2e10fe38bb1d72d56",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851eff5e7d2e10fe38bb1d72d56",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Houdini (Adam Port Mix) [Extended]",
+    "release_date": "2024-01-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4nYNhHvplNoshAgSOnsnlL",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+        },
+        "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "type": "artist",
+        "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk"
+      },
+      "href": "https://api.spotify.com/v1/artists/2loEsOijJ6XiGzWYFXMIRk",
+      "id": "2loEsOijJ6XiGzWYFXMIRk",
+      "name": "Adam Port",
+      "type": "artist",
+      "uri": "spotify:artist:2loEsOijJ6XiGzWYFXMIRk"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 250187,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/53UTIvxDWTP06DMRdjGGsf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/53UTIvxDWTP06DMRdjGGsf",
+  "id": "53UTIvxDWTP06DMRdjGGsf",
+  "is_local": false,
+  "name": "Houdini (Adam Port Mix) [Extended]",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:53UTIvxDWTP06DMRdjGGsf"
+}

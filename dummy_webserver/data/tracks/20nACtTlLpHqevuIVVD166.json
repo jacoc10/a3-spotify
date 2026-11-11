@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1agEHpWnELaZHWzcbGDCpu"
+    },
+    "href": "https://api.spotify.com/v1/albums/1agEHpWnELaZHWzcbGDCpu",
+    "id": "1agEHpWnELaZHWzcbGDCpu",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e6b77b3eef9269d06e13fe17",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e6b77b3eef9269d06e13fe17",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e6b77b3eef9269d06e13fe17",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Fortnight (feat. Post Malone) [BLOND:ISH Remix]",
+    "release_date": "2024-05-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1agEHpWnELaZHWzcbGDCpu",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        },
+        "href": "https://api.spotify.com/v1/artists/6zsJjoCtL1WByG0VsuFWzR",
+        "id": "6zsJjoCtL1WByG0VsuFWzR",
+        "name": "BLOND:ISH",
+        "type": "artist",
+        "uri": "spotify:artist:6zsJjoCtL1WByG0VsuFWzR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+      },
+      "href": "https://api.spotify.com/v1/artists/246dkjvS1zLTtiykXe5h60",
+      "id": "246dkjvS1zLTtiykXe5h60",
+      "name": "Post Malone",
+      "type": "artist",
+      "uri": "spotify:artist:246dkjvS1zLTtiykXe5h60"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 228965,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/20nACtTlLpHqevuIVVD166"
+  },
+  "href": "https://api.spotify.com/v1/tracks/20nACtTlLpHqevuIVVD166",
+  "id": "20nACtTlLpHqevuIVVD166",
+  "is_local": false,
+  "name": "Fortnight (feat. Post Malone)",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:20nACtTlLpHqevuIVVD166"
+}

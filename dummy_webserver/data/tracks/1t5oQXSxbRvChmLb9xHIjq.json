@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4K9FzDIUZj0d7sNphMSIne"
+    },
+    "href": "https://api.spotify.com/v1/albums/4K9FzDIUZj0d7sNphMSIne",
+    "id": "4K9FzDIUZj0d7sNphMSIne",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273faffb816af54d91de8709efc",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02faffb816af54d91de8709efc",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851faffb816af54d91de8709efc",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "No Drug Like Me (Mansionair Remix)",
+    "release_date": "2019-06-28",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4K9FzDIUZj0d7sNphMSIne",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+        },
+        "href": "https://api.spotify.com/v1/artists/4qOzMSukiZoiSjPQw8Zs7s",
+        "id": "4qOzMSukiZoiSjPQw8Zs7s",
+        "name": "Mansionair",
+        "type": "artist",
+        "uri": "spotify:artist:4qOzMSukiZoiSjPQw8Zs7s"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s"
+      },
+      "href": "https://api.spotify.com/v1/artists/4qOzMSukiZoiSjPQw8Zs7s",
+      "id": "4qOzMSukiZoiSjPQw8Zs7s",
+      "name": "Mansionair",
+      "type": "artist",
+      "uri": "spotify:artist:4qOzMSukiZoiSjPQw8Zs7s"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 218285,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1t5oQXSxbRvChmLb9xHIjq"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1t5oQXSxbRvChmLb9xHIjq",
+  "id": "1t5oQXSxbRvChmLb9xHIjq",
+  "is_local": false,
+  "name": "No Drug Like Me - Mansionair Remix",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1t5oQXSxbRvChmLb9xHIjq"
+}

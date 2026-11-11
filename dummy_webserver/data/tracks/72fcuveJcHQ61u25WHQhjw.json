@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6VfBBrRc9CiWisIAoBeTqs"
+    },
+    "href": "https://api.spotify.com/v1/albums/6VfBBrRc9CiWisIAoBeTqs",
+    "id": "6VfBBrRc9CiWisIAoBeTqs",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d70654ee9ed03bbc86facf1",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029d70654ee9ed03bbc86facf1",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519d70654ee9ed03bbc86facf1",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Open Hearts",
+    "release_date": "2025-01-29",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6VfBBrRc9CiWisIAoBeTqs",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 211148,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/72fcuveJcHQ61u25WHQhjw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/72fcuveJcHQ61u25WHQhjw",
+  "id": "72fcuveJcHQ61u25WHQhjw",
+  "is_local": false,
+  "name": "Open Hearts - Single Version",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:72fcuveJcHQ61u25WHQhjw"
+}

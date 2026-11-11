@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 8,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3QbPtoOWiJqZurXXxJwaOD"
+    },
+    "href": "https://api.spotify.com/v1/albums/3QbPtoOWiJqZurXXxJwaOD",
+    "id": "3QbPtoOWiJqZurXXxJwaOD",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273bc17a9c21d5a81d341945ed2",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02bc17a9c21d5a81d341945ed2",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851bc17a9c21d5a81d341945ed2",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Loose Change",
+    "release_date": "2011-12-09",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3QbPtoOWiJqZurXXxJwaOD",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 226066,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7sGK98k8lv3hzRznoN909t"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7sGK98k8lv3hzRznoN909t",
+  "id": "7sGK98k8lv3hzRznoN909t",
+  "is_local": false,
+  "name": "Little Bird",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7sGK98k8lv3hzRznoN909t"
+}

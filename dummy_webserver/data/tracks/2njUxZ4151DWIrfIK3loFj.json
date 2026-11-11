@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5XRJoC2QtsNbAubsCrBBbG"
+    },
+    "href": "https://api.spotify.com/v1/albums/5XRJoC2QtsNbAubsCrBBbG",
+    "id": "5XRJoC2QtsNbAubsCrBBbG",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2738fbc40da547bc157e8956cea",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e028fbc40da547bc157e8956cea",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048518fbc40da547bc157e8956cea",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "COPYCAT (Sofi Tukker Remix)",
+    "release_date": "2018-01-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5XRJoC2QtsNbAubsCrBBbG",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+        "id": "586uxXMyD5ObPuzjtrzO1Q",
+        "name": "SOFI TUKKER",
+        "type": "artist",
+        "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+      },
+      "href": "https://api.spotify.com/v1/artists/586uxXMyD5ObPuzjtrzO1Q",
+      "id": "586uxXMyD5ObPuzjtrzO1Q",
+      "name": "SOFI TUKKER",
+      "type": "artist",
+      "uri": "spotify:artist:586uxXMyD5ObPuzjtrzO1Q"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 198684,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2njUxZ4151DWIrfIK3loFj"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2njUxZ4151DWIrfIK3loFj",
+  "id": "2njUxZ4151DWIrfIK3loFj",
+  "is_local": false,
+  "name": "COPYCAT - Sofi Tukker Remix",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2njUxZ4151DWIrfIK3loFj"
+}

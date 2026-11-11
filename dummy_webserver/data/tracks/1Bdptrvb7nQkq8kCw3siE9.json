@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 15,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+    },
+    "href": "https://api.spotify.com/v1/albums/3oIFxDIo2fwuk4lwCmFZCx",
+    "id": "3oIFxDIo2fwuk4lwCmFZCx",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0273304ce0653c7758dd94b259",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485173304ce0653c7758dd94b259",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "No.6 Collaborations Project",
+    "release_date": "2019-07-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3oIFxDIo2fwuk4lwCmFZCx",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+      },
+      "href": "https://api.spotify.com/v1/artists/50co4Is1HCEo8bhOyUWKpn",
+      "id": "50co4Is1HCEo8bhOyUWKpn",
+      "name": "Young Thug",
+      "type": "artist",
+      "uri": "spotify:artist:50co4Is1HCEo8bhOyUWKpn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr"
+      },
+      "href": "https://api.spotify.com/v1/artists/2a0uxJgbvvIRI4GX8pYfcr",
+      "id": "2a0uxJgbvvIRI4GX8pYfcr",
+      "name": "J Hus",
+      "type": "artist",
+      "uri": "spotify:artist:2a0uxJgbvvIRI4GX8pYfcr"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 150786,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Bdptrvb7nQkq8kCw3siE9"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Bdptrvb7nQkq8kCw3siE9",
+  "id": "1Bdptrvb7nQkq8kCw3siE9",
+  "is_local": false,
+  "name": "Feels (feat. Young Thug & J Hus)",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:1Bdptrvb7nQkq8kCw3siE9"
+}

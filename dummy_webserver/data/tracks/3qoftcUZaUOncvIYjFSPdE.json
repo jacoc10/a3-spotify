@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 13,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3"
+    },
+    "href": "https://api.spotify.com/v1/albums/151w1FgRZfnKZA9FEcg9Z3",
+    "id": "151w1FgRZfnKZA9FEcg9Z3",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273bb54dde68cd23e2a268ae0f5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02bb54dde68cd23e2a268ae0f5",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851bb54dde68cd23e2a268ae0f5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Midnights",
+    "release_date": "2022-10-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:151w1FgRZfnKZA9FEcg9Z3",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 194165,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3qoftcUZaUOncvIYjFSPdE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3qoftcUZaUOncvIYjFSPdE",
+  "id": "3qoftcUZaUOncvIYjFSPdE",
+  "is_local": false,
+  "name": "Bejeweled",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 9,
+  "type": "track",
+  "uri": "spotify:track:3qoftcUZaUOncvIYjFSPdE"
+}

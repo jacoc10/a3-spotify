@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 27,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2ajCD41iDxflpYBZmSO9S7"
+    },
+    "href": "https://api.spotify.com/v1/albums/2ajCD41iDxflpYBZmSO9S7",
+    "id": "2ajCD41iDxflpYBZmSO9S7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2733dda724c2d12f53fd77b0ed2",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e023dda724c2d12f53fd77b0ed2",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048513dda724c2d12f53fd77b0ed2",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Play (Deluxe)",
+    "release_date": "2025-11-28",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2ajCD41iDxflpYBZmSO9S7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 237568,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/08vSR7kV7cUqGnCpSzJfJ8"
+  },
+  "href": "https://api.spotify.com/v1/tracks/08vSR7kV7cUqGnCpSzJfJ8",
+  "id": "08vSR7kV7cUqGnCpSzJfJ8",
+  "is_local": false,
+  "name": "Freedom",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 17,
+  "type": "track",
+  "uri": "spotify:track:08vSR7kV7cUqGnCpSzJfJ8"
+}

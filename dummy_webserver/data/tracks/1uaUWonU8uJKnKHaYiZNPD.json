@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2OqSK4OKrorvnUzYunU2lX"
+    },
+    "href": "https://api.spotify.com/v1/albums/2OqSK4OKrorvnUzYunU2lX",
+    "id": "2OqSK4OKrorvnUzYunU2lX",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27307894829ab71aac2e995f425",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0207894829ab71aac2e995f425",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485107894829ab71aac2e995f425",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "twilight zone",
+    "release_date": "2025-06-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2OqSK4OKrorvnUzYunU2lX",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 198320,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1uaUWonU8uJKnKHaYiZNPD"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1uaUWonU8uJKnKHaYiZNPD",
+  "id": "1uaUWonU8uJKnKHaYiZNPD",
+  "is_local": false,
+  "name": "twilight zone - instrumental",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:1uaUWonU8uJKnKHaYiZNPD"
+}

@@ -1,0 +1,124 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3qHsYfN7ua1WGhQn1wquIn"
+    },
+    "href": "https://api.spotify.com/v1/albums/3qHsYfN7ua1WGhQn1wquIn",
+    "id": "3qHsYfN7ua1WGhQn1wquIn",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273567c147503e8b84dea587971",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02567c147503e8b84dea587971",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851567c147503e8b84dea587971",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Push Thru (feat. Kendrick Lamar and Curren$y)",
+    "release_date": "2012",
+    "release_date_precision": "year",
+    "type": "album",
+    "uri": "spotify:album:3qHsYfN7ua1WGhQn1wquIn",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+        },
+        "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+        "id": "0lEssBAxQl2In4RpaB1C2Y",
+        "name": "Talib Kweli",
+        "type": "artist",
+        "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        "href": "https://api.spotify.com/v1/artists/6X8WdFjrNhXATMDSs26aCc",
+        "id": "6X8WdFjrNhXATMDSs26aCc",
+        "name": "Curren$y",
+        "type": "artist",
+        "uri": "spotify:artist:6X8WdFjrNhXATMDSs26aCc"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y"
+      },
+      "href": "https://api.spotify.com/v1/artists/0lEssBAxQl2In4RpaB1C2Y",
+      "id": "0lEssBAxQl2In4RpaB1C2Y",
+      "name": "Talib Kweli",
+      "type": "artist",
+      "uri": "spotify:artist:0lEssBAxQl2In4RpaB1C2Y"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+      },
+      "href": "https://api.spotify.com/v1/artists/6X8WdFjrNhXATMDSs26aCc",
+      "id": "6X8WdFjrNhXATMDSs26aCc",
+      "name": "Curren$y",
+      "type": "artist",
+      "uri": "spotify:artist:6X8WdFjrNhXATMDSs26aCc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4qyN300ZrK3SriUfOGpB75"
+      },
+      "href": "https://api.spotify.com/v1/artists/4qyN300ZrK3SriUfOGpB75",
+      "id": "4qyN300ZrK3SriUfOGpB75",
+      "name": "Glen Reynolds",
+      "type": "artist",
+      "uri": "spotify:artist:4qyN300ZrK3SriUfOGpB75"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 300800,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7HetWRCNDPHhiksK6VrAG1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7HetWRCNDPHhiksK6VrAG1",
+  "id": "7HetWRCNDPHhiksK6VrAG1",
+  "is_local": false,
+  "name": "Push Thru",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7HetWRCNDPHhiksK6VrAG1"
+}

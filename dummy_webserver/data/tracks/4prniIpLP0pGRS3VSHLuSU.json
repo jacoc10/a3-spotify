@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6UooieEGei8NqZD879nESL"
+    },
+    "href": "https://api.spotify.com/v1/albums/6UooieEGei8NqZD879nESL",
+    "id": "6UooieEGei8NqZD879nESL",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27361cddc753ca298eaade387dd",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0261cddc753ca298eaade387dd",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485161cddc753ca298eaade387dd",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "A Little More (Unplugged)",
+    "release_date": "2025-08-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6UooieEGei8NqZD879nESL",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 189221,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4prniIpLP0pGRS3VSHLuSU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4prniIpLP0pGRS3VSHLuSU",
+  "id": "4prniIpLP0pGRS3VSHLuSU",
+  "is_local": false,
+  "name": "A Little More - Unplugged",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4prniIpLP0pGRS3VSHLuSU"
+}

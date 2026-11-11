@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj"
+    },
+    "href": "https://api.spotify.com/v1/albums/1YPWxMpQEC8kcOuefgXbhj",
+    "id": "1YPWxMpQEC8kcOuefgXbhj",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737a4781629469bb83356cd318",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027a4781629469bb83356cd318",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517a4781629469bb83356cd318",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Guitar Songs",
+    "release_date": "2022-07-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1YPWxMpQEC8kcOuefgXbhj",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 216448,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5SHpuW2qjkQtFRpE6P9Nks",
+  "id": "5SHpuW2qjkQtFRpE6P9Nks",
+  "is_local": false,
+  "name": "The 30th",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5SHpuW2qjkQtFRpE6P9Nks"
+}

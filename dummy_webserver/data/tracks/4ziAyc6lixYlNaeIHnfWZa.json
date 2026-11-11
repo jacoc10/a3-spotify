@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4JjVwFhBHZTMJTSAIACvn4"
+    },
+    "href": "https://api.spotify.com/v1/albums/4JjVwFhBHZTMJTSAIACvn4",
+    "id": "4JjVwFhBHZTMJTSAIACvn4",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a3ae84066f22296ddaeb2cca",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a3ae84066f22296ddaeb2cca",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a3ae84066f22296ddaeb2cca",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Cold Shoulder",
+    "release_date": "2008-04-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4JjVwFhBHZTMJTSAIACvn4",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YrKBkKSVeqDamzBPWVnSJ",
+      "id": "4YrKBkKSVeqDamzBPWVnSJ",
+      "name": "Basement Jaxx",
+      "type": "artist",
+      "uri": "spotify:artist:4YrKBkKSVeqDamzBPWVnSJ"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 301493,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4ziAyc6lixYlNaeIHnfWZa"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4ziAyc6lixYlNaeIHnfWZa",
+  "id": "4ziAyc6lixYlNaeIHnfWZa",
+  "is_local": false,
+  "name": "Cold Shoulder - Basement Jaxx Classic Remix",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:4ziAyc6lixYlNaeIHnfWZa"
+}

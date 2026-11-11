@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0FtycwGYu9y81sqzreqg1o"
+    },
+    "href": "https://api.spotify.com/v1/albums/0FtycwGYu9y81sqzreqg1o",
+    "id": "0FtycwGYu9y81sqzreqg1o",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2738b6297cb4b02171c03c324c0",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e028b6297cb4b02171c03c324c0",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048518b6297cb4b02171c03c324c0",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Part of Your World",
+    "release_date": "2013-01-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0FtycwGYu9y81sqzreqg1o",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 196173,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2qugSPZT4ft2CLV8zgrSdB"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2qugSPZT4ft2CLV8zgrSdB",
+  "id": "2qugSPZT4ft2CLV8zgrSdB",
+  "is_local": false,
+  "name": "Part of Your World",
+  "popularity": 24,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2qugSPZT4ft2CLV8zgrSdB"
+}

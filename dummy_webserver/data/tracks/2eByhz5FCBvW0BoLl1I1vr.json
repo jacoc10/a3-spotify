@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 28,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5bLE2kmkZWlzAYeb6To6LA"
+    },
+    "href": "https://api.spotify.com/v1/albums/5bLE2kmkZWlzAYeb6To6LA",
+    "id": "5bLE2kmkZWlzAYeb6To6LA",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b89a4c6fd745bd3751938201",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b89a4c6fd745bd3751938201",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b89a4c6fd745bd3751938201",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Autumn Variations (Fan Living Room Sessions)",
+    "release_date": "2023-10-02",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5bLE2kmkZWlzAYeb6To6LA",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 2,
+  "duration_ms": 214960,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2eByhz5FCBvW0BoLl1I1vr"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2eByhz5FCBvW0BoLl1I1vr",
+  "id": "2eByhz5FCBvW0BoLl1I1vr",
+  "is_local": false,
+  "name": "The Day I Was Born - Live from Danielle’s Living Room",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 13,
+  "type": "track",
+  "uri": "spotify:track:2eByhz5FCBvW0BoLl1I1vr"
+}

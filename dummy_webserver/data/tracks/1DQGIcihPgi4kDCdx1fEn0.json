@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/181WKxuhHzTyjMcYdI7UUe"
+    },
+    "href": "https://api.spotify.com/v1/albums/181WKxuhHzTyjMcYdI7UUe",
+    "id": "181WKxuhHzTyjMcYdI7UUe",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27314cf4f2a3a808b716604d115",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0214cf4f2a3a808b716604d115",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485114cf4f2a3a808b716604d115",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "How Do I Make You Love Me? (Sebastian Ingrosso & Salvatore Ganacci Remix)",
+    "release_date": "2022-07-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:181WKxuhHzTyjMcYdI7UUe",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+        },
+        "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+        "id": "6hyMWrxGBsOx6sWcVj1DqP",
+        "name": "Sebastian Ingrosso",
+        "type": "artist",
+        "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        },
+        "href": "https://api.spotify.com/v1/artists/5PdkRVDASsw6P7QoqRpz0F",
+        "id": "5PdkRVDASsw6P7QoqRpz0F",
+        "name": "Salvatore Ganacci",
+        "type": "artist",
+        "uri": "spotify:artist:5PdkRVDASsw6P7QoqRpz0F"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP"
+      },
+      "href": "https://api.spotify.com/v1/artists/6hyMWrxGBsOx6sWcVj1DqP",
+      "id": "6hyMWrxGBsOx6sWcVj1DqP",
+      "name": "Sebastian Ingrosso",
+      "type": "artist",
+      "uri": "spotify:artist:6hyMWrxGBsOx6sWcVj1DqP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+      },
+      "href": "https://api.spotify.com/v1/artists/5PdkRVDASsw6P7QoqRpz0F",
+      "id": "5PdkRVDASsw6P7QoqRpz0F",
+      "name": "Salvatore Ganacci",
+      "type": "artist",
+      "uri": "spotify:artist:5PdkRVDASsw6P7QoqRpz0F"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 217766,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1DQGIcihPgi4kDCdx1fEn0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1DQGIcihPgi4kDCdx1fEn0",
+  "id": "1DQGIcihPgi4kDCdx1fEn0",
+  "is_local": false,
+  "name": "How Do I Make You Love Me? - Sebastian Ingrosso & Salvatore Ganacci Remix",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1DQGIcihPgi4kDCdx1fEn0"
+}

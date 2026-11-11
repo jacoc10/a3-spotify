@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1geA7d12ed5LXsBns7ONB4"
+    },
+    "href": "https://api.spotify.com/v1/albums/1geA7d12ed5LXsBns7ONB4",
+    "id": "1geA7d12ed5LXsBns7ONB4",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739675cabe34ef4cc14556ea35",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029675cabe34ef4cc14556ea35",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519675cabe34ef4cc14556ea35",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Just Look Up (From Don’t Look Up)",
+    "release_date": "2021-12-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1geA7d12ed5LXsBns7ONB4",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+        "id": "0fA0VVWsXO9YnASrzqfmYu",
+        "name": "Kid Cudi",
+        "type": "artist",
+        "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+      },
+      "href": "https://api.spotify.com/v1/artists/0fA0VVWsXO9YnASrzqfmYu",
+      "id": "0fA0VVWsXO9YnASrzqfmYu",
+      "name": "Kid Cudi",
+      "type": "artist",
+      "uri": "spotify:artist:0fA0VVWsXO9YnASrzqfmYu"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 201667,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3QPBocWfIcOCdFFvmqn60F"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3QPBocWfIcOCdFFvmqn60F",
+  "id": "3QPBocWfIcOCdFFvmqn60F",
+  "is_local": false,
+  "name": "Just Look Up (From Don’t Look Up)",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3QPBocWfIcOCdFFvmqn60F"
+}

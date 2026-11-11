@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3jRseYXGmX8RQ6ZTQ6tvsy"
+    },
+    "href": "https://api.spotify.com/v1/albums/3jRseYXGmX8RQ6ZTQ6tvsy",
+    "id": "3jRseYXGmX8RQ6ZTQ6tvsy",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2733df3d026518de7ab5d42f655",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e023df3d026518de7ab5d42f655",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048513df3d026518de7ab5d42f655",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Eyes Closed (Lost Frequencies Remix)",
+    "release_date": "2023-03-23",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3jRseYXGmX8RQ6ZTQ6tvsy",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        "href": "https://api.spotify.com/v1/artists/7f5Zgnp2spUuuzKplmRkt7",
+        "id": "7f5Zgnp2spUuuzKplmRkt7",
+        "name": "Lost Frequencies",
+        "type": "artist",
+        "uri": "spotify:artist:7f5Zgnp2spUuuzKplmRkt7"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 194848,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5QcYSYBWqvnUfQK9YX0GCg"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5QcYSYBWqvnUfQK9YX0GCg",
+  "id": "5QcYSYBWqvnUfQK9YX0GCg",
+  "is_local": false,
+  "name": "Eyes Closed",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:5QcYSYBWqvnUfQK9YX0GCg"
+}

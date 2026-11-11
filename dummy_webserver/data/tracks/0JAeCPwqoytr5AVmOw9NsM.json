@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3SVt9F02xRJpTHkiPR72rm"
+    },
+    "href": "https://api.spotify.com/v1/albums/3SVt9F02xRJpTHkiPR72rm",
+    "id": "3SVt9F02xRJpTHkiPR72rm",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2731769243d1c1ccc0865b5d337",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e021769243d1c1ccc0865b5d337",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048511769243d1c1ccc0865b5d337",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Play (The Remixes)",
+    "release_date": "2025-10-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3SVt9F02xRJpTHkiPR72rm",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp"
+      },
+      "href": "https://api.spotify.com/v1/artists/4nVa6XlBFlIkF6msW57PHp",
+      "id": "4nVa6XlBFlIkF6msW57PHp",
+      "name": "Hanumankind",
+      "type": "artist",
+      "uri": "spotify:artist:4nVa6XlBFlIkF6msW57PHp"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+      },
+      "href": "https://api.spotify.com/v1/artists/77YvCBWe0tTLygpgSJsdOH",
+      "id": "77YvCBWe0tTLygpgSJsdOH",
+      "name": "Dhee",
+      "type": "artist",
+      "uri": "spotify:artist:77YvCBWe0tTLygpgSJsdOH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6"
+      },
+      "href": "https://api.spotify.com/v1/artists/5FVBduYaeVBb6JIghza7v6",
+      "id": "5FVBduYaeVBb6JIghza7v6",
+      "name": "Santhosh Narayanan",
+      "type": "artist",
+      "uri": "spotify:artist:5FVBduYaeVBb6JIghza7v6"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 283573,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0JAeCPwqoytr5AVmOw9NsM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0JAeCPwqoytr5AVmOw9NsM",
+  "id": "0JAeCPwqoytr5AVmOw9NsM",
+  "is_local": false,
+  "name": "Don’t Look Down (feat. Hanumankind, Dhee, Santhosh Narayanan) - Remix",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0JAeCPwqoytr5AVmOw9NsM"
+}

@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/38cdrpNBW9xXl3oiKYsugt"
+    },
+    "href": "https://api.spotify.com/v1/albums/38cdrpNBW9xXl3oiKYsugt",
+    "id": "38cdrpNBW9xXl3oiKYsugt",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735e03cf283eabfd48941b1f79",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025e03cf283eabfd48941b1f79",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515e03cf283eabfd48941b1f79",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Cut To The Feeling (Kid Froopy Remix)",
+    "release_date": "2017-08-25",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:38cdrpNBW9xXl3oiKYsugt",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4yXRQkCMWWkfZSSTA2oKjU"
+      },
+      "href": "https://api.spotify.com/v1/artists/4yXRQkCMWWkfZSSTA2oKjU",
+      "id": "4yXRQkCMWWkfZSSTA2oKjU",
+      "name": "Kid Froopy",
+      "type": "artist",
+      "uri": "spotify:artist:4yXRQkCMWWkfZSSTA2oKjU"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 193090,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2e22St7ZNmzPhUJuVfGziR"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2e22St7ZNmzPhUJuVfGziR",
+  "id": "2e22St7ZNmzPhUJuVfGziR",
+  "is_local": false,
+  "name": "Cut To The Feeling - Kid Froopy Remix",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2e22St7ZNmzPhUJuVfGziR"
+}

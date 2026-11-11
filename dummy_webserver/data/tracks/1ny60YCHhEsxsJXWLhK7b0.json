@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2vlhlrgMaXqcnhRqIEV9AP"
+    },
+    "href": "https://api.spotify.com/v1/albums/2vlhlrgMaXqcnhRqIEV9AP",
+    "id": "2vlhlrgMaXqcnhRqIEV9AP",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b627441824c5d0748c8cb077",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b627441824c5d0748c8cb077",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b627441824c5d0748c8cb077",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Dua Lipa",
+    "release_date": "2017-06-02",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2vlhlrgMaXqcnhRqIEV9AP",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 217946,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1ny60YCHhEsxsJXWLhK7b0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1ny60YCHhEsxsJXWLhK7b0",
+  "id": "1ny60YCHhEsxsJXWLhK7b0",
+  "is_local": false,
+  "name": "IDGAF",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 5,
+  "type": "track",
+  "uri": "spotify:track:1ny60YCHhEsxsJXWLhK7b0"
+}

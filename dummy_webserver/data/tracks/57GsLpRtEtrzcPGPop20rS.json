@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0bNfrGST1xSPZ3V3g5jjHT"
+    },
+    "href": "https://api.spotify.com/v1/albums/0bNfrGST1xSPZ3V3g5jjHT",
+    "id": "0bNfrGST1xSPZ3V3g5jjHT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739d22b70fe52340efb60ab681",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029d22b70fe52340efb60ab681",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519d22b70fe52340efb60ab681",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "What Did I Miss?",
+    "release_date": "2025-07-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0bNfrGST1xSPZ3V3g5jjHT",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 194324,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/57GsLpRtEtrzcPGPop20rS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/57GsLpRtEtrzcPGPop20rS",
+  "id": "57GsLpRtEtrzcPGPop20rS",
+  "is_local": false,
+  "name": "What Did I Miss?",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:57GsLpRtEtrzcPGPop20rS"
+}

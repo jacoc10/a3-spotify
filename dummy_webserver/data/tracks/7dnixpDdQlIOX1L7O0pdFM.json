@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6E3IPXh38G7UHLqVdfIY5h"
+    },
+    "href": "https://api.spotify.com/v1/albums/6E3IPXh38G7UHLqVdfIY5h",
+    "id": "6E3IPXh38G7UHLqVdfIY5h",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2736d20a763ad0e31c924c5e176",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e026d20a763ad0e31c924c5e176",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048516d20a763ad0e31c924c5e176",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Idol Episode 1 (Music from the HBO Original Series)",
+    "release_date": "2023-06-09",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6E3IPXh38G7UHLqVdfIY5h",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        },
+        "href": "https://api.spotify.com/v1/artists/5TAipisjquAkq2o7lzMJyc",
+        "id": "5TAipisjquAkq2o7lzMJyc",
+        "name": "MIKE DEAN",
+        "type": "artist",
+        "uri": "spotify:artist:5TAipisjquAkq2o7lzMJyc"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1pBLC0qVRTB5zVMuteQ9jJ",
+        "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+        "name": "Lily-Rose Depp",
+        "type": "artist",
+        "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1pBLC0qVRTB5zVMuteQ9jJ",
+      "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+      "name": "Lily-Rose Depp",
+      "type": "artist",
+      "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 199280,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7dnixpDdQlIOX1L7O0pdFM"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7dnixpDdQlIOX1L7O0pdFM",
+  "id": "7dnixpDdQlIOX1L7O0pdFM",
+  "is_local": false,
+  "name": "World Class Sinner / I’m A Freak",
+  "popularity": 33,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:7dnixpDdQlIOX1L7O0pdFM"
+}

@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0Vz32hcNoqOZIpJVI0qExN"
+    },
+    "href": "https://api.spotify.com/v1/albums/0Vz32hcNoqOZIpJVI0qExN",
+    "id": "0Vz32hcNoqOZIpJVI0qExN",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732756fcc016298cf16ccf6020",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022756fcc016298cf16ccf6020",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512756fcc016298cf16ccf6020",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Dawn FM (OPN Remix)",
+    "release_date": "2022-07-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0Vz32hcNoqOZIpJVI0qExN",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK"
+      },
+      "href": "https://api.spotify.com/v1/artists/2wPDbhaGXCqROrVmwDdCrK",
+      "id": "2wPDbhaGXCqROrVmwDdCrK",
+      "name": "Oneohtrix Point Never",
+      "type": "artist",
+      "uri": "spotify:artist:2wPDbhaGXCqROrVmwDdCrK"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 184127,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0ymDgXNt5qdPZmeSpAf3P0"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0ymDgXNt5qdPZmeSpAf3P0",
+  "id": "0ymDgXNt5qdPZmeSpAf3P0",
+  "is_local": false,
+  "name": "Dawn FM - OPN Remix",
+  "popularity": 20,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0ymDgXNt5qdPZmeSpAf3P0"
+}

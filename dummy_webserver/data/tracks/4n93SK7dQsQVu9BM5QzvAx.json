@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3yVqF1TOg60hk9ehgMj3na"
+    },
+    "href": "https://api.spotify.com/v1/albums/3yVqF1TOg60hk9ehgMj3na",
+    "id": "3yVqF1TOg60hk9ehgMj3na",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a8373ce028b3bd524eb0704a",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a8373ce028b3bd524eb0704a",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a8373ce028b3bd524eb0704a",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "I Can Do It With a Broken Heart",
+    "release_date": "2024-07-16",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3yVqF1TOg60hk9ehgMj3na",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 218004,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4n93SK7dQsQVu9BM5QzvAx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4n93SK7dQsQVu9BM5QzvAx",
+  "id": "4n93SK7dQsQVu9BM5QzvAx",
+  "is_local": false,
+  "name": "I Can Do It With a Broken Heart",
+  "popularity": 22,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4n93SK7dQsQVu9BM5QzvAx"
+}

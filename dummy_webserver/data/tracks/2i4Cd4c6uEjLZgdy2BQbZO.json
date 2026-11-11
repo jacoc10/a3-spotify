@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7FqeFeXFIyTumRxQPcUj6q"
+    },
+    "href": "https://api.spotify.com/v1/albums/7FqeFeXFIyTumRxQPcUj6q",
+    "id": "7FqeFeXFIyTumRxQPcUj6q",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273eb907c3ca6f16d16d6e19248",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02eb907c3ca6f16d16d6e19248",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851eb907c3ca6f16d16d6e19248",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+    "release_date": "2021-02-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7FqeFeXFIyTumRxQPcUj6q",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        "href": "https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6",
+        "id": "76fuWYgIf3TVIopTs3vaJ6",
+        "name": "Amaal Mallik",
+        "type": "artist",
+        "uri": "spotify:artist:76fuWYgIf3TVIopTs3vaJ6"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+      },
+      "href": "https://api.spotify.com/v1/artists/76fuWYgIf3TVIopTs3vaJ6",
+      "id": "76fuWYgIf3TVIopTs3vaJ6",
+      "name": "Amaal Mallik",
+      "type": "artist",
+      "uri": "spotify:artist:76fuWYgIf3TVIopTs3vaJ6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+      },
+      "href": "https://api.spotify.com/v1/artists/59pq5Vw16UDkR9txoPKv86",
+      "id": "59pq5Vw16UDkR9txoPKv86",
+      "name": "Prakriti Kakar",
+      "type": "artist",
+      "uri": "spotify:artist:59pq5Vw16UDkR9txoPKv86"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3FgHkfb3IqG4WKuVe1xCXM"
+      },
+      "href": "https://api.spotify.com/v1/artists/3FgHkfb3IqG4WKuVe1xCXM",
+      "id": "3FgHkfb3IqG4WKuVe1xCXM",
+      "name": "Sukriti Kakar",
+      "type": "artist",
+      "uri": "spotify:artist:3FgHkfb3IqG4WKuVe1xCXM"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 156291,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2i4Cd4c6uEjLZgdy2BQbZO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2i4Cd4c6uEjLZgdy2BQbZO",
+  "id": "2i4Cd4c6uEjLZgdy2BQbZO",
+  "is_local": false,
+  "name": "Levitating (feat. Prakriti Kakar & Sukriti Kakar) [Amaal Mallik Remix]",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2i4Cd4c6uEjLZgdy2BQbZO"
+}

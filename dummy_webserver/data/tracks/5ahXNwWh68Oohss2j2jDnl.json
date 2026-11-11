@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4xKjjV0sVc9PiJ1sPU9RiN"
+    },
+    "href": "https://api.spotify.com/v1/albums/4xKjjV0sVc9PiJ1sPU9RiN",
+    "id": "4xKjjV0sVc9PiJ1sPU9RiN",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735516f0c8980dd64d131a5664",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025516f0c8980dd64d131a5664",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515516f0c8980dd64d131a5664",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Santa, Can’t You Hear Me (Live)",
+    "release_date": "2022-12-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4xKjjV0sVc9PiJ1sPU9RiN",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        },
+        "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+        "id": "3BmGtnKgCSGYIUhmivXKWX",
+        "name": "Kelly Clarkson",
+        "type": "artist",
+        "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+      },
+      "href": "https://api.spotify.com/v1/artists/3BmGtnKgCSGYIUhmivXKWX",
+      "id": "3BmGtnKgCSGYIUhmivXKWX",
+      "name": "Kelly Clarkson",
+      "type": "artist",
+      "uri": "spotify:artist:3BmGtnKgCSGYIUhmivXKWX"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 225578,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5ahXNwWh68Oohss2j2jDnl"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5ahXNwWh68Oohss2j2jDnl",
+  "id": "5ahXNwWh68Oohss2j2jDnl",
+  "is_local": false,
+  "name": "Santa, Can’t You Hear Me - Live",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5ahXNwWh68Oohss2j2jDnl"
+}

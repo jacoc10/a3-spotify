@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 14,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0a28QsFN8zbrWSvbSQ40PI"
+    },
+    "href": "https://api.spotify.com/v1/albums/0a28QsFN8zbrWSvbSQ40PI",
+    "id": "0a28QsFN8zbrWSvbSQ40PI",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27320384043656216cb372f9739",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0220384043656216cb372f9739",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485120384043656216cb372f9739",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "2step (The Remixes)",
+    "release_date": "2021-10-25",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0a28QsFN8zbrWSvbSQ40PI",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+      },
+      "href": "https://api.spotify.com/v1/artists/4IKVDbCSBTxBeAsMKjAuTs",
+      "id": "4IKVDbCSBTxBeAsMKjAuTs",
+      "name": "Armaan Malik",
+      "type": "artist",
+      "uri": "spotify:artist:4IKVDbCSBTxBeAsMKjAuTs"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 153124,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3Gxo1itE2q8dTrhX7atqCE"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3Gxo1itE2q8dTrhX7atqCE",
+  "id": "3Gxo1itE2q8dTrhX7atqCE",
+  "is_local": false,
+  "name": "2step (feat. Armaan Malik)",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 14,
+  "type": "track",
+  "uri": "spotify:track:3Gxo1itE2q8dTrhX7atqCE"
+}

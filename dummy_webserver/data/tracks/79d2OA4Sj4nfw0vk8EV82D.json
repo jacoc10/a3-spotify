@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 8,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6DpIyaMgt5p9HlGd1c0LDM"
+    },
+    "href": "https://api.spotify.com/v1/albums/6DpIyaMgt5p9HlGd1c0LDM",
+    "id": "6DpIyaMgt5p9HlGd1c0LDM",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2733c33fbe943babf9510e3715c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e023c33fbe943babf9510e3715c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048513c33fbe943babf9510e3715c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "No.5 Collaborations Project",
+    "release_date": "2011-09-09",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6DpIyaMgt5p9HlGd1c0LDM",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+      },
+      "href": "https://api.spotify.com/v1/artists/6WjX4pepHwXa85B9KMk0PY",
+      "id": "6WjX4pepHwXa85B9KMk0PY",
+      "name": "P Money",
+      "type": "artist",
+      "uri": "spotify:artist:6WjX4pepHwXa85B9KMk0PY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 254906,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/79d2OA4Sj4nfw0vk8EV82D"
+  },
+  "href": "https://api.spotify.com/v1/tracks/79d2OA4Sj4nfw0vk8EV82D",
+  "id": "79d2OA4Sj4nfw0vk8EV82D",
+  "is_local": false,
+  "name": "Family (feat. P Money)",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:79d2OA4Sj4nfw0vk8EV82D"
+}

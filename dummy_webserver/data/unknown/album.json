@@ -1,0 +1,25 @@
+{
+  "name": "Unknown Album",
+  "id": "unknown",
+  "images": [],
+  "external_urls": {
+    "spotify": "https://open.spotify.com"
+  },
+  "popularity": 0,
+  "genres": [],
+  "artists": [
+    {
+      "name": "Unknown Artist",
+      "id": "unknown",
+      "external_urls": {
+        "spotify": "https://open.spotify.com"
+      },
+      "type": "artist",
+      "uri": "spotify:artist:unknown"
+    }
+  ],
+  "release_date": "2000-01-01",
+  "total_tracks": 0,
+  "type": "album",
+  "uri": "spotify:album:unknown"
+}

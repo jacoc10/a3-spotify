@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5moHeRF6YwQz9Mhc1SB0v0"
+    },
+    "href": "https://api.spotify.com/v1/albums/5moHeRF6YwQz9Mhc1SB0v0",
+    "id": "5moHeRF6YwQz9Mhc1SB0v0",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2736f7907fd1f9b2112a76ae361",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e026f7907fd1f9b2112a76ae361",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048516f7907fd1f9b2112a76ae361",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Two Presidents",
+    "release_date": "2013-12-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5moHeRF6YwQz9Mhc1SB0v0",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+        },
+        "href": "https://api.spotify.com/v1/artists/0AtWMBis5Rh02sFv4LgXtP",
+        "id": "0AtWMBis5Rh02sFv4LgXtP",
+        "name": "YG Hootie",
+        "type": "artist",
+        "uri": "spotify:artist:0AtWMBis5Rh02sFv4LgXtP"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0AtWMBis5Rh02sFv4LgXtP"
+      },
+      "href": "https://api.spotify.com/v1/artists/0AtWMBis5Rh02sFv4LgXtP",
+      "id": "0AtWMBis5Rh02sFv4LgXtP",
+      "name": "YG Hootie",
+      "type": "artist",
+      "uri": "spotify:artist:0AtWMBis5Rh02sFv4LgXtP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 230038,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2Xjvo0g3jPZB8QgTmRv5oU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2Xjvo0g3jPZB8QgTmRv5oU",
+  "id": "2Xjvo0g3jPZB8QgTmRv5oU",
+  "is_local": false,
+  "name": "Two Presidents",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2Xjvo0g3jPZB8QgTmRv5oU"
+}

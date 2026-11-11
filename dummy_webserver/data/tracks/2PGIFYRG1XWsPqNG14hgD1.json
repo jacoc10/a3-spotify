@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3WNGsnTetig4bJbw2BMbK7"
+    },
+    "href": "https://api.spotify.com/v1/albums/3WNGsnTetig4bJbw2BMbK7",
+    "id": "3WNGsnTetig4bJbw2BMbK7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f7dd2c5a8045a39fcecbfe8e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f7dd2c5a8045a39fcecbfe8e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f7dd2c5a8045a39fcecbfe8e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "I Can Do It With a Broken Heart (Dombresky Remix)",
+    "release_date": "2024-09-13",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3WNGsnTetig4bJbw2BMbK7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        "href": "https://api.spotify.com/v1/artists/2GVtgxcx7jg5xVCZsIHSGN",
+        "id": "2GVtgxcx7jg5xVCZsIHSGN",
+        "name": "Dombresky",
+        "type": "artist",
+        "uri": "spotify:artist:2GVtgxcx7jg5xVCZsIHSGN"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 218004,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2PGIFYRG1XWsPqNG14hgD1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2PGIFYRG1XWsPqNG14hgD1",
+  "id": "2PGIFYRG1XWsPqNG14hgD1",
+  "is_local": false,
+  "name": "I Can Do It With a Broken Heart - Instrumental",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2PGIFYRG1XWsPqNG14hgD1"
+}

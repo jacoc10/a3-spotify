@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7hplTHLU8PAVs1forXE2NU"
+    },
+    "href": "https://api.spotify.com/v1/albums/7hplTHLU8PAVs1forXE2NU",
+    "id": "7hplTHLU8PAVs1forXE2NU",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c87f043096683d487d0a1de8",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c87f043096683d487d0a1de8",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c87f043096683d487d0a1de8",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Send My Love (To Your New Lover)",
+    "release_date": "2016-05-16",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7hplTHLU8PAVs1forXE2NU",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 223078,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5GltPAIcCUULOIAglW6R4l"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5GltPAIcCUULOIAglW6R4l",
+  "id": "5GltPAIcCUULOIAglW6R4l",
+  "is_local": false,
+  "name": "Send My Love (To Your New Lover)",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:5GltPAIcCUULOIAglW6R4l"
+}

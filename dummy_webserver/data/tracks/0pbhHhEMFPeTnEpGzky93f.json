@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 10,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2NLFH74juZdW3TieNmEyWW"
+    },
+    "href": "https://api.spotify.com/v1/albums/2NLFH74juZdW3TieNmEyWW",
+    "id": "2NLFH74juZdW3TieNmEyWW",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d356bf1966701b6f475a9b8b",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d356bf1966701b6f475a9b8b",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d356bf1966701b6f475a9b8b",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Tug Of War",
+    "release_date": "2008-09-30",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2NLFH74juZdW3TieNmEyWW",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 181666,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0pbhHhEMFPeTnEpGzky93f"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0pbhHhEMFPeTnEpGzky93f",
+  "id": "0pbhHhEMFPeTnEpGzky93f",
+  "is_local": false,
+  "name": "Sour Candy",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 10,
+  "type": "track",
+  "uri": "spotify:track:0pbhHhEMFPeTnEpGzky93f"
+}

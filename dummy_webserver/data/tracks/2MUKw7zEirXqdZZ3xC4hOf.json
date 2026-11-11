@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 13,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
+    },
+    "href": "https://api.spotify.com/v1/albums/5lKlFlReHOLShQKyRv6AL9",
+    "id": "5lKlFlReHOLShQKyRv6AL9",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732172b607853fa89cefa2beb4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022172b607853fa89cefa2beb4",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512172b607853fa89cefa2beb4",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Future Nostalgia",
+    "release_date": "2020-03-27",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5lKlFlReHOLShQKyRv6AL9",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 208505,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2MUKw7zEirXqdZZ3xC4hOf"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2MUKw7zEirXqdZZ3xC4hOf",
+  "id": "2MUKw7zEirXqdZZ3xC4hOf",
+  "is_local": false,
+  "name": "Hallucinate",
+  "popularity": 28,
+  "preview_url": null,
+  "track_number": 7,
+  "type": "track",
+  "uri": "spotify:track:2MUKw7zEirXqdZZ3xC4hOf"
+}

@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/10SppFk45za4CHPEiiuQaD"
+    },
+    "href": "https://api.spotify.com/v1/albums/10SppFk45za4CHPEiiuQaD",
+    "id": "10SppFk45za4CHPEiiuQaD",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27338b9ba68af98c3c0855b47ee",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0238b9ba68af98c3c0855b47ee",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485138b9ba68af98c3c0855b47ee",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Idol Episode 5 Part 2 (Music from the HBO Original Series)",
+    "release_date": "2023-07-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:10SppFk45za4CHPEiiuQaD",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1pBLC0qVRTB5zVMuteQ9jJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1pBLC0qVRTB5zVMuteQ9jJ",
+        "id": "1pBLC0qVRTB5zVMuteQ9jJ",
+        "name": "Lily-Rose Depp",
+        "type": "artist",
+        "uri": "spotify:artist:1pBLC0qVRTB5zVMuteQ9jJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+        },
+        "href": "https://api.spotify.com/v1/artists/0KVIja3XDIh9zXkKO2FI2A",
+        "id": "0KVIja3XDIh9zXkKO2FI2A",
+        "name": "Suzanna Son",
+        "type": "artist",
+        "uri": "spotify:artist:0KVIja3XDIh9zXkKO2FI2A"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0KVIja3XDIh9zXkKO2FI2A"
+      },
+      "href": "https://api.spotify.com/v1/artists/0KVIja3XDIh9zXkKO2FI2A",
+      "id": "0KVIja3XDIh9zXkKO2FI2A",
+      "name": "Suzanna Son",
+      "type": "artist",
+      "uri": "spotify:artist:0KVIja3XDIh9zXkKO2FI2A"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 182799,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7MwYXhh2dTqc7fiwkwPZo1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7MwYXhh2dTqc7fiwkwPZo1",
+  "id": "7MwYXhh2dTqc7fiwkwPZo1",
+  "is_local": false,
+  "name": "Crocodile Tears",
+  "popularity": 44,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:7MwYXhh2dTqc7fiwkwPZo1"
+}

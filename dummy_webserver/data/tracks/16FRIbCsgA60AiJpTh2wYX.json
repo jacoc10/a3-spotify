@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7"
+    },
+    "href": "https://api.spotify.com/v1/albums/3P2UkOkqWp8ucd1EOnVAH7",
+    "id": "3P2UkOkqWp8ucd1EOnVAH7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273bd7aa72e76037ccd81e21a13",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02bd7aa72e76037ccd81e21a13",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851bd7aa72e76037ccd81e21a13",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Creepin' (Remix)",
+    "release_date": "2023-03-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3P2UkOkqWp8ucd1EOnVAH7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+        "id": "0iEtIxbK0KxaSlF7G42ZOp",
+        "name": "Metro Boomin",
+        "type": "artist",
+        "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        "href": "https://api.spotify.com/v1/artists/59wfkuBoNyhDMQGCljbUbA",
+        "id": "59wfkuBoNyhDMQGCljbUbA",
+        "name": "Diddy",
+        "type": "artist",
+        "uri": "spotify:artist:59wfkuBoNyhDMQGCljbUbA"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+      },
+      "href": "https://api.spotify.com/v1/artists/0iEtIxbK0KxaSlF7G42ZOp",
+      "id": "0iEtIxbK0KxaSlF7G42ZOp",
+      "name": "Metro Boomin",
+      "type": "artist",
+      "uri": "spotify:artist:0iEtIxbK0KxaSlF7G42ZOp"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 221520,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/16FRIbCsgA60AiJpTh2wYX"
+  },
+  "href": "https://api.spotify.com/v1/tracks/16FRIbCsgA60AiJpTh2wYX",
+  "id": "16FRIbCsgA60AiJpTh2wYX",
+  "is_local": false,
+  "name": "Creepin' - Instrumental",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:16FRIbCsgA60AiJpTh2wYX"
+}

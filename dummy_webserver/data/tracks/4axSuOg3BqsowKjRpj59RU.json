@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Bwg2XxrjTlrNy6BC7KQZf",
+    "id": "5Bwg2XxrjTlrNy6BC7KQZf",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732c683c1b9fa1b711499408f7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022c683c1b9fa1b711499408f7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512c683c1b9fa1b711499408f7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Carolina (From The Motion Picture “Where The Crawdads Sing”)",
+    "release_date": "2022-06-24",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5Bwg2XxrjTlrNy6BC7KQZf",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 264438,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4axSuOg3BqsowKjRpj59RU",
+  "id": "4axSuOg3BqsowKjRpj59RU",
+  "is_local": false,
+  "name": "Carolina - From The Motion Picture “Where The Crawdads Sing”",
+  "popularity": 30,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4axSuOg3BqsowKjRpj59RU"
+}

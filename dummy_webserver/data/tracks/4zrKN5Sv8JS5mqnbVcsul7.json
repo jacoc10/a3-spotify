@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2W5VVBPNkGAduaArE4sX29"
+    },
+    "href": "https://api.spotify.com/v1/albums/2W5VVBPNkGAduaArE4sX29",
+    "id": "2W5VVBPNkGAduaArE4sX29",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c18194a4022ec44507f7b248",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c18194a4022ec44507f7b248",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c18194a4022ec44507f7b248",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Celestial",
+    "release_date": "2022-09-29",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2W5VVBPNkGAduaArE4sX29",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 209026,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4zrKN5Sv8JS5mqnbVcsul7"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4zrKN5Sv8JS5mqnbVcsul7",
+  "id": "4zrKN5Sv8JS5mqnbVcsul7",
+  "is_local": false,
+  "name": "Celestial",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4zrKN5Sv8JS5mqnbVcsul7"
+}

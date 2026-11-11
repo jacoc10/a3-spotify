@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/04rDlPRtqhdS8JuZl3ZbGY"
+    },
+    "href": "https://api.spotify.com/v1/albums/04rDlPRtqhdS8JuZl3ZbGY",
+    "id": "04rDlPRtqhdS8JuZl3ZbGY",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cfb079fe9392bf600e341910",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cfb079fe9392bf600e341910",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cfb079fe9392bf600e341910",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Houdini (Danny L Harle Slowride Mix)",
+    "release_date": "2024-01-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:04rDlPRtqhdS8JuZl3ZbGY",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+        },
+        "href": "https://api.spotify.com/v1/artists/1PNvaesh1mkKZucGhBuqgD",
+        "id": "1PNvaesh1mkKZucGhBuqgD",
+        "name": "Danny L Harle",
+        "type": "artist",
+        "uri": "spotify:artist:1PNvaesh1mkKZucGhBuqgD"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD"
+      },
+      "href": "https://api.spotify.com/v1/artists/1PNvaesh1mkKZucGhBuqgD",
+      "id": "1PNvaesh1mkKZucGhBuqgD",
+      "name": "Danny L Harle",
+      "type": "artist",
+      "uri": "spotify:artist:1PNvaesh1mkKZucGhBuqgD"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 185678,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3sqpZ7OpMc0jto8rUXPw4B"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3sqpZ7OpMc0jto8rUXPw4B",
+  "id": "3sqpZ7OpMc0jto8rUXPw4B",
+  "is_local": false,
+  "name": "Houdini - Danny L Harle Slowride Mix",
+  "popularity": 39,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3sqpZ7OpMc0jto8rUXPw4B"
+}

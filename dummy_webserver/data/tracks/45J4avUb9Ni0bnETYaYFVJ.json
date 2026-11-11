@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
+    },
+    "href": "https://api.spotify.com/v1/albums/0hvT3yIEysuuvkK73vgdcW",
+    "id": "0hvT3yIEysuuvkK73vgdcW",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d9985092cd88bffd97653b58",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d9985092cd88bffd97653b58",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d9985092cd88bffd97653b58",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "GNX",
+    "release_date": "2024-11-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0hvT3yIEysuuvkK73vgdcW",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+      },
+      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+      "id": "7tYKF4w9nC0nq9CsPZTHyP",
+      "name": "SZA",
+      "type": "artist",
+      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 177598,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/45J4avUb9Ni0bnETYaYFVJ",
+  "id": "45J4avUb9Ni0bnETYaYFVJ",
+  "is_local": false,
+  "name": "luther (with sza)",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:45J4avUb9Ni0bnETYaYFVJ"
+}

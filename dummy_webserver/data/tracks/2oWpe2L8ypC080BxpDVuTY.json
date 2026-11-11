@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 5,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt"
+    },
+    "href": "https://api.spotify.com/v1/albums/7irmI5g3OLC1gUXlxysOWt",
+    "id": "7irmI5g3OLC1gUXlxysOWt",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739954fa9f0ba8534c3897b59d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029954fa9f0ba8534c3897b59d",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519954fa9f0ba8534c3897b59d",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Anti-Hero (Remixes)",
+    "release_date": "2022-11-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7irmI5g3OLC1gUXlxysOWt",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+      },
+      "href": "https://api.spotify.com/v1/artists/7keGfmQR4X5w0two1xKZ7d",
+      "id": "7keGfmQR4X5w0two1xKZ7d",
+      "name": "Kungs",
+      "type": "artist",
+      "uri": "spotify:artist:7keGfmQR4X5w0two1xKZ7d"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 194612,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2oWpe2L8ypC080BxpDVuTY"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2oWpe2L8ypC080BxpDVuTY",
+  "id": "2oWpe2L8ypC080BxpDVuTY",
+  "is_local": false,
+  "name": "Anti-Hero - Kungs Remix",
+  "popularity": 40,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:2oWpe2L8ypC080BxpDVuTY"
+}

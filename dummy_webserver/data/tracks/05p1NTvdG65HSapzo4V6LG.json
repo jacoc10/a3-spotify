@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2MzhUZbCFZeU1ynEEH279P"
+    },
+    "href": "https://api.spotify.com/v1/albums/2MzhUZbCFZeU1ynEEH279P",
+    "id": "2MzhUZbCFZeU1ynEEH279P",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f988e0ca47b6d492c929b0e2",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f988e0ca47b6d492c929b0e2",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f988e0ca47b6d492c929b0e2",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Call Me Maybe (Remixes)",
+    "release_date": "2012-01-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2MzhUZbCFZeU1ynEEH279P",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Wggh0fc9CkcqXDmzOfCUo"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Wggh0fc9CkcqXDmzOfCUo",
+      "id": "0Wggh0fc9CkcqXDmzOfCUo",
+      "name": "10 Kings",
+      "type": "artist",
+      "uri": "spotify:artist:0Wggh0fc9CkcqXDmzOfCUo"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2PCKbRUI5rGUwOkGXX2W5U"
+      },
+      "href": "https://api.spotify.com/v1/artists/2PCKbRUI5rGUwOkGXX2W5U",
+      "id": "2PCKbRUI5rGUwOkGXX2W5U",
+      "name": "Ollie Green",
+      "type": "artist",
+      "uri": "spotify:artist:2PCKbRUI5rGUwOkGXX2W5U"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 188813,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/05p1NTvdG65HSapzo4V6LG"
+  },
+  "href": "https://api.spotify.com/v1/tracks/05p1NTvdG65HSapzo4V6LG",
+  "id": "05p1NTvdG65HSapzo4V6LG",
+  "is_local": false,
+  "name": "Call Me Maybe - 10 Kings vs Ollie Green Remix",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:05p1NTvdG65HSapzo4V6LG"
+}

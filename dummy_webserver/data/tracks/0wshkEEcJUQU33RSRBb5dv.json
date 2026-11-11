@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+    },
+    "href": "https://api.spotify.com/v1/albums/5MS3MvWHJ3lOZPLiMxzOU6",
+    "id": "5MS3MvWHJ3lOZPLiMxzOU6",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27302854a7060fccc1a66a4b5ad",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0202854a7060fccc1a66a4b5ad",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485102854a7060fccc1a66a4b5ad",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Her Loss",
+    "release_date": "2022-11-04",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5MS3MvWHJ3lOZPLiMxzOU6",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        "href": "https://api.spotify.com/v1/artists/1URnnhqYAYcrqrcwql10ft",
+        "id": "1URnnhqYAYcrqrcwql10ft",
+        "name": "21 Savage",
+        "type": "artist",
+        "uri": "spotify:artist:1URnnhqYAYcrqrcwql10ft"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 152961,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0wshkEEcJUQU33RSRBb5dv"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0wshkEEcJUQU33RSRBb5dv",
+  "id": "0wshkEEcJUQU33RSRBb5dv",
+  "is_local": false,
+  "name": "BackOutsideBoyz",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:0wshkEEcJUQU33RSRBb5dv"
+}

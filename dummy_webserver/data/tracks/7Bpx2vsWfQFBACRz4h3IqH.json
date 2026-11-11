@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx"
+    },
+    "href": "https://api.spotify.com/v1/albums/3HqmX8hGcbbQZODgayNEYx",
+    "id": "3HqmX8hGcbbQZODgayNEYx",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e16c637ae3d6ab7ea2278bbd",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e16c637ae3d6ab7ea2278bbd",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e16c637ae3d6ab7ea2278bbd",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "family ties (with Kendrick Lamar)",
+    "release_date": "2021-08-27",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3HqmX8hGcbbQZODgayNEYx",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        },
+        "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+        "id": "5SXuuuRpukkTvsLuUknva1",
+        "name": "Baby Keem",
+        "type": "artist",
+        "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+      },
+      "href": "https://api.spotify.com/v1/artists/5SXuuuRpukkTvsLuUknva1",
+      "id": "5SXuuuRpukkTvsLuUknva1",
+      "name": "Baby Keem",
+      "type": "artist",
+      "uri": "spotify:artist:5SXuuuRpukkTvsLuUknva1"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 252069,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7Bpx2vsWfQFBACRz4h3IqH",
+  "id": "7Bpx2vsWfQFBACRz4h3IqH",
+  "is_local": false,
+  "name": "family ties (with Kendrick Lamar)",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7Bpx2vsWfQFBACRz4h3IqH"
+}

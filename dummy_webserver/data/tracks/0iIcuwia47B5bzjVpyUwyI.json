@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Jd8G9DMwnwK7YVlFTvdnc"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Jd8G9DMwnwK7YVlFTvdnc",
+    "id": "5Jd8G9DMwnwK7YVlFTvdnc",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a54b771b4e4bd658d3b3de11",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a54b771b4e4bd658d3b3de11",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a54b771b4e4bd658d3b3de11",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Drive (From F1® The Movie)",
+    "release_date": "2025-06-20",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5Jd8G9DMwnwK7YVlFTvdnc",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+        },
+        "href": "https://api.spotify.com/v1/artists/3aly4xJOy3LVznzvRIvFYC",
+        "id": "3aly4xJOy3LVznzvRIvFYC",
+        "name": "F1 The Album",
+        "type": "artist",
+        "uri": "spotify:artist:3aly4xJOy3LVznzvRIvFYC"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3aly4xJOy3LVznzvRIvFYC"
+      },
+      "href": "https://api.spotify.com/v1/artists/3aly4xJOy3LVznzvRIvFYC",
+      "id": "3aly4xJOy3LVznzvRIvFYC",
+      "name": "F1 The Album",
+      "type": "artist",
+      "uri": "spotify:artist:3aly4xJOy3LVznzvRIvFYC"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 187396,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0iIcuwia47B5bzjVpyUwyI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0iIcuwia47B5bzjVpyUwyI",
+  "id": "0iIcuwia47B5bzjVpyUwyI",
+  "is_local": false,
+  "name": "Drive (From F1® The Movie)",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0iIcuwia47B5bzjVpyUwyI"
+}

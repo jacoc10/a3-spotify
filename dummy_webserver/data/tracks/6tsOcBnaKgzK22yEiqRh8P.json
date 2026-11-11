@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0MbXjBEw6FrGtcglqEDHpb"
+    },
+    "href": "https://api.spotify.com/v1/albums/0MbXjBEw6FrGtcglqEDHpb",
+    "id": "0MbXjBEw6FrGtcglqEDHpb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737eff60e72e37142e98e986f3",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027eff60e72e37142e98e986f3",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517eff60e72e37142e98e986f3",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "MONOPOLY",
+    "release_date": "2019-04-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0MbXjBEw6FrGtcglqEDHpb",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+        },
+        "href": "https://api.spotify.com/v1/artists/63XBtGSEZINSyXylZxEUbv",
+        "id": "63XBtGSEZINSyXylZxEUbv",
+        "name": "Victoria Monét",
+        "type": "artist",
+        "uri": "spotify:artist:63XBtGSEZINSyXylZxEUbv"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv"
+      },
+      "href": "https://api.spotify.com/v1/artists/63XBtGSEZINSyXylZxEUbv",
+      "id": "63XBtGSEZINSyXylZxEUbv",
+      "name": "Victoria Monét",
+      "type": "artist",
+      "uri": "spotify:artist:63XBtGSEZINSyXylZxEUbv"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 158586,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6tsOcBnaKgzK22yEiqRh8P"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6tsOcBnaKgzK22yEiqRh8P",
+  "id": "6tsOcBnaKgzK22yEiqRh8P",
+  "is_local": false,
+  "name": "MONOPOLY (with Victoria Monét)",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6tsOcBnaKgzK22yEiqRh8P"
+}

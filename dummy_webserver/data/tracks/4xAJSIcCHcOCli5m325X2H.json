@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4t3Ur7xbLyt0ybULu8jJMH"
+    },
+    "href": "https://api.spotify.com/v1/albums/4t3Ur7xbLyt0ybULu8jJMH",
+    "id": "4t3Ur7xbLyt0ybULu8jJMH",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735d6741e869c0a1731141f487",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025d6741e869c0a1731141f487",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515d6741e869c0a1731141f487",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "We're Good",
+    "release_date": "2021-02-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4t3Ur7xbLyt0ybULu8jJMH",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 165506,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4xAJSIcCHcOCli5m325X2H"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4xAJSIcCHcOCli5m325X2H",
+  "id": "4xAJSIcCHcOCli5m325X2H",
+  "is_local": false,
+  "name": "We're Good",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4xAJSIcCHcOCli5m325X2H"
+}

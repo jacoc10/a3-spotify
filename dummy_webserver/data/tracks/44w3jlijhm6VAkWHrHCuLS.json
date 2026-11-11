@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 19,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0E3wRkztEF32ZdYICXBuBf"
+    },
+    "href": "https://api.spotify.com/v1/albums/0E3wRkztEF32ZdYICXBuBf",
+    "id": "0E3wRkztEF32ZdYICXBuBf",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2730533e671385ca40f4998d308",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e020533e671385ca40f4998d308",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048510533e671385ca40f4998d308",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Future Nostalgia (The Moonlight Edition)",
+    "release_date": "2021-02-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0E3wRkztEF32ZdYICXBuBf",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5jPdfoPh4GlyeYexTLfcfT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5jPdfoPh4GlyeYexTLfcfT",
+      "id": "5jPdfoPh4GlyeYexTLfcfT",
+      "name": "J. Balvin",
+      "type": "artist",
+      "uri": "spotify:artist:5jPdfoPh4GlyeYexTLfcfT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "name": "Bad Bunny",
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0sdko0iUd9nBW0qnw2uGOR"
+      },
+      "href": "https://api.spotify.com/v1/artists/0sdko0iUd9nBW0qnw2uGOR",
+      "id": "0sdko0iUd9nBW0qnw2uGOR",
+      "name": "Tainy",
+      "type": "artist",
+      "uri": "spotify:artist:0sdko0iUd9nBW0qnw2uGOR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 231815,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/44w3jlijhm6VAkWHrHCuLS"
+  },
+  "href": "https://api.spotify.com/v1/tracks/44w3jlijhm6VAkWHrHCuLS",
+  "id": "44w3jlijhm6VAkWHrHCuLS",
+  "is_local": false,
+  "name": "Un Día (One Day)",
+  "popularity": 41,
+  "preview_url": null,
+  "track_number": 19,
+  "type": "track",
+  "uri": "spotify:track:44w3jlijhm6VAkWHrHCuLS"
+}

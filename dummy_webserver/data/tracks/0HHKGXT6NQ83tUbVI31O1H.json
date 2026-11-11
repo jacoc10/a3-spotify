@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0cLXqY56lwJjG7QNG2mzu7"
+    },
+    "href": "https://api.spotify.com/v1/albums/0cLXqY56lwJjG7QNG2mzu7",
+    "id": "0cLXqY56lwJjG7QNG2mzu7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737ed15a8f5dc0060a449527a7",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027ed15a8f5dc0060a449527a7",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517ed15a8f5dc0060a449527a7",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Wake Me Up",
+    "release_date": "2025-01-29",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0cLXqY56lwJjG7QNG2mzu7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
+      },
+      "href": "https://api.spotify.com/v1/artists/1gR0gsQYfi6joyO1dlp76N",
+      "id": "1gR0gsQYfi6joyO1dlp76N",
+      "name": "Justice",
+      "type": "artist",
+      "uri": "spotify:artist:1gR0gsQYfi6joyO1dlp76N"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 210180,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0HHKGXT6NQ83tUbVI31O1H"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0HHKGXT6NQ83tUbVI31O1H",
+  "id": "0HHKGXT6NQ83tUbVI31O1H",
+  "is_local": false,
+  "name": "Wake Me Up (feat. Justice) - Single Version",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0HHKGXT6NQ83tUbVI31O1H"
+}

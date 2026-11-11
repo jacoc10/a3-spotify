@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
+    },
+    "href": "https://api.spotify.com/v1/albums/4a6NzYL1YHRUgx9e3YZI6I",
+    "id": "4a6NzYL1YHRUgx9e3YZI6I",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d7812467811a7da6e6a44902",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d7812467811a7da6e6a44902",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "The Life of a Showgirl",
+    "release_date": "2025-10-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4a6NzYL1YHRUgx9e3YZI6I",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 181534,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qmFC3Jz5aQ0erlk2OSi2X"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qmFC3Jz5aQ0erlk2OSi2X",
+  "id": "4qmFC3Jz5aQ0erlk2OSi2X",
+  "is_local": false,
+  "name": "Honey",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:4qmFC3Jz5aQ0erlk2OSi2X"
+}

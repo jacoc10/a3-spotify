@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6lAh6JtFaIvFshi8oz05m7"
+    },
+    "href": "https://api.spotify.com/v1/albums/6lAh6JtFaIvFshi8oz05m7",
+    "id": "6lAh6JtFaIvFshi8oz05m7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735a3f69aab66f912e54529606",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025a3f69aab66f912e54529606",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515a3f69aab66f912e54529606",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sapphire (feat. Arijit Singh)",
+    "release_date": "2025-07-24",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6lAh6JtFaIvFshi8oz05m7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "type": "artist",
+        "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id": "4YRxDV8wJFPHPTeXepOstw",
+      "name": "Arijit Singh",
+      "type": "artist",
+      "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 180648,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/65dt1vedDHPOCCPS3mVhtN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/65dt1vedDHPOCCPS3mVhtN",
+  "id": "65dt1vedDHPOCCPS3mVhtN",
+  "is_local": false,
+  "name": "Sapphire (feat. Arijit Singh) - Remix",
+  "popularity": 49,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:65dt1vedDHPOCCPS3mVhtN"
+}

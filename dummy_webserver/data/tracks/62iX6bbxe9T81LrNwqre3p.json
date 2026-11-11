@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 3,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX"
+    },
+    "href": "https://api.spotify.com/v1/albums/0kHBlnc69hLOSyXAZn2yeX",
+    "id": "0kHBlnc69hLOSyXAZn2yeX",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27378b1c468de3d983892c3c80c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0278b1c468de3d983892c3c80c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485178b1c468de3d983892c3c80c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "yes, and? (remixes)",
+    "release_date": "2024-01-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0kHBlnc69hLOSyXAZn2yeX",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HBjj22wzbscIZ9sEb5dyf",
+      "id": "1HBjj22wzbscIZ9sEb5dyf",
+      "name": "Jonas Blue",
+      "type": "artist",
+      "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 212903,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p"
+  },
+  "href": "https://api.spotify.com/v1/tracks/62iX6bbxe9T81LrNwqre3p",
+  "id": "62iX6bbxe9T81LrNwqre3p",
+  "is_local": false,
+  "name": "yes, and? - Jonas Blue Remix",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:62iX6bbxe9T81LrNwqre3p"
+}

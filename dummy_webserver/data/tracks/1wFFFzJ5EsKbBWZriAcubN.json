@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3qwCuSISrIUpyt6sB5edmQ"
+    },
+    "href": "https://api.spotify.com/v1/albums/3qwCuSISrIUpyt6sB5edmQ",
+    "id": "3qwCuSISrIUpyt6sB5edmQ",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a0ac23f4b446a7264e67bf0e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a0ac23f4b446a7264e67bf0e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a0ac23f4b446a7264e67bf0e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Family Matters",
+    "release_date": "2024-05-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3qwCuSISrIUpyt6sB5edmQ",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 456933,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1wFFFzJ5EsKbBWZriAcubN",
+  "id": "1wFFFzJ5EsKbBWZriAcubN",
+  "is_local": false,
+  "name": "Family Matters",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1wFFFzJ5EsKbBWZriAcubN"
+}

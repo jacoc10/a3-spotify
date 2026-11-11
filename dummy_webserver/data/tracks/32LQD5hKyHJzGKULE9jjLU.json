@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0ZziKMZ2aX7XaA30l01tv0"
+    },
+    "href": "https://api.spotify.com/v1/albums/0ZziKMZ2aX7XaA30l01tv0",
+    "id": "0ZziKMZ2aX7XaA30l01tv0",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27333d02867aa2b7f63d0795c66",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0233d02867aa2b7f63d0795c66",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485133d02867aa2b7f63d0795c66",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Fever (Myd Remix)",
+    "release_date": "2021-01-08",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0ZziKMZ2aX7XaA30l01tv0",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+        },
+        "href": "https://api.spotify.com/v1/artists/3QVolfxko2UyCOtexhVTli",
+        "id": "3QVolfxko2UyCOtexhVTli",
+        "name": "Angèle",
+        "type": "artist",
+        "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        },
+        "href": "https://api.spotify.com/v1/artists/3QFiymmbJlVBPpnrOatEAk",
+        "id": "3QFiymmbJlVBPpnrOatEAk",
+        "name": "Myd",
+        "type": "artist",
+        "uri": "spotify:artist:3QFiymmbJlVBPpnrOatEAk"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli"
+      },
+      "href": "https://api.spotify.com/v1/artists/3QVolfxko2UyCOtexhVTli",
+      "id": "3QVolfxko2UyCOtexhVTli",
+      "name": "Angèle",
+      "type": "artist",
+      "uri": "spotify:artist:3QVolfxko2UyCOtexhVTli"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+      },
+      "href": "https://api.spotify.com/v1/artists/3QFiymmbJlVBPpnrOatEAk",
+      "id": "3QFiymmbJlVBPpnrOatEAk",
+      "name": "Myd",
+      "type": "artist",
+      "uri": "spotify:artist:3QFiymmbJlVBPpnrOatEAk"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 223560,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/32LQD5hKyHJzGKULE9jjLU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/32LQD5hKyHJzGKULE9jjLU",
+  "id": "32LQD5hKyHJzGKULE9jjLU",
+  "is_local": false,
+  "name": "Fever - Myd Remix",
+  "popularity": 29,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:32LQD5hKyHJzGKULE9jjLU"
+}

@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3r4vAHYjjrGp84E0g909W6"
+    },
+    "href": "https://api.spotify.com/v1/albums/3r4vAHYjjrGp84E0g909W6",
+    "id": "3r4vAHYjjrGp84E0g909W6",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739c2ab979bbe25f3d9e21f698",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029c2ab979bbe25f3d9e21f698",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519c2ab979bbe25f3d9e21f698",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "DOG HOUSE",
+    "release_date": "2025-09-09",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3r4vAHYjjrGp84E0g909W6",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/5yvGiZLSWJTPBlZpVbPnEZ",
+        "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+        "name": "Julia Wolf",
+        "type": "artist",
+        "uri": "spotify:artist:5yvGiZLSWJTPBlZpVbPnEZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+        "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+        "name": "Yeat",
+        "type": "artist",
+        "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+      },
+      "href": "https://api.spotify.com/v1/artists/5yvGiZLSWJTPBlZpVbPnEZ",
+      "id": "5yvGiZLSWJTPBlZpVbPnEZ",
+      "name": "Julia Wolf",
+      "type": "artist",
+      "uri": "spotify:artist:5yvGiZLSWJTPBlZpVbPnEZ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+      },
+      "href": "https://api.spotify.com/v1/artists/3qiHUAX7zY4Qnjx8TNUzVx",
+      "id": "3qiHUAX7zY4Qnjx8TNUzVx",
+      "name": "Yeat",
+      "type": "artist",
+      "uri": "spotify:artist:3qiHUAX7zY4Qnjx8TNUzVx"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 190010,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/47Sa7pC00F7D5Z0i7HC5la"
+  },
+  "href": "https://api.spotify.com/v1/tracks/47Sa7pC00F7D5Z0i7HC5la",
+  "id": "47Sa7pC00F7D5Z0i7HC5la",
+  "is_local": false,
+  "name": "DOG HOUSE (feat. Julia Wolf & Yeat)",
+  "popularity": 20,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:47Sa7pC00F7D5Z0i7HC5la"
+}

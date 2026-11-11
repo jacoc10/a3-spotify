@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 18,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+    },
+    "href": "https://api.spotify.com/v1/albums/1NAmidJlEaVgA3MpcPFYGq",
+    "id": "1NAmidJlEaVgA3MpcPFYGq",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e787cffec20aa2a396a61647",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e787cffec20aa2a396a61647",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e787cffec20aa2a396a61647",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Lover",
+    "release_date": "2019-08-23",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1NAmidJlEaVgA3MpcPFYGq",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 190240,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1LLXZFeAHK9R4xUramtUKw"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1LLXZFeAHK9R4xUramtUKw",
+  "id": "1LLXZFeAHK9R4xUramtUKw",
+  "is_local": false,
+  "name": "London Boy",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:1LLXZFeAHK9R4xUramtUKw"
+}

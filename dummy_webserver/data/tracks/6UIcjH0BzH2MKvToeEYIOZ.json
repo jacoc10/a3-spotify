@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 18,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk"
+    },
+    "href": "https://api.spotify.com/v1/albums/2WFFcvzM0CgLaSq4MSkyZk",
+    "id": "2WFFcvzM0CgLaSq4MSkyZk",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a0aea3805ed6a87aa394c796",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a0aea3805ed6a87aa394c796",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a0aea3805ed6a87aa394c796",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "- (Deluxe)",
+    "release_date": "2023-05-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2WFFcvzM0CgLaSq4MSkyZk",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 239770,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6UIcjH0BzH2MKvToeEYIOZ"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6UIcjH0BzH2MKvToeEYIOZ",
+  "id": "6UIcjH0BzH2MKvToeEYIOZ",
+  "is_local": false,
+  "name": "Salt Water",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6UIcjH0BzH2MKvToeEYIOZ"
+}

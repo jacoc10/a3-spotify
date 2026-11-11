@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7vAZjssOcIuksA5DxN5sM1"
+    },
+    "href": "https://api.spotify.com/v1/albums/7vAZjssOcIuksA5DxN5sM1",
+    "id": "7vAZjssOcIuksA5DxN5sM1",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273efaa0894111ccf3e719f33ca",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02efaa0894111ccf3e719f33ca",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851efaa0894111ccf3e719f33ca",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Rain On Me (Ralphi Rosario Remix)",
+    "release_date": "2020-07-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7vAZjssOcIuksA5DxN5sM1",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "type": "artist",
+        "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
+        },
+        "href": "https://api.spotify.com/v1/artists/0c5584rnmlOvkMpJtpBLTh",
+        "id": "0c5584rnmlOvkMpJtpBLTh",
+        "name": "Ralphi Rosario",
+        "type": "artist",
+        "uri": "spotify:artist:0c5584rnmlOvkMpJtpBLTh"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+      },
+      "href": "https://api.spotify.com/v1/artists/1HY2Jd0NmPuamShAr6KMms",
+      "id": "1HY2Jd0NmPuamShAr6KMms",
+      "name": "Lady Gaga",
+      "type": "artist",
+      "uri": "spotify:artist:1HY2Jd0NmPuamShAr6KMms"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0c5584rnmlOvkMpJtpBLTh"
+      },
+      "href": "https://api.spotify.com/v1/artists/0c5584rnmlOvkMpJtpBLTh",
+      "id": "0c5584rnmlOvkMpJtpBLTh",
+      "name": "Ralphi Rosario",
+      "type": "artist",
+      "uri": "spotify:artist:0c5584rnmlOvkMpJtpBLTh"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 451200,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zTazJ3jOT7YR1HGdlawR2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zTazJ3jOT7YR1HGdlawR2",
+  "id": "0zTazJ3jOT7YR1HGdlawR2",
+  "is_local": false,
+  "name": "Rain On Me - Ralphi Rosario Remix",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0zTazJ3jOT7YR1HGdlawR2"
+}

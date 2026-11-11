@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 31,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+    },
+    "href": "https://api.spotify.com/v1/albums/5H7ixXZfsNMGbIE5OBSpcb",
+    "id": "5H7ixXZfsNMGbIE5OBSpcb",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2738ecc33f195df6aa257c39eaa",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e028ecc33f195df6aa257c39eaa",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048518ecc33f195df6aa257c39eaa",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+    "release_date": "2024-04-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5H7ixXZfsNMGbIE5OBSpcb",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 228800,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7Mts0OfPorF4iwOomvfqn1",
+  "id": "7Mts0OfPorF4iwOomvfqn1",
+  "is_local": false,
+  "name": "So High School",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 22,
+  "type": "track",
+  "uri": "spotify:track:7Mts0OfPorF4iwOomvfqn1"
+}

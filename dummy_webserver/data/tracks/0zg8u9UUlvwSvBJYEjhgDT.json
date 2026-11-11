@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7"
+    },
+    "href": "https://api.spotify.com/v1/albums/1P0qTV2aAW913jN2rDjnl7",
+    "id": "1P0qTV2aAW913jN2rDjnl7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273eb2f0eef99be751c0a25bd5e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02eb2f0eef99be751c0a25bd5e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851eb2f0eef99be751c0a25bd5e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Love Again (Imanbek Remix)",
+    "release_date": "2021-10-01",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1P0qTV2aAW913jN2rDjnl7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        "href": "https://api.spotify.com/v1/artists/5rGrDvrLOV2VV8SCFVGWlj",
+        "id": "5rGrDvrLOV2VV8SCFVGWlj",
+        "name": "Imanbek",
+        "type": "artist",
+        "uri": "spotify:artist:5rGrDvrLOV2VV8SCFVGWlj"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+      },
+      "href": "https://api.spotify.com/v1/artists/5rGrDvrLOV2VV8SCFVGWlj",
+      "id": "5rGrDvrLOV2VV8SCFVGWlj",
+      "name": "Imanbek",
+      "type": "artist",
+      "uri": "spotify:artist:5rGrDvrLOV2VV8SCFVGWlj"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 214000,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0zg8u9UUlvwSvBJYEjhgDT",
+  "id": "0zg8u9UUlvwSvBJYEjhgDT",
+  "is_local": false,
+  "name": "Love Again - Imanbek Remix",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0zg8u9UUlvwSvBJYEjhgDT"
+}

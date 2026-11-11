@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 6,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5A2hjk2MoqkDqGYsAfUiAz"
+    },
+    "href": "https://api.spotify.com/v1/albums/5A2hjk2MoqkDqGYsAfUiAz",
+    "id": "5A2hjk2MoqkDqGYsAfUiAz",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27324f269aefee395addb6cff1c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0224f269aefee395addb6cff1c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485124f269aefee395addb6cff1c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "names in lights at stadium heights",
+    "release_date": "2024-08-21",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5A2hjk2MoqkDqGYsAfUiAz",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 300253,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/19tzTUkWFhpVn9VFKUhA4e"
+  },
+  "href": "https://api.spotify.com/v1/tracks/19tzTUkWFhpVn9VFKUhA4e",
+  "id": "19tzTUkWFhpVn9VFKUhA4e",
+  "is_local": false,
+  "name": "Bloodstream",
+  "popularity": 48,
+  "preview_url": null,
+  "track_number": 4,
+  "type": "track",
+  "uri": "spotify:track:19tzTUkWFhpVn9VFKUhA4e"
+}

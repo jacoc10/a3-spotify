@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+    },
+    "href": "https://api.spotify.com/v1/albums/0GqKALU6JwUSF5wH6ClRuB",
+    "id": "0GqKALU6JwUSF5wH6ClRuB",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a5dbb5464c3f7bcb0f8d692a",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a5dbb5464c3f7bcb0f8d692a",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a5dbb5464c3f7bcb0f8d692a",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Beach House",
+    "release_date": "2022-08-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0GqKALU6JwUSF5wH6ClRuB",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 150004,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
+  },
+  "href": "https://api.spotify.com/v1/tracks/23Pi81mwR6wNeFhym9mUMx",
+  "id": "23Pi81mwR6wNeFhym9mUMx",
+  "is_local": false,
+  "name": "Beach House",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:23Pi81mwR6wNeFhym9mUMx"
+}

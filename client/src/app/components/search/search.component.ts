@@ -13,10 +13,10 @@ import { ResourceData } from '../../data/resource-data';
     standalone: false
 })
 export class SearchComponent implements OnInit {
-  searchString:string;
+  searchString:string = '';
   searchCategory:string = 'artist';
   searchCategories:string[] = ['artist', 'album', 'track'];
-  resources:ResourceData[];
+  resources:ResourceData[] = [];
 
   constructor(private spotifyService:SpotifyService) { }
 

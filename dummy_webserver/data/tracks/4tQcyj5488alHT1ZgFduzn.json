@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 16,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7ycBtnsMtyVbbwTfJwRjSP"
+    },
+    "href": "https://api.spotify.com/v1/albums/7ycBtnsMtyVbbwTfJwRjSP",
+    "id": "7ycBtnsMtyVbbwTfJwRjSP",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cdb645498cd3d8a2db4d05e1",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cdb645498cd3d8a2db4d05e1",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cdb645498cd3d8a2db4d05e1",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "To Pimp A Butterfly",
+    "release_date": "2015-03-16",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7ycBtnsMtyVbbwTfJwRjSP",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT"
+      },
+      "href": "https://api.spotify.com/v1/artists/5ooSG9S0glqP5ZrqqaHBvT",
+      "id": "5ooSG9S0glqP5ZrqqaHBvT",
+      "name": "James Fauntleroy",
+      "type": "artist",
+      "uri": "spotify:artist:5ooSG9S0glqP5ZrqqaHBvT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L"
+      },
+      "href": "https://api.spotify.com/v1/artists/6W9RUw7xnNRYtgh8dimg7L",
+      "id": "6W9RUw7xnNRYtgh8dimg7L",
+      "name": "Ronald Isley",
+      "type": "artist",
+      "uri": "spotify:artist:6W9RUw7xnNRYtgh8dimg7L"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 261746,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4tQcyj5488alHT1ZgFduzn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4tQcyj5488alHT1ZgFduzn",
+  "id": "4tQcyj5488alHT1ZgFduzn",
+  "is_local": false,
+  "name": "How Much A Dollar Cost",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 11,
+  "type": "track",
+  "uri": "spotify:track:4tQcyj5488alHT1ZgFduzn"
+}

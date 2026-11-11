@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7CL6fVngqU6X5VYXHQtBis"
+    },
+    "href": "https://api.spotify.com/v1/albums/7CL6fVngqU6X5VYXHQtBis",
+    "id": "7CL6fVngqU6X5VYXHQtBis",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27379482ddb4d7a444437bcacf0",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0279482ddb4d7a444437bcacf0",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485179482ddb4d7a444437bcacf0",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Hotel Rock Bottom",
+    "release_date": "2025-07-10",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7CL6fVngqU6X5VYXHQtBis",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+        },
+        "href": "https://api.spotify.com/v1/artists/31hoObE1mECmBt2P64uqLK",
+        "id": "31hoObE1mECmBt2P64uqLK",
+        "name": "Frankie Grande",
+        "type": "artist",
+        "uri": "spotify:artist:31hoObE1mECmBt2P64uqLK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31hoObE1mECmBt2P64uqLK"
+      },
+      "href": "https://api.spotify.com/v1/artists/31hoObE1mECmBt2P64uqLK",
+      "id": "31hoObE1mECmBt2P64uqLK",
+      "name": "Frankie Grande",
+      "type": "artist",
+      "uri": "spotify:artist:31hoObE1mECmBt2P64uqLK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 195705,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4qkPVF5w9mnpVKEb3izXjI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4qkPVF5w9mnpVKEb3izXjI",
+  "id": "4qkPVF5w9mnpVKEb3izXjI",
+  "is_local": false,
+  "name": "Hotel Rock Bottom (feat. Ariana Grande)",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4qkPVF5w9mnpVKEb3izXjI"
+}

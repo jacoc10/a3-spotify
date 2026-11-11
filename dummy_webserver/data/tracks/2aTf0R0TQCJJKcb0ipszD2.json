@@ -1,0 +1,114 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/039HqIGiK3GLheUbqtyu8H"
+    },
+    "href": "https://api.spotify.com/v1/albums/039HqIGiK3GLheUbqtyu8H",
+    "id": "039HqIGiK3GLheUbqtyu8H",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27354da89f094a2e02a7b551022",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0254da89f094a2e02a7b551022",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485154da89f094a2e02a7b551022",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "SOMEBODY LOVES ME PT. 2",
+    "release_date": "2025-09-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:039HqIGiK3GLheUbqtyu8H",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+        "id": "2HPaUgqeutzr3jx5a9WyDV",
+        "name": "PARTYNEXTDOOR",
+        "type": "artist",
+        "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        },
+        "href": "https://api.spotify.com/v1/artists/2R0CFyeMDiRbfkhkIMbyl1",
+        "id": "2R0CFyeMDiRbfkhkIMbyl1",
+        "name": "Cash Cobain",
+        "type": "artist",
+        "uri": "spotify:artist:2R0CFyeMDiRbfkhkIMbyl1"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+      },
+      "href": "https://api.spotify.com/v1/artists/2HPaUgqeutzr3jx5a9WyDV",
+      "id": "2HPaUgqeutzr3jx5a9WyDV",
+      "name": "PARTYNEXTDOOR",
+      "type": "artist",
+      "uri": "spotify:artist:2HPaUgqeutzr3jx5a9WyDV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+      },
+      "href": "https://api.spotify.com/v1/artists/2R0CFyeMDiRbfkhkIMbyl1",
+      "id": "2R0CFyeMDiRbfkhkIMbyl1",
+      "name": "Cash Cobain",
+      "type": "artist",
+      "uri": "spotify:artist:2R0CFyeMDiRbfkhkIMbyl1"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 181276,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2aTf0R0TQCJJKcb0ipszD2"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2aTf0R0TQCJJKcb0ipszD2",
+  "id": "2aTf0R0TQCJJKcb0ipszD2",
+  "is_local": false,
+  "name": "SOMEBODY LOVES ME PT. 2",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2aTf0R0TQCJJKcb0ipszD2"
+}

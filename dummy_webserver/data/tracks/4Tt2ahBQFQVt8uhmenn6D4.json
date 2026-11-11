@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5Uxy3eGrFAI1VpGRmZIkM7"
+    },
+    "href": "https://api.spotify.com/v1/albums/5Uxy3eGrFAI1VpGRmZIkM7",
+    "id": "5Uxy3eGrFAI1VpGRmZIkM7",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27379753572a5053ffc4150ae67",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0279753572a5053ffc4150ae67",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485179753572a5053ffc4150ae67",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "When We Were Young",
+    "release_date": "2016-02-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5Uxy3eGrFAI1VpGRmZIkM7",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 290900,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4Tt2ahBQFQVt8uhmenn6D4"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4Tt2ahBQFQVt8uhmenn6D4",
+  "id": "4Tt2ahBQFQVt8uhmenn6D4",
+  "is_local": false,
+  "name": "When We Were Young",
+  "popularity": 42,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4Tt2ahBQFQVt8uhmenn6D4"
+}

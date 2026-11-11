@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 15,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/25it7uSpNFuRoD6uNc0Tfu"
+    },
+    "href": "https://api.spotify.com/v1/albums/25it7uSpNFuRoD6uNc0Tfu",
+    "id": "25it7uSpNFuRoD6uNc0Tfu",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273b9895f67935f0d041e13698a",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02b9895f67935f0d041e13698a",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851b9895f67935f0d041e13698a",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Dedicated",
+    "release_date": "2019-05-17",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:25it7uSpNFuRoD6uNc0Tfu",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 161066,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4hDBBUfxZom9yCl67A8UAe"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4hDBBUfxZom9yCl67A8UAe",
+  "id": "4hDBBUfxZom9yCl67A8UAe",
+  "is_local": false,
+  "name": "Happy Not Knowing",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 6,
+  "type": "track",
+  "uri": "spotify:track:4hDBBUfxZom9yCl67A8UAe"
+}

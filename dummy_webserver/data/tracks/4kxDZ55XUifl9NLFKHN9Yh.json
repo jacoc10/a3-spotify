@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3zTJ6N93BUl1BaaM6ga1wE"
+    },
+    "href": "https://api.spotify.com/v1/albums/3zTJ6N93BUl1BaaM6ga1wE",
+    "id": "3zTJ6N93BUl1BaaM6ga1wE",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2735af52f37c6943ab5e8a98f68",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e025af52f37c6943ab5e8a98f68",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048515af52f37c6943ab5e8a98f68",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "This Kiss",
+    "release_date": "2012-12-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3zTJ6N93BUl1BaaM6ga1wE",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 251693,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4kxDZ55XUifl9NLFKHN9Yh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4kxDZ55XUifl9NLFKHN9Yh",
+  "id": "4kxDZ55XUifl9NLFKHN9Yh",
+  "is_local": false,
+  "name": "This Kiss - Jason Nevins Remix",
+  "popularity": 45,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4kxDZ55XUifl9NLFKHN9Yh"
+}

@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1SSAC7Db5LEhTWtVVnvMva"
+    },
+    "href": "https://api.spotify.com/v1/albums/1SSAC7Db5LEhTWtVVnvMva",
+    "id": "1SSAC7Db5LEhTWtVVnvMva",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273a5cb7ae632d6a278823eae25",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02a5cb7ae632d6a278823eae25",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851a5cb7ae632d6a278823eae25",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sapphire (Unplugged)",
+    "release_date": "2025-07-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1SSAC7Db5LEhTWtVVnvMva",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 176239,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1luf2qRRvfP0o35F3g8xqA"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1luf2qRRvfP0o35F3g8xqA",
+  "id": "1luf2qRRvfP0o35F3g8xqA",
+  "is_local": false,
+  "name": "Sapphire - Unplugged",
+  "popularity": 26,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1luf2qRRvfP0o35F3g8xqA"
+}

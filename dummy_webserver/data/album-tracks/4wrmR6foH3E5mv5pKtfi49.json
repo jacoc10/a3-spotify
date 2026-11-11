@@ -1,0 +1,63 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4wrmR6foH3E5mv5pKtfi49/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+          },
+          "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+          "id": "4dpARuHxo51G3z768sgnrY",
+          "name": "Adele",
+          "type": "artist",
+          "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "available_markets": [
+        "AR",
+        "BO",
+        "BR",
+        "BZ",
+        "CL",
+        "CO",
+        "CR",
+        "DO",
+        "EC",
+        "GT",
+        "GY",
+        "HN",
+        "MX",
+        "NI",
+        "PA",
+        "PE",
+        "PR",
+        "PY",
+        "SR",
+        "SV",
+        "US",
+        "UY",
+        "VE"
+      ],
+      "disc_number": 1,
+      "duration_ms": 240439,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3rTF4xvF6xKI9WiLg8LFWn"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3rTF4xvF6xKI9WiLg8LFWn",
+      "id": "3rTF4xvF6xKI9WiLg8LFWn",
+      "name": "Water Under the Bridge",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3rTF4xvF6xKI9WiLg8LFWn",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

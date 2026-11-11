@@ -1,0 +1,20 @@
+{
+  "name": "spotify-dummy-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dummy Spotify API server that serves saved JSON data. Drop-in replacement for the real webserver.",
+  "scripts": {
+    "start": "node ./bin/www",
+    "fetch-data": "node fetch-data.js",
+    "generate-mock": "node generate-mock-data.js"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.2",
+    "http-errors": "~1.6.2",
+    "morgan": "~1.9.0",
+    "node-fetch": "^2.2.0"
+  }
+}

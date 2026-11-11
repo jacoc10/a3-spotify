@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 20,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3lS1y25WAhcqJDATJK70Mq"
+    },
+    "href": "https://api.spotify.com/v1/albums/3lS1y25WAhcqJDATJK70Mq",
+    "id": "3lS1y25WAhcqJDATJK70Mq",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273e0b60c608586d88252b8fbc0",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02e0b60c608586d88252b8fbc0",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851e0b60c608586d88252b8fbc0",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Midnights (3am Edition)",
+    "release_date": "2022-10-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3lS1y25WAhcqJDATJK70Mq",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 218502,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0BiqmkasE5FdrChwKfVp8X"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0BiqmkasE5FdrChwKfVp8X",
+  "id": "0BiqmkasE5FdrChwKfVp8X",
+  "is_local": false,
+  "name": "Bigger Than The Whole Sky",
+  "popularity": 35,
+  "preview_url": null,
+  "track_number": 15,
+  "type": "track",
+  "uri": "spotify:track:0BiqmkasE5FdrChwKfVp8X"
+}

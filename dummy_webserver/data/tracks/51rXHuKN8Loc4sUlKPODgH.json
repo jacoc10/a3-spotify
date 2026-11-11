@@ -1,0 +1,124 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH"
+    },
+    "href": "https://api.spotify.com/v1/albums/1NXM5lF9YB7a3f1e4R48oH",
+    "id": "1NXM5lF9YB7a3f1e4R48oH",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739edc391d911405ea9f5c320e",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029edc391d911405ea9f5c320e",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519edc391d911405ea9f5c320e",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+    "release_date": "2018-01-12",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:1NXM5lF9YB7a3f1e4R48oH",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+        "id": "28ExwzUQsvgJooOI0X1mr3",
+        "name": "Jay Rock",
+        "type": "artist",
+        "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+        "id": "1RyvyyTE3xzB2ZywiAwp0i",
+        "name": "Future",
+        "type": "artist",
+        "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+      },
+      "href": "https://api.spotify.com/v1/artists/28ExwzUQsvgJooOI0X1mr3",
+      "id": "28ExwzUQsvgJooOI0X1mr3",
+      "name": "Jay Rock",
+      "type": "artist",
+      "uri": "spotify:artist:28ExwzUQsvgJooOI0X1mr3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+      },
+      "href": "https://api.spotify.com/v1/artists/1RyvyyTE3xzB2ZywiAwp0i",
+      "id": "1RyvyyTE3xzB2ZywiAwp0i",
+      "name": "Future",
+      "type": "artist",
+      "uri": "spotify:artist:1RyvyyTE3xzB2ZywiAwp0i"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+      },
+      "href": "https://api.spotify.com/v1/artists/53KwLdlmrlCelAZMaLVZqU",
+      "id": "53KwLdlmrlCelAZMaLVZqU",
+      "name": "James Blake",
+      "type": "artist",
+      "uri": "spotify:artist:53KwLdlmrlCelAZMaLVZqU"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 229670,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH"
+  },
+  "href": "https://api.spotify.com/v1/tracks/51rXHuKN8Loc4sUlKPODgH",
+  "id": "51rXHuKN8Loc4sUlKPODgH",
+  "is_local": false,
+  "name": "King's Dead (with Kendrick Lamar, Future & James Blake)",
+  "popularity": 46,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:51rXHuKN8Loc4sUlKPODgH"
+}

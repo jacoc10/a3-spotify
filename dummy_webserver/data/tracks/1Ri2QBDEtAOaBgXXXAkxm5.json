@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5YJV8MSNNpblJLiuygzBUD"
+    },
+    "href": "https://api.spotify.com/v1/albums/5YJV8MSNNpblJLiuygzBUD",
+    "id": "5YJV8MSNNpblJLiuygzBUD",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f8b7132d6e8384b8c171c6f4",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f8b7132d6e8384b8c171c6f4",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f8b7132d6e8384b8c171c6f4",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sour Candy",
+    "release_date": "2011-07-05",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5YJV8MSNNpblJLiuygzBUD",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B"
+        },
+        "href": "https://api.spotify.com/v1/artists/5lemlzREG6FOAergTgPi9B",
+        "id": "5lemlzREG6FOAergTgPi9B",
+        "name": "Josh Ramsay",
+        "type": "artist",
+        "uri": "spotify:artist:5lemlzREG6FOAergTgPi9B"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B"
+      },
+      "href": "https://api.spotify.com/v1/artists/5lemlzREG6FOAergTgPi9B",
+      "id": "5lemlzREG6FOAergTgPi9B",
+      "name": "Josh Ramsay",
+      "type": "artist",
+      "uri": "spotify:artist:5lemlzREG6FOAergTgPi9B"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 181653,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1Ri2QBDEtAOaBgXXXAkxm5"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1Ri2QBDEtAOaBgXXXAkxm5",
+  "id": "1Ri2QBDEtAOaBgXXXAkxm5",
+  "is_local": false,
+  "name": "Sour Candy",
+  "popularity": 31,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1Ri2QBDEtAOaBgXXXAkxm5"
+}

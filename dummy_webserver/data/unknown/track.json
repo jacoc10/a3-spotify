@@ -1,0 +1,45 @@
+{
+  "name": "Unknown Track",
+  "id": "unknown",
+  "images": [],
+  "external_urls": {
+    "spotify": "https://open.spotify.com"
+  },
+  "popularity": 0,
+  "duration_ms": 0,
+  "artists": [
+    {
+      "name": "Unknown Artist",
+      "id": "unknown",
+      "external_urls": {
+        "spotify": "https://open.spotify.com"
+      },
+      "type": "artist",
+      "uri": "spotify:artist:unknown"
+    }
+  ],
+  "album": {
+    "name": "Unknown Album",
+    "id": "unknown",
+    "images": [],
+    "external_urls": {
+      "spotify": "https://open.spotify.com"
+    },
+    "artists": [
+      {
+        "name": "Unknown Artist",
+        "id": "unknown",
+        "external_urls": {
+          "spotify": "https://open.spotify.com"
+        },
+        "type": "artist",
+        "uri": "spotify:artist:unknown"
+      }
+    ],
+    "genres": [],
+    "type": "album",
+    "uri": "spotify:album:unknown"
+  },
+  "type": "track",
+  "uri": "spotify:track:unknown"
+}

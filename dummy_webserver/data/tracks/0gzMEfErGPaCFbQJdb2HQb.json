@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
+    },
+    "href": "https://api.spotify.com/v1/albums/0tUnCfqBLeZlivAkbxvbib",
+    "id": "0tUnCfqBLeZlivAkbxvbib",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273f9fd583616e1ed456680ed63",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02f9fd583616e1ed456680ed63",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851f9fd583616e1ed456680ed63",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Spotify Singles",
+    "release_date": "2019-10-02",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0tUnCfqBLeZlivAkbxvbib",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 261977,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0gzMEfErGPaCFbQJdb2HQb",
+  "id": "0gzMEfErGPaCFbQJdb2HQb",
+  "is_local": false,
+  "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:0gzMEfErGPaCFbQJdb2HQb"
+}

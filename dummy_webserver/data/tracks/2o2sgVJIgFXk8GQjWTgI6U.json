@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 15,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
+    },
+    "href": "https://api.spotify.com/v1/albums/2Xoteh7uEpea4TohMxjtaq",
+    "id": "2Xoteh7uEpea4TohMxjtaq",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27333b8541201f1ef38941024be",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0233b8541201f1ef38941024be",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485133b8541201f1ef38941024be",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "evermore",
+    "release_date": "2020-12-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2Xoteh7uEpea4TohMxjtaq",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "type": "artist",
+        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "name": "Taylor Swift",
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 215920,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2o2sgVJIgFXk8GQjWTgI6U"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2o2sgVJIgFXk8GQjWTgI6U",
+  "id": "2o2sgVJIgFXk8GQjWTgI6U",
+  "is_local": false,
+  "name": "long story short",
+  "popularity": 23,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:2o2sgVJIgFXk8GQjWTgI6U"
+}

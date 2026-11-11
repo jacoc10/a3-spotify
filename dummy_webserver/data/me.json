@@ -1,0 +1,16 @@
+{
+  "display_name": "CS Student",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/cs_student"
+  },
+  "images": [
+    {
+      "url": "https://i.scdn.co/image/ab6761610000e5eb8272bf414106646e0e4a89f3",
+      "height": 300,
+      "width": 300
+    }
+  ],
+  "id": "cs_student",
+  "type": "user",
+  "uri": "spotify:user:cs_student"
+}

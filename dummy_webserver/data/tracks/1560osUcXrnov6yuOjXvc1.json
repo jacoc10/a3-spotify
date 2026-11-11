@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/78NIQe42qKXahAeZAb3w0h"
+    },
+    "href": "https://api.spotify.com/v1/albums/78NIQe42qKXahAeZAb3w0h",
+    "id": "78NIQe42qKXahAeZAb3w0h",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cf05fc616cf7e38c0e52b888",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cf05fc616cf7e38c0e52b888",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cf05fc616cf7e38c0e52b888",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "No Face",
+    "release_date": "2024-08-31",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:78NIQe42qKXahAeZAb3w0h",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 137142,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/1560osUcXrnov6yuOjXvc1"
+  },
+  "href": "https://api.spotify.com/v1/tracks/1560osUcXrnov6yuOjXvc1",
+  "id": "1560osUcXrnov6yuOjXvc1",
+  "is_local": false,
+  "name": "No Face",
+  "popularity": 47,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:1560osUcXrnov6yuOjXvc1"
+}

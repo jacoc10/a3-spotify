@@ -1,0 +1,52 @@
+{
+  "href": "https://api.spotify.com/v1/albums/4XF4wNh0WHyrayqCYS8xY0/tracks?offset=0&limit=50",
+  "items": [
+    {
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          },
+          "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "type": "artist",
+          "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy"
+          },
+          "href": "https://api.spotify.com/v1/artists/7sfgqEdoeBTjd8lQsPT3Cy",
+          "id": "7sfgqEdoeBTjd8lQsPT3Cy",
+          "name": "Emeli Sandé",
+          "type": "artist",
+          "uri": "spotify:artist:7sfgqEdoeBTjd8lQsPT3Cy"
+        }
+      ],
+      "available_markets": [
+        "CA",
+        "US"
+      ],
+      "disc_number": 1,
+      "duration_ms": 306053,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5GmqAFOndnDJnIgDPUeiol"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5GmqAFOndnDJnIgDPUeiol",
+      "id": "5GmqAFOndnDJnIgDPUeiol",
+      "name": "Bitch, Don’t Kill My Vibe - Remix",
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5GmqAFOndnDJnIgDPUeiol",
+      "is_local": false
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 1
+}

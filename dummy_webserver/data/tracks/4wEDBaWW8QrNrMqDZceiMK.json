@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6ktJ192atirIqjWlL7596s"
+    },
+    "href": "https://api.spotify.com/v1/albums/6ktJ192atirIqjWlL7596s",
+    "id": "6ktJ192atirIqjWlL7596s",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273d95dc4ab5d07266403439993",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02d95dc4ab5d07266403439993",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851d95dc4ab5d07266403439993",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Your Type (Remixes)",
+    "release_date": "2015-12-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6ktJ192atirIqjWlL7596s",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        },
+        "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+        "id": "6sFIWsNpZYqfjUpaCgueju",
+        "name": "Carly Rae Jepsen",
+        "type": "artist",
+        "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+      },
+      "href": "https://api.spotify.com/v1/artists/6sFIWsNpZYqfjUpaCgueju",
+      "id": "6sFIWsNpZYqfjUpaCgueju",
+      "name": "Carly Rae Jepsen",
+      "type": "artist",
+      "uri": "spotify:artist:6sFIWsNpZYqfjUpaCgueju"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI"
+      },
+      "href": "https://api.spotify.com/v1/artists/4LKB1IkCINDDjEX8iS7glI",
+      "id": "4LKB1IkCINDDjEX8iS7glI",
+      "name": "Young Bombs",
+      "type": "artist",
+      "uri": "spotify:artist:4LKB1IkCINDDjEX8iS7glI"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 262680,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4wEDBaWW8QrNrMqDZceiMK"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4wEDBaWW8QrNrMqDZceiMK",
+  "id": "4wEDBaWW8QrNrMqDZceiMK",
+  "is_local": false,
+  "name": "Your Type - Young Bombs Remix",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4wEDBaWW8QrNrMqDZceiMK"
+}

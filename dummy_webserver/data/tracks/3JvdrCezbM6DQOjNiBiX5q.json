@@ -1,0 +1,104 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5vgkX6abffhom2ejVI11yq"
+    },
+    "href": "https://api.spotify.com/v1/albums/5vgkX6abffhom2ejVI11yq",
+    "id": "5vgkX6abffhom2ejVI11yq",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2736c1f7876d7322a196d9880ca",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e026c1f7876d7322a196d9880ca",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048516c1f7876d7322a196d9880ca",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Die For It (ft. Nas)",
+    "release_date": "2021-08-26",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5vgkX6abffhom2ejVI11yq",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+        },
+        "href": "https://api.spotify.com/v1/artists/0FOWNUFHPnMy0vOw1siGqi",
+        "id": "0FOWNUFHPnMy0vOw1siGqi",
+        "name": "Belly",
+        "type": "artist",
+        "uri": "spotify:artist:0FOWNUFHPnMy0vOw1siGqi"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+        "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+        "name": "The Weeknd",
+        "type": "artist",
+        "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi"
+      },
+      "href": "https://api.spotify.com/v1/artists/0FOWNUFHPnMy0vOw1siGqi",
+      "id": "0FOWNUFHPnMy0vOw1siGqi",
+      "name": "Belly",
+      "type": "artist",
+      "uri": "spotify:artist:0FOWNUFHPnMy0vOw1siGqi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "name": "The Weeknd",
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q"
+      },
+      "href": "https://api.spotify.com/v1/artists/20qISvAhX20dpIbOOzGK3q",
+      "id": "20qISvAhX20dpIbOOzGK3q",
+      "name": "Nas",
+      "type": "artist",
+      "uri": "spotify:artist:20qISvAhX20dpIbOOzGK3q"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 199886,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3JvdrCezbM6DQOjNiBiX5q"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3JvdrCezbM6DQOjNiBiX5q",
+  "id": "3JvdrCezbM6DQOjNiBiX5q",
+  "is_local": false,
+  "name": "Die For It (ft. Nas)",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3JvdrCezbM6DQOjNiBiX5q"
+}

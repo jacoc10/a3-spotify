@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 2,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/6fyUUW7ISpjbxCxaBHl1UN"
+    },
+    "href": "https://api.spotify.com/v1/albums/6fyUUW7ISpjbxCxaBHl1UN",
+    "id": "6fyUUW7ISpjbxCxaBHl1UN",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273dd0c0090129ad5fb99d361c8",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02dd0c0090129ad5fb99d361c8",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851dd0c0090129ad5fb99d361c8",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Life Goes On (feat. Luke Combs)",
+    "release_date": "2023-05-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:6fyUUW7ISpjbxCxaBHl1UN",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+        "id": "718COspgdWOnwOFpJHRZHS",
+        "name": "Luke Combs",
+        "type": "artist",
+        "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+      },
+      "href": "https://api.spotify.com/v1/artists/718COspgdWOnwOFpJHRZHS",
+      "id": "718COspgdWOnwOFpJHRZHS",
+      "name": "Luke Combs",
+      "type": "artist",
+      "uri": "spotify:artist:718COspgdWOnwOFpJHRZHS"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 210208,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/63kLorCFyk4ZHMHPhcWOtO"
+  },
+  "href": "https://api.spotify.com/v1/tracks/63kLorCFyk4ZHMHPhcWOtO",
+  "id": "63kLorCFyk4ZHMHPhcWOtO",
+  "is_local": false,
+  "name": "Life Goes On (feat. Luke Combs)",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:63kLorCFyk4ZHMHPhcWOtO"
+}

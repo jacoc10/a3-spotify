@@ -1,0 +1,154 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JUrJP460nFIqwjxM19slT",
+    "id": "3JUrJP460nFIqwjxM19slT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485141ded89391c5350f6b8f991c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Wicked: The Soundtrack",
+    "release_date": "2024-11-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3JUrJP460nFIqwjxM19slT",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+        "id": "3eLZo1bSslvsu0zNhtmMM4",
+        "name": "Wicked Movie Cast",
+        "type": "artist",
+        "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+        "id": "46UMQ0cW8ToR8egkBRwAxZ",
+        "name": "Cynthia Erivo",
+        "type": "artist",
+        "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+      "id": "3eLZo1bSslvsu0zNhtmMM4",
+      "name": "Wicked Movie Cast",
+      "type": "artist",
+      "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2y7iH38SZLD6dIERt3Y1zD"
+      },
+      "href": "https://api.spotify.com/v1/artists/2y7iH38SZLD6dIERt3Y1zD",
+      "id": "2y7iH38SZLD6dIERt3Y1zD",
+      "name": "Andy Nyman",
+      "type": "artist",
+      "uri": "spotify:artist:2y7iH38SZLD6dIERt3Y1zD"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3UgqKykDMxZdp9fhBkQFVr"
+      },
+      "href": "https://api.spotify.com/v1/artists/3UgqKykDMxZdp9fhBkQFVr",
+      "id": "3UgqKykDMxZdp9fhBkQFVr",
+      "name": "Courtney-Mae Briggs",
+      "type": "artist",
+      "uri": "spotify:artist:3UgqKykDMxZdp9fhBkQFVr"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0O1n2TpXR4XizmHi7aY0l8"
+      },
+      "href": "https://api.spotify.com/v1/artists/0O1n2TpXR4XizmHi7aY0l8",
+      "id": "0O1n2TpXR4XizmHi7aY0l8",
+      "name": "Jeff Goldblum",
+      "type": "artist",
+      "uri": "spotify:artist:0O1n2TpXR4XizmHi7aY0l8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Udc6D0PcIN5F0q7pAlDH8"
+      },
+      "href": "https://api.spotify.com/v1/artists/0Udc6D0PcIN5F0q7pAlDH8",
+      "id": "0Udc6D0PcIN5F0q7pAlDH8",
+      "name": "Sharon D. Clarke",
+      "type": "artist",
+      "uri": "spotify:artist:0Udc6D0PcIN5F0q7pAlDH8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66HrXY5d6DerEK3QCcKO6H"
+      },
+      "href": "https://api.spotify.com/v1/artists/66HrXY5d6DerEK3QCcKO6H",
+      "id": "66HrXY5d6DerEK3QCcKO6H",
+      "name": "Jenna Boyd",
+      "type": "artist",
+      "uri": "spotify:artist:66HrXY5d6DerEK3QCcKO6H"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 447991,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/0br9vcQnqeqp9PKCGsrxAF"
+  },
+  "href": "https://api.spotify.com/v1/tracks/0br9vcQnqeqp9PKCGsrxAF",
+  "id": "0br9vcQnqeqp9PKCGsrxAF",
+  "is_local": false,
+  "name": "No One Mourns the Wicked",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:0br9vcQnqeqp9PKCGsrxAF"
+}

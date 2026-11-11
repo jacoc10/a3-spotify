@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0BL4n7JwPd0Ml4nhpjRCFv"
+    },
+    "href": "https://api.spotify.com/v1/albums/0BL4n7JwPd0Ml4nhpjRCFv",
+    "id": "0BL4n7JwPd0Ml4nhpjRCFv",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273cb260d46ad3b5cc7f91dc6ee",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02cb260d46ad3b5cc7f91dc6ee",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851cb260d46ad3b5cc7f91dc6ee",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sympathy is a knife featuring ariana grande",
+    "release_date": "2024-10-10",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0BL4n7JwPd0Ml4nhpjRCFv",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
+        "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+        "id": "25uiPmTg16RbhZWAqwLBy5",
+        "name": "Charli xcx",
+        "type": "artist",
+        "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+      },
+      "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
+      "id": "25uiPmTg16RbhZWAqwLBy5",
+      "name": "Charli xcx",
+      "type": "artist",
+      "uri": "spotify:artist:25uiPmTg16RbhZWAqwLBy5"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 154126,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6xrTHtSg2SDBLilLxhbhof"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6xrTHtSg2SDBLilLxhbhof",
+  "id": "6xrTHtSg2SDBLilLxhbhof",
+  "is_local": false,
+  "name": "Sympathy is a knife featuring ariana grande",
+  "popularity": 36,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6xrTHtSg2SDBLilLxhbhof"
+}

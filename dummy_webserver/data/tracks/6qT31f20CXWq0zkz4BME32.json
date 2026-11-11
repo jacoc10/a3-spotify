@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 19,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/2VSBGJ8bUuNgmOYXHIQagM"
+    },
+    "href": "https://api.spotify.com/v1/albums/2VSBGJ8bUuNgmOYXHIQagM",
+    "id": "2VSBGJ8bUuNgmOYXHIQagM",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273db6ed492fdc27def8f979263",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02db6ed492fdc27def8f979263",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851db6ed492fdc27def8f979263",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Yours Truly (Tenth Anniversary Edition)",
+    "release_date": "2023-08-25",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:2VSBGJ8bUuNgmOYXHIQagM",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 197602,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6qT31f20CXWq0zkz4BME32"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6qT31f20CXWq0zkz4BME32",
+  "id": "6qT31f20CXWq0zkz4BME32",
+  "is_local": false,
+  "name": "Baby I",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 2,
+  "type": "track",
+  "uri": "spotify:track:6qT31f20CXWq0zkz4BME32"
+}

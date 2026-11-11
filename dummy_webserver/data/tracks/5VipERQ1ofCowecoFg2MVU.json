@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 19,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa"
+    },
+    "href": "https://api.spotify.com/v1/albums/74vajFwEwXJ61OW1DKSPEa",
+    "id": "74vajFwEwXJ61OW1DKSPEa",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2739508fb7ca2eedc0d98b9139f",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e029508fb7ca2eedc0d98b9139f",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048519508fb7ca2eedc0d98b9139f",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Positions (Deluxe)",
+    "release_date": "2021-02-19",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:74vajFwEwXJ61OW1DKSPEa",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+      },
+      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "name": "Ariana Grande",
+      "type": "artist",
+      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+      },
+      "href": "https://api.spotify.com/v1/artists/5cj0lLjcoR7YOSnhnX0Po5",
+      "id": "5cj0lLjcoR7YOSnhnX0Po5",
+      "name": "Doja Cat",
+      "type": "artist",
+      "uri": "spotify:artist:5cj0lLjcoR7YOSnhnX0Po5"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 167989,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5VipERQ1ofCowecoFg2MVU"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5VipERQ1ofCowecoFg2MVU",
+  "id": "5VipERQ1ofCowecoFg2MVU",
+  "is_local": false,
+  "name": "motive (with Doja Cat)",
+  "popularity": 34,
+  "preview_url": null,
+  "track_number": 3,
+  "type": "track",
+  "uri": "spotify:track:5VipERQ1ofCowecoFg2MVU"
+}

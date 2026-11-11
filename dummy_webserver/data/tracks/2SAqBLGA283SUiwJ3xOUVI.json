@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43"
+    },
+    "href": "https://api.spotify.com/v1/albums/0qGdc7fNq9RNIPEzZufa43",
+    "id": "0qGdc7fNq9RNIPEzZufa43",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0252c75ed37313b889447011ef",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Laugh Now Cry Later (feat. Lil Durk)",
+    "release_date": "2020-08-14",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:0qGdc7fNq9RNIPEzZufa43",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+        "id": "3TVXtAsR1Inumwj472S9r4",
+        "name": "Drake",
+        "type": "artist",
+        "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+        "id": "3hcs9uc56yIGFCSy9leWe7",
+        "name": "Lil Durk",
+        "type": "artist",
+        "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+      },
+      "href": "https://api.spotify.com/v1/artists/3TVXtAsR1Inumwj472S9r4",
+      "id": "3TVXtAsR1Inumwj472S9r4",
+      "name": "Drake",
+      "type": "artist",
+      "uri": "spotify:artist:3TVXtAsR1Inumwj472S9r4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+      },
+      "href": "https://api.spotify.com/v1/artists/3hcs9uc56yIGFCSy9leWe7",
+      "id": "3hcs9uc56yIGFCSy9leWe7",
+      "name": "Lil Durk",
+      "type": "artist",
+      "uri": "spotify:artist:3hcs9uc56yIGFCSy9leWe7"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 261492,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+  },
+  "href": "https://api.spotify.com/v1/tracks/2SAqBLGA283SUiwJ3xOUVI",
+  "id": "2SAqBLGA283SUiwJ3xOUVI",
+  "is_local": false,
+  "name": "Laugh Now Cry Later (feat. Lil Durk)",
+  "popularity": 25,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:2SAqBLGA283SUiwJ3xOUVI"
+}

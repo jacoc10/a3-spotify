@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4wrmR6foH3E5mv5pKtfi49"
+    },
+    "href": "https://api.spotify.com/v1/albums/4wrmR6foH3E5mv5pKtfi49",
+    "id": "4wrmR6foH3E5mv5pKtfi49",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b273c4a69caf5a2b8fc6d2def89c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e02c4a69caf5a2b8fc6d2def89c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00004851c4a69caf5a2b8fc6d2def89c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Water Under the Bridge",
+    "release_date": "2016-11-04",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4wrmR6foH3E5mv5pKtfi49",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        },
+        "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "type": "artist",
+        "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+      },
+      "href": "https://api.spotify.com/v1/artists/4dpARuHxo51G3z768sgnrY",
+      "id": "4dpARuHxo51G3z768sgnrY",
+      "name": "Adele",
+      "type": "artist",
+      "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 240439,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/3rTF4xvF6xKI9WiLg8LFWn"
+  },
+  "href": "https://api.spotify.com/v1/tracks/3rTF4xvF6xKI9WiLg8LFWn",
+  "id": "3rTF4xvF6xKI9WiLg8LFWn",
+  "is_local": false,
+  "name": "Water Under the Bridge",
+  "popularity": 32,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:3rTF4xvF6xKI9WiLg8LFWn"
+}

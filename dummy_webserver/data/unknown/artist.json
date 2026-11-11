@@ -1,0 +1,15 @@
+{
+  "name": "Unknown Artist",
+  "id": "unknown",
+  "images": [],
+  "external_urls": {
+    "spotify": "https://open.spotify.com"
+  },
+  "popularity": 0,
+  "genres": [],
+  "followers": {
+    "total": 0
+  },
+  "type": "artist",
+  "uri": "spotify:artist:unknown"
+}

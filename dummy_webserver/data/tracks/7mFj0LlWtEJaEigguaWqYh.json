@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+    },
+    "href": "https://api.spotify.com/v1/albums/4qw41n8iWrdR70Ui3hYBPv",
+    "id": "4qw41n8iWrdR70Ui3hYBPv",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2731325a9351844f7806a8309c5",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e021325a9351844f7806a8309c5",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048511325a9351844f7806a8309c5",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Sweetest Pie",
+    "release_date": "2022-03-11",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4qw41n8iWrdR70Ui3hYBPv",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+        "id": "181bsRPaVXVlUKXrxwZfHK",
+        "name": "Megan Thee Stallion",
+        "type": "artist",
+        "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+        "id": "6M2wZ9GZgrQXHCFfjv46we",
+        "name": "Dua Lipa",
+        "type": "artist",
+        "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+      },
+      "href": "https://api.spotify.com/v1/artists/181bsRPaVXVlUKXrxwZfHK",
+      "id": "181bsRPaVXVlUKXrxwZfHK",
+      "name": "Megan Thee Stallion",
+      "type": "artist",
+      "uri": "spotify:artist:181bsRPaVXVlUKXrxwZfHK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+      },
+      "href": "https://api.spotify.com/v1/artists/6M2wZ9GZgrQXHCFfjv46we",
+      "id": "6M2wZ9GZgrQXHCFfjv46we",
+      "name": "Dua Lipa",
+      "type": "artist",
+      "uri": "spotify:artist:6M2wZ9GZgrQXHCFfjv46we"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 201334,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+  },
+  "href": "https://api.spotify.com/v1/tracks/7mFj0LlWtEJaEigguaWqYh",
+  "id": "7mFj0LlWtEJaEigguaWqYh",
+  "is_local": false,
+  "name": "Sweetest Pie",
+  "popularity": 21,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:7mFj0LlWtEJaEigguaWqYh"
+}

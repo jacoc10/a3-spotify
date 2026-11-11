@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 12,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/3JUrJP460nFIqwjxM19slT"
+    },
+    "href": "https://api.spotify.com/v1/albums/3JUrJP460nFIqwjxM19slT",
+    "id": "3JUrJP460nFIqwjxM19slT",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27341ded89391c5350f6b8f991c",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0241ded89391c5350f6b8f991c",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485141ded89391c5350f6b8f991c",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Wicked: The Soundtrack",
+    "release_date": "2024-11-22",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:3JUrJP460nFIqwjxM19slT",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/3eLZo1bSslvsu0zNhtmMM4"
+        },
+        "href": "https://api.spotify.com/v1/artists/3eLZo1bSslvsu0zNhtmMM4",
+        "id": "3eLZo1bSslvsu0zNhtmMM4",
+        "name": "Wicked Movie Cast",
+        "type": "artist",
+        "uri": "spotify:artist:3eLZo1bSslvsu0zNhtmMM4"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        },
+        "href": "https://api.spotify.com/v1/artists/46UMQ0cW8ToR8egkBRwAxZ",
+        "id": "46UMQ0cW8ToR8egkBRwAxZ",
+        "name": "Cynthia Erivo",
+        "type": "artist",
+        "uri": "spotify:artist:46UMQ0cW8ToR8egkBRwAxZ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "type": "artist",
+        "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bVjGR347nlhO79Z3i881P"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bVjGR347nlhO79Z3i881P",
+      "id": "0bVjGR347nlhO79Z3i881P",
+      "name": "The Wicked Orchestra",
+      "type": "artist",
+      "uri": "spotify:artist:0bVjGR347nlhO79Z3i881P"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 131863,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/5oUggqlg7zOto1unBbj393"
+  },
+  "href": "https://api.spotify.com/v1/tracks/5oUggqlg7zOto1unBbj393",
+  "id": "5oUggqlg7zOto1unBbj393",
+  "is_local": false,
+  "name": "Ozdust Duet - Bonus Track",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 12,
+  "type": "track",
+  "uri": "spotify:track:5oUggqlg7zOto1unBbj393"
+}

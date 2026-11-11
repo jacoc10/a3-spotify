@@ -1,0 +1,94 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 1,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/4NuKTiNjwcX4ZG7TXEBnYh"
+    },
+    "href": "https://api.spotify.com/v1/albums/4NuKTiNjwcX4ZG7TXEBnYh",
+    "id": "4NuKTiNjwcX4ZG7TXEBnYh",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b27345f1dd5467e00784d9f7d8ae",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e0245f1dd5467e00784d9f7d8ae",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000485145f1dd5467e00784d9f7d8ae",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Malcolm X",
+    "release_date": "2021-06-25",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:4NuKTiNjwcX4ZG7TXEBnYh",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/46DjtOIO96R44TO7QkqXFJ"
+        },
+        "href": "https://api.spotify.com/v1/artists/46DjtOIO96R44TO7QkqXFJ",
+        "id": "46DjtOIO96R44TO7QkqXFJ",
+        "name": "EastSide K-Boy",
+        "type": "artist",
+        "uri": "spotify:artist:46DjtOIO96R44TO7QkqXFJ"
+      },
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name": "Kendrick Lamar",
+        "type": "artist",
+        "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/46DjtOIO96R44TO7QkqXFJ"
+      },
+      "href": "https://api.spotify.com/v1/artists/46DjtOIO96R44TO7QkqXFJ",
+      "id": "46DjtOIO96R44TO7QkqXFJ",
+      "name": "EastSide K-Boy",
+      "type": "artist",
+      "uri": "spotify:artist:46DjtOIO96R44TO7QkqXFJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "name": "Kendrick Lamar",
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 195440,
+  "explicit": true,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6Y2Sdnlpf2Lxb0lh4s81Fb"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6Y2Sdnlpf2Lxb0lh4s81Fb",
+  "id": "6Y2Sdnlpf2Lxb0lh4s81Fb",
+  "is_local": false,
+  "name": "Malcolm X",
+  "popularity": 37,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:6Y2Sdnlpf2Lxb0lh4s81Fb"
+}

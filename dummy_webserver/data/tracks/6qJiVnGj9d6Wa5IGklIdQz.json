@@ -1,0 +1,74 @@
+{
+  "album": {
+    "album_type": "album",
+    "total_tracks": 50,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/5ZewPP4nTMtJTn4krePB2d"
+    },
+    "href": "https://api.spotify.com/v1/albums/5ZewPP4nTMtJTn4krePB2d",
+    "id": "5ZewPP4nTMtJTn4krePB2d",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2732a18a1cd29940db94799c62d",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e022a18a1cd29940db94799c62d",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048512a18a1cd29940db94799c62d",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "+-=÷× (Tour Collection: Live)",
+    "release_date": "2024-12-27",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:5ZewPP4nTMtJTn4krePB2d",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "type": "artist",
+        "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "name": "Ed Sheeran",
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    }
+  ],
+  "disc_number": 2,
+  "duration_ms": 194848,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/6qJiVnGj9d6Wa5IGklIdQz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/6qJiVnGj9d6Wa5IGklIdQz",
+  "id": "6qJiVnGj9d6Wa5IGklIdQz",
+  "is_local": false,
+  "name": "Eyes Closed",
+  "popularity": 43,
+  "preview_url": null,
+  "track_number": 24,
+  "type": "track",
+  "uri": "spotify:track:6qJiVnGj9d6Wa5IGklIdQz"
+}

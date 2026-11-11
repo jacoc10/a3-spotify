@@ -1,0 +1,84 @@
+{
+  "album": {
+    "album_type": "single",
+    "total_tracks": 4,
+    "external_urls": {
+      "spotify": "https://open.spotify.com/album/7Chuv69qWaXuK5eCmZ8gCi"
+    },
+    "href": "https://api.spotify.com/v1/albums/7Chuv69qWaXuK5eCmZ8gCi",
+    "id": "7Chuv69qWaXuK5eCmZ8gCi",
+    "images": [
+      {
+        "url": "https://i.scdn.co/image/ab67616d0000b2737b9881aa297e336c0d4d5cef",
+        "height": 640,
+        "width": 640
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d00001e027b9881aa297e336c0d4d5cef",
+        "height": 300,
+        "width": 300
+      },
+      {
+        "url": "https://i.scdn.co/image/ab67616d000048517b9881aa297e336c0d4d5cef",
+        "height": 64,
+        "width": 64
+      }
+    ],
+    "name": "Six Feet Under (The Remixes)",
+    "release_date": "2017-02-03",
+    "release_date_precision": "day",
+    "type": "album",
+    "uri": "spotify:album:7Chuv69qWaXuK5eCmZ8gCi",
+    "artists": [
+      {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        },
+        "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "type": "artist",
+        "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+      }
+    ],
+    "genres": []
+  },
+  "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "name": "Billie Eilish",
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bI3VA9gVcpoOzrklKgG7V"
+      },
+      "href": "https://api.spotify.com/v1/artists/0bI3VA9gVcpoOzrklKgG7V",
+      "id": "0bI3VA9gVcpoOzrklKgG7V",
+      "name": "BLU J",
+      "type": "artist",
+      "uri": "spotify:artist:0bI3VA9gVcpoOzrklKgG7V"
+    }
+  ],
+  "disc_number": 1,
+  "duration_ms": 215624,
+  "explicit": false,
+  "external_ids": {},
+  "external_urls": {
+    "spotify": "https://open.spotify.com/track/4D5sitThGoz0RnMsFdFUuz"
+  },
+  "href": "https://api.spotify.com/v1/tracks/4D5sitThGoz0RnMsFdFUuz",
+  "id": "4D5sitThGoz0RnMsFdFUuz",
+  "is_local": false,
+  "name": "Six Feet Under - BLU J Remix",
+  "popularity": 27,
+  "preview_url": null,
+  "track_number": 1,
+  "type": "track",
+  "uri": "spotify:track:4D5sitThGoz0RnMsFdFUuz"
+}
