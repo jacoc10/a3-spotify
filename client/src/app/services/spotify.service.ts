@@ -78,7 +78,7 @@ export class SpotifyService {
     //Fetches response from server and creates an array of albums
     return this.sendRequestToExpress('/artist-albums/' + encodeURIComponent(artistId)).then((response) => {
       var albums: AlbumData[] = [];
-      for (let album of response.albums) {albums.push(new AlbumData(album))}
+      for (let album of response.items) {albums.push(new AlbumData(album))}
       return albums;
     });
   }
